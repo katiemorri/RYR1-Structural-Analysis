@@ -1,0 +1,11 @@
+235 c2colB_ Probab=89.22  E-value=0.12  Score=32.95  Aligned_cols=56  Identities=27%  Similarity=0.519  Sum_probs=0.0  Template_Neff=15.638
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhh-hccCHHHHhhhhhhhCCCccccccHHHHHH
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQ-KQFTGPEIQFLLSCSEADENEMINFEEFAN 4130 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesq-K~yt~~Ei~fLlsC~e~d~~~~idy~eF~~ 4130 (5037)
+                      ..|..+|.+.+|.++..++...+... ......+..-++.+...+.++.+++.+|..
+T Consensus         9 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   65 (67)
+T c2colB_           9 EAFRVFDKDGNGYISAAELRHVMTNLGEKLTDEEVDEMIREADIDGDGQVNYEEFVQ   65 (67)
+T ss_pred             HHHHHhCCCCCccccHHHHHHHHHHhcCcCCHHHHHHHHHHhCCCCCCcccHHHHHh
+
+

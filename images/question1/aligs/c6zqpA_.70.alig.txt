@@ -1,0 +1,38 @@
+70 c6zqpA_ Probab=97.30  E-value=0.0003  Score=69.37  Aligned_cols=162  Identities=15%  Similarity=0.167  Sum_probs=0.0  Template_Neff=11.274
+
+Q ss_pred             eeeeeeeee-eeeeec-cceeeeeeccccccccceeeeecccccCCCceeeEEeccccc-
+Q 5GKY_1_Chains_   99 RTLLYGHAI-LLRHAH-SRMYLSCLTTSRSMTDKLAFDVGLQEDATGEACWWTMHPASK-  155 (5037)
+Q Consensus        99 RTLLYGhAI-lLrH~~-S~MYLsCLsTs~S~tDKLaFDVGLQe~~~GEACWWTiHPASK-  155 (5037)
+                      +.+-||..| .|||.. ++-||.--..... ...-.--|-+-... .+-+||+|.|+.. 
+T Consensus         1 ~~v~~gs~v~~l~~~~~~~~~L~s~~~~y~-~~~~~q~v~~~~~~-~~~~~W~i~~~~~~   58 (193)
+T c6zqpA_           1 RDIALGSSVVSIKNQALGGSLLHSHIQTYP-DGSNQQQVTCYGYK-DANNEWFFNRERGL   58 (193)
+T ss_pred             CCcccCceeEEEEEecCCCceeeeccccCC-CCCCceEEEEeeee-CCCceEEEEecCCC
+
+
+Q ss_pred             -----cccccceeeecCcEEEEEeccceeEEee-----eccCceEEEee------eeeee
+Q 5GKY_1_Chains_  156 -----QRSEGEKVRVGDDLILVSVSSERYLHLS-----TASGELQVDAS------FMQTL  199 (5037)
+Q Consensus       156 -----QRSEGEKVRVGDDlILVSVssERYLHls-----~~~g~~~V~AS------F~qTL  199 (5037)
+                           -...|+.|+-||-+-|..+.+.||||..     .+.....|.+-      -....
+T Consensus        59 ~~~~~~~~~~~~v~~gd~i~L~h~~t~~~L~s~~~~~~~~~~~~ev~~~~~~~~~~~~~~  118 (193)
+T c6zqpA_          59 PSWSENETDIEYLKPGTSYRLVHKSTGRNLHTHPVAAPVSKTQWEVSGYGDNVVGDNKDN  118 (193)
+T ss_pred             CCccCCCCCceEecCCCEEEEEecCCCCeeeeCCCCCCCCCCceEEEEecccccCCCCCc
+
+
+Q ss_pred             ecccccccccccc---cccCCcEEeeecCCccceeeeC----ccccccccceeEeecchh
+Q 5GKY_1_Chains_  200 WNMNPICSCCEEG---YVTGGHVLRLFHGHMDECLTIS----AADSDDQRRLVYYEGGAV  252 (5037)
+Q Consensus       200 Wnv~pv~Sg~~~G---yl~Gg~VlRlfHG~~DEcLtIp----~~~~e~~~~~v~YEgGav  252 (5037)
+                      |.|.........+   +...++.+||.|=...-.|...    ..+...++.+.-+..+..
+T Consensus       119 W~v~~~~~~~~~~~~~~~~~~~~~~l~h~~~~~~L~~~~~~~~~~~~~~~ev~~~~~~~~  178 (193)
+T c6zqpA_         119 WVIEIMDQRGDEDPEKLHTLTTSFRIKNLEMGCYLAQTGNSLPEWGFRQQEVVCMKNPFK  178 (193)
+T ss_pred             EEEEEEecCCCCCCCeeEEeCceEEEEEcCCCcEEEEcCccCCCCcCCceEEEEecCCCC
+
+
+Q ss_pred             hhhhhhheeee
+Q 5GKY_1_Chains_  253 CTHARSLWRLE  263 (5037)
+Q Consensus       253 ~s~ARSLWRlE  263 (5037)
+                      .. ...+|++|
+T Consensus       179 ~~-~~~~W~ie  188 (193)
+T c6zqpA_         179 RD-KRTWWNIE  188 (193)
+T ss_pred             CC-CCceEEEE
+
+

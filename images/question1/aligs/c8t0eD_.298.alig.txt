@@ -1,0 +1,32 @@
+298 c8t0eD_ Probab=90.05  E-value=0.79  Score=48.86  Aligned_cols=151  Identities=9%  Similarity=0.137  Sum_probs=0.0  Template_Neff=12.228
+
+Q ss_pred             HHHHHHHHHHHHcccchHHHHHHHHHHHhhhHHHHHHHHHhccch-HHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4790 LYLGWYMVMSLLGHYNNFFFAAHLLDIAMGVKTLRTILSSVTHNG-KQLVMTVGLLAVVV 4848 (5037)
+Q Consensus      4790 LYl~wY~~~S~lG~~nnFFfAaHLLDvamgfktLRtILsSVTHNg-kQlvlTv~Ll~VVV 4848 (5037)
+                      ++..-.......+.++-|+--..++.+...++.+..++..+-... +.++--..++++++
+T Consensus       331 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~  390 (531)
+T c8t0eD_         331 LYFSQRKEYVASMVFSLAMGWTNMLYYTRGFQQMGIYAVMIEKMILRDLCRFMFVYLVFL  390 (531)
+T ss_dssp             HHTTTCTHHHHHHHHHHHHHHHGGGGGGTTSHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHhcchHHHHHHHHHHHHHHHHHHHHHHHHhhhcchHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHhhccccCCCCccchhhhHHHHHHHHHhhhhcCCccccccCCCCCCc
+Q 5GKY_1_Chains_ 4849 YLYTVVAFNFFRKFYNKSEDEDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIEDPAGDE 4908 (5037)
+Q Consensus      4849 YLYTVvAFNFFRKFY~k~ed~depD~KC~dM~TCy~fHmY~GVRAGGGIGDEIEdP~GDe 4908 (5037)
+                      +.|.+..+-+|            .+..-.++.++++.-+..=+     -.++.++....+
+T Consensus       391 ~~f~~~~~~~~------------~~~~~~~~~~~~~~~~~~~~-----g~~~~~~~~~~~  433 (531)
+T c8t0eD_         391 FGFSTAVVTLI------------EDGKYNSLYSTCLELFKFTI-----GMGDLEFTENYD  433 (531)
+T ss_dssp             HHHHHHHHHHC------------CSSTTCSHHHHHHHHHHHHT-----TCCCSCSCCCSS
+T ss_pred             HHHHHHHHHHh------------cccccCcHHHHHHHHHHHHh-----cccchhhhhccc
+
+
+Q ss_pred             chhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHHHHHhhhcc
+Q 5GKY_1_Chains_ 4909 YELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQVKEDMETK 4957 (5037)
+Q Consensus      4909 yE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEqvkEdmEtk 4957 (5037)
+                      +...-.++=++|-|++.+||+=++-|++.|+|.++++.-+........+
+T Consensus       434 ~~~~~~~~~~~~~~~~~~~llN~lia~~~~~~~~~~~~~~~~~~~~~~~  482 (531)
+T c8t0eD_         434 FKAVFIILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAI  482 (531)
+T ss_dssp             CHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHCHHHHHHHHHHHHHH
+T ss_pred             ccHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+

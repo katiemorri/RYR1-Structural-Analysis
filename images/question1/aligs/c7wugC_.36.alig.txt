@@ -1,0 +1,32 @@
+36 c7wugC_ Probab=99.24  E-value=1.8e-13  Score=159.32  Aligned_cols=139  Identities=24%  Similarity=0.470  Sum_probs=0.0  Template_Neff=9.714
+
+Q ss_pred             cceeeec---CeeEEEEEeec------ccceeeeeeCCCC-CCccccCcccceeeecchh
+Q 5GKY_1_Chains_ 1079 KSYTVQS---GRWYFEFEAVT------TGEMRVGWARPEL-RPDVELGADELAYVFNGHR 1128 (5037)
+Q Consensus      1079 ktYAV~~---GKWYFEFE~vT------~G~MRVGWarp~~-~pd~eLGsDd~sy~FdG~~ 1128 (5037)
+                      .+..|..   |.||||+++++      .|.+.|||+.... ......|.+..+|++.|..
+T Consensus       116 a~~~i~~~~~~~~Y~Ev~i~~~~~~~~~~~i~iG~~~~~~~~~~~~~g~~~~s~gy~~~~  175 (402)
+T c7wugC_         116 ANKSLPDNKLTIFYYEIKVLSVTESAENSNIVIGYKLVESINKCQKYGFDLNVFGYCGFD  175 (402)
+T ss_dssp             BSSCBCTTSCSEEEEEEEEEECSSSTTCCCEEEEEEESSCHHHHHHHSCCTTEEEEETTT
+T ss_pred             eCCCcCCCCCceEEEEEEEeeCCcCCCCCcEEEEEEcCCcccccCCCCCCCCEEEEEcCC
+
+
+Q ss_pred             hhhhccCCCccccccccCCEEEEEEeccCceEEEEEcceEEEcCCCceeeecceeccCcc
+Q 5GKY_1_Chains_ 1129 GQRWHLGSEPFGRPWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEIGDGF 1188 (5037)
+Q Consensus      1129 ~~kwH~G~e~fGr~Wq~GDVVGCmiDl~d~tisFtLNGElL~d~~GsE~AF~di~~gdGf 1188 (5037)
+                      +..||  ...||.+|..||||||.||+.+++|.||.||..+-      .||+++.. ..+
+T Consensus       176 g~~~~--~~~~~~~f~~gDviGcgi~~~~~~ifft~NG~~lg------~~~~~~~~-~~~  226 (402)
+T c7wugC_         176 GLITN--SKEYAKPFGRDDVIGCGINFIDGSIFFTKNGIHLG------NAFTDLND-LEF  226 (402)
+T ss_dssp             TEETT--SSSCCCCCCSSCEEEEEEETTTTEEEEEETTEEEE------EEECCCCS-CCE
+T ss_pred             CEEEc--CccCCCceeCCceEEEEEEcCCCEEEEEECCEEee------eeeecCCC-CeE
+
+
+Q ss_pred             eeeeeeCccceeeeeccccchhhHHHHhhhhccCCcceeeecCCCccccccccC
+Q 5GKY_1_Chains_ 1189 LPVCSLGPGQVGHLNLGQDVSSLRFFAICGLQEGFEPFAINMQRPVTTWFSKSL 1242 (5037)
+Q Consensus      1189 vPvcsLG~gQ~gRlNlGqDvsslkyFT~CGLQEGyEPF~VNM~R~~tmW~sK~l 1242 (5037)
+                      .|++++..|+..+.|||+.                +||.-+..--+..|-.+..
+T Consensus       227 ~P~v~~~~~~~v~~nfG~~----------------~~f~fdi~~~~~~~~~~~~  264 (402)
+T c7wugC_         227 VPYVALRPGNSIKTNFGLN----------------EDFVFDIIGYQDKWKSLAY  264 (402)
+T ss_dssp             EEEEEECTTCEEEEECSSS----------------SCCSSCHHHHHHHHHHHHH
+T ss_pred             EEEEEecCCCEEEEECCcC----------------CCCccCHHHHHHHHHHHHH
+
+

@@ -1,0 +1,32 @@
+82 c8fd7B_ Probab=90.54  E-value=0.23  Score=60.65  Aligned_cols=147  Identities=16%  Similarity=0.261  Sum_probs=0.0  Template_Neff=11.544
+
+Q ss_pred             HHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhcc
+Q 5GKY_1_Chains_ 4807 FFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTVVAFNFFRKFYNKS 4866 (5037)
+Q Consensus      4807 FFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVYLYTVvAFNFFRKFY~k~ 4866 (5037)
+                      ++-...++-+...+++||.++.++..-.+.+.-..+++.+++|+|.+++...|.+.....
+T Consensus       990 ~~~~~r~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~a~~~~~~f~~~~~~~ 1049 (1270)
+T c8fd7B_         990 LFRVMRLVKLLSRGEGIRTLLWTFIKSFQALPYVALLIVMLFFIYAVIGMQVFGKIALND 1049 (1270)
+T ss_dssp             HHHHHGGGHHHHHCSHHHHHHHHHHTCCSSHHHHHHHHHHHHHHHHHHHHHHSCSCCCCS
+T ss_pred             HHHHHHHHHHHHhhhhHHHHHHHHHHHHHHHhHHHHHHHHHHHHHHHHHHHhccccccCC
+
+
+Q ss_pred             ccCCCCccchhhhHHHH--HHHHHhhh--------------hcCCccccccCCCCCCcch
+Q 5GKY_1_Chains_ 4867 EDEDEPDMKCDDMMTCY--LFHMYVGV--------------RAGGGIGDEIEDPAGDEYE 4910 (5037)
+Q Consensus      4867 ed~depD~KC~dM~TCy--~fHmY~GV--------------RAGGGIGDEIEdP~GDeyE 4910 (5037)
+                      .++..+...-++...-+  +|.+-.|-              ...+...+--....++...
+T Consensus      1050 ~~~~~~~~~f~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1109 (1270)
+T c8fd7B_        1050 TTEINRNNNFQTFPQAVLLLFRCATGEAWQDIMLACMPGKKCAPESEPSNSTEGETPCGS 1109 (1270)
+T ss_dssp             SSSCCSSSCSSSHHHHHHHHHHHHHTSSHHHHHHHSSSSCCCCTTSSCTTCTTSSCTTCC
+T ss_pred             CcccCCccccccHHHHHHHHHHHhcCCcHHHHHHHHccCCCCCCcccCCCCCCCCCCCCc
+
+
+Q ss_pred             hhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHHHHHh
+Q 5GKY_1_Chains_ 4911 LYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQVKED 4953 (5037)
+Q Consensus      4911 ~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEqvkEd 4953 (5037)
+                      .+-.+|=++|.+++..|++.+.-|.|+|+|.++.++.+...++
+T Consensus      1110 ~~~~~~~~~~~~~~~~~~~n~~~~~~~~~~~~~~~~~~~~~~~ 1152 (1270)
+T c8fd7B_        1110 SFAVFYFISFYMLCAFLIINLFVAVIMDNFDYLTRDWSILGPH 1152 (1270)
+T ss_dssp             TTHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTSCHHHHCHH
+T ss_pred             hHHHHHHHHHHHHHHHHHHHHhHhhhhhhhhhhccccccCCHH
+
+

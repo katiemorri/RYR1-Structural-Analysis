@@ -1,0 +1,250 @@
+21/10/2025 22:34:33 : INFO  : Run start: Tue 21 Oct 22:34:33 BST 2025
+21/10/2025 22:34:33 : INFO  : Log file initialised as /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/phyre2_20251021_223433.log
+21/10/2025 22:34:33 : INFO  : Setting phyre2_mode to phyre2.2 from d93b978a3eaf5ed7.job file
+21/10/2025 22:34:33 : INFO  : Setting up to run Phyre2.2
+21/10/2025 22:34:33 : INFO  : Initialised job
+21/10/2025 22:34:33 : INFO  : Initialised job:
+Sequence
+>5GKY_1_Chains_A_C_E_G_Ryanodine_receptor_1_Oryctolagus_cuniculus_9986_
+MGDGGEGEDEVQFLRTDDEVVLQCSATVLKEQLKLCLAAEGFGNRLCFLEPTSNAQNVPP
+DLAICCFTLEQSLSVRALQEMLANTVEAGVESSQGGGHRTLLYGHAILLRHAHSRMYLSC
+LTTSRSMTDKLAFDVGLQEDATGEACWWTMHPASKQRSEGEKVRVGDDLILVSVSSERYL
+HLSTASGELQVDASFMQTLWNMNPICSCCEEGYVTGGHVLRLFHGHMDECLTISAADSDD
+QRRLVYYEGGAVCTHARSLWRLEPLRISWSGSHLRWGQPLRIRHVTTGRYLALTEDQGLV
+VVDACKAHTKATSFCFRVSKEKLDTAPKRDVEGMGPPEIKYGESLCFVQHVASGLWLTYA
+APDPKALRLGVLKKKAILHQEGHMDDALFLTRCQQEESQAARMIHSTAGLYNQFIKGLDS
+FSGKPRGSGPPAGPALPIEAVILSLQDLIGYFEPPSEELQHEEKQSKLRSLRNRQSLFQE
+EGMLSLVLNCIDRLNVYTTAAHFAEYAGEEAAESWKEIVNLLYELLASLIRGNRANCALF
+STNLDWVVSKLDRLEASSGILEVLYCVLIESPEVLNIIQENHIKSIISLLDKHGRNHKVL
+DVLCSLCVCNGVAVRSNQDLITENLLPGRELLLQTNLINYVTSIRPNIFVGRAEGSTQYG
+KWYFEVMVDEVVPFLTAQATHLRVGWALTEGYSPYPGGGEGWGGNGVGDDLYSYGFDGLH
+LWTGHVARPVTSPGQHLLAPEDVVSCCLDLSVPSISFRINGCPVQGVFEAFNLDGLFFPV
+VSFSAGVKVRFLLGGRHGEFKFLPPPGYAPCHEAVLPRERLRLEPIKEYRREGPRGPHLV
+GPSRCLSHTDFVPCPVDTVQIVLPPHLERIREKLAENIHELWALTRIEQGWTYGPVRDDN
+KRLHPCLVNFHSLPEPERNYNLQMSGETLKTLLALGCHVGMADEKAEDNLKKTKLPKTYM
+MSNGYKPAPLDLSHVRLTPAQTTLVDRLAENGHNVWARDRVAQGWSYSAVQDIPARRNPR
+LVPYRLLDEATKRSNRDSLCQAVRTLLGYGYNIEPPDQEPSQVENQSRWDRVRIFRAEKS
+YTVQSGRWYFEFEAVTTGEMRVGWARPELRPDVELGADELAYVFNGHRGQRWHLGSEPFG
+RPWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEIGDGFLPVCSLGPGQVG
+HLNLGQDVSSLRFFAICGLQEGFEPFAINMQRPVTTWFSKSLPQFEPVPPEHPHYEVARM
+DGTVDTPPCLRLAHRTWGSQNSLVEMLFLRLSLPVQFHQHFRCTAGATPLAPPGLQPPAE
+DEARAAEPDPDYENLRRSAGGWGEAEGGKEGTAKEGTPGGTPQPGVEAQPVRAENEKDAT
+TEKNKKRGFLFKAKKAAMMTQPPATPALPRLPHDVVPADNRDDPEIILNTTTYYYSVRVF
+AGQEPSCVWVGWVTPDYHQHDMNFDLSKVRAVTVTMGDEQGNVHSSLKCSNCYMVWGGDF
+VSPGQQGRISHTDLVIGCLVDLATGLMTFTANGKESNTFFQVEPNTKLFPAVFVLPTHQN
+VIQFELGKQKNIMPLSAAMFLSERKNPAPQCPPRLEVQMLMPVSWSRMPNHFLQVETRRA
+GERLGWAVQCQDPLTMMALHIPEENRCMDILELSERLDLQRFHSHTLRLYRAVCALGNNR
+VAHALCSHVDQAQLLHALEDAHLPGPLRAGYYDLLISIHLESACRSRRSMLSEYIVPLTP
+ETRAITLFPPGRKGGNARRHGLPGVGVTTSLRPPHHFSPPCFVAALPAAGVAEAPARLSP
+AIPLEALRDKALRMLGEAVRDGGQHARDPVGGSVEFQFVPVLKLVSTLLVMGIFGDEDVK
+QILKMIEPEVFTEEEEEEEEEEEEEEEEEEDEEEKEEDEEEEEKEDAEKEEEEAPEGEKE
+DLEEGLLQMKLPESVKLQMCNLLEYFCDQELQHRVESLAAFAERYVDKLQANQRSRYALL
+MRAFTMSAAETARRTREFRSPPQEQINMLLHFKDEADEEDCPLPEDIRQDLQDFHQDLLA
+HCGIQLEGEEEEPEEETSLSSRLRSLLETVRLVKKKEEKPEEELPAEEKKPQSLQELVSH
+MVVRWAQEDYVQSPELVRAMFSLLHRQYDGLGELLRALPRAYTISPSSVEDTMSLLECLG
+QIRSLLIVQMGPQEENLMIQSIGNIMNNKVFYQHPNLMRALGMHETVMEVMVNVLGGGET
+KEIRFPKMVTSCCRFLCYFCRISRQNQRSMFDHLSYLLENSGIGLGMQGSTPLDVAAASV
+IDNNELALALQEQDLEKVVSYLAGCGLQSCPMLLAKGYPDIGWNPCGGERYLDFLRFAVF
+VNGESVEENANVVVRLLIRKPECFGPALRGEGGSGLLAAIEEAIRISEDPARDGPGVRRD
+RRREHFGEEPPEENRVHLGHAIMSFYAALIDLLGRCAPEMHLIQAGKGEALRIRAILRSL
+VPLDDLVGIISLPLQIPTLGKDGALVQPKMSASFVPDHKASMVLFLDRVYGIENQDFLLH
+VLDVGFLPDMRAAASLDTATFSTTEMALALNRYLCLAVLPLITKCAPLFAGTEHRAIMVD
+SMLHTVYRLSRGRSLTKAQRDVIEDCLMALCRYIRPSMLQHLLRRLVFDVPILNEFAKMP
+LKLLTNHYERCWKYYCLPTGWANFGVTSEEELHLTRKLFWGIFDSLAHKKYDQELYRMAM
+PCLCAIAGALPPDYVDASYSSKAEKKATVDAEGNFDPRPVETLNVIIPEKLDSFINKFAE
+YTHEKWAFDKIQNNWSYGENVDEELKTHPMLRPYKTFSEKDKEIYRWPIKESLKAMIAWE
+WTIEKAREGEEERTEKKKTRKISQTAQTYDPREGYNPQPPDLSGVTLSRELQAMAEQLAE
+NYHNTWGRKKKQELEAKGGGTHPLLVPYDTLTAKEKARDREKAQELLKFLQMNGYAVTRG
+LKDMELDTSSIEKRFAFGFLQQLLRWMDISQEFIAHLEAVVSSGRVEKSPHEQEIKFFAK
+ILLPLINQYFTNHCLYFLSTPAKVLGSGGHASNKEKEMITSLFCKLAALVRHRVSLFGTD
+APAVVNCLHILARSLDARTVMKSGPEIVKAGLRSFFESASEDIEKMVENLRLGKVSQART
+QVKGVGQNLTYTTVALLPVLTTLFQHIAQHQFGDDVILDDVQVSCYRTLCSIYSLGTTKN
+TYVEKLRPALGECLARLAAAMPVAFLEPQLNEYNACSVYTTKSPRERAILGLPNSVEEMC
+PDIPVLDRLMADIGGLAESGARYTEMPHVIEITLPMLCSYLPRWWERGPEAPPPALPAGA
+PPPCTAVTSDHLNSLLGNILRIIVNNLGIDEATWMKRLAVFAQPIVSRARPELLHSHFIP
+TIGRLRKRAGKVVAEEEQLRLEAKAEAEEGELLVRDEFSVLCRDLYALYPLLIRYVDNNR
+AHWLTEPNANAEELFRMVGEIFIYWSKSHNFKREEQNFVVQNEINNMSFLTADSKSKMAK
+AGDAQSGGSDQERTKKKRRGDRYSVQTSLIVATLKKMLPIGLNMCAPTDQDLIMLAKTRY
+ALKDTDEEVREFLQNNLHLQGKVEGSPSLRWQMALYRGLPGREEDADDPEKIVRRVQEVS
+AVLYHLEQTEHPYKSKKAVWHKLLSKQRRRAVVACFRMTPLYNLPTHRACNMFLESYKAA
+WILTEDHSFEDRMIDDLSKAGEQEEEEEEVEEKKPDPLHQLVLHFSRTALTEKSKLDEDY
+LYMAYADIMAKSCHLEEGGENGEAEEEEVEVSFEEKEMEKQRLLYQQSRLHTRGAAEMVL
+QMISACKGETGAMVSSTLKLGISILNGGNAEVQQKMLDYLKDKKEVGFFQSIQALMQTCS
+VLDLNAFERQNKAEGLGMVNEDGTVINRQNGEKVMADDEFTQDLFRFLQLLCEGHNNDFQ
+NYLRTQTGNTTTINIIICTVDYLLRLQESISDFYWYYSGKDVIEEQGKRNFSKAMSVAKQ
+VFNSLTEYIQGPCTGNQQSLAHSRLWDAVVGFLHVFAHMMMKLAQDSSQIELLKELLDLQ
+KDMVVMLLSLLEGNVVNGMIARQMVDMLVESSSNVEMILKFFDMFLKLKDIVGSEAFQDY
+VTDPRGLISKKDFQKAMDSQKQFTGPEIQFLLSCSEADENEMINFEEFANRFQEPARDIG
+FNVAVLLTNLSEHVPHDPRLRNFLELAESILEYFRPYLGRIEIMGASRRIERIYFEISET
+NRAQWEMPQVKESKRQFIFDVVNEGGEAEKMELFVSFCEDTIFEMQIAAQISEPEGEPEA
+DEDEGMGEAAAEGAEEGAAGAEGAAGTVAAGATARLAAAAARALRGLSYRSLRRRVRRLR
+RLTAREAATALAALLWAVVARAGAAGAGAAAGALRLLWGSLFGGGLVEGAKKVTVTELLA
+GMPDPTSDEVHGEQPAGPGGDADGAGEGEGEGDAAEGDGDEEVAGHEAGPGGAEGVVAVA
+DGGPFRPEGAGGLGDMGDTTPAEPPTPEGSPILKRKLGVDGEEEELVPEPEPEPEPEPEK
+ADEENGEKEEVPEAPPEPPKKAPPSPPAKKEEAGGAGMEFWGELEVQRVKFLNYLSRNFY
+TLRFLALFLAFAINFILLFYKVSDSPPGEDDMEGSAAGDLAGAGSGGGSGWGSGAGEEAE
+GDEDENMVYYFLEESTGYMEPALWCLSLLHTLVAFLCIIGYNCLKVPLVIFKREKELARK
+LEFDGLYITEQPGDDDVKGQWDRLVLNTPSFPSNYWDKFVKRKVLDKHGDIFGRERIAEL
+LGMDLASLEITAHNERKPDPPPGLLTWLMSIDVKYQIWKFGVIFTDNSFLYLGWYMVMSL
+LGHYNNFFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTVVAFNFFR
+KFYNKSEDEDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIEDPAGDEYELYRVVFDITF
+FFFVIVILLAIIQGLIIDAFGELRDQQEQVKEDMETKCFICGIGSDYFDTTPHGFETHTL
+EEHNLANYMFFLMYLINKDETEHTGQESYVWKMYQERCWDFFPAGDCFRKQYEDQLS
+
+21/10/2025 22:34:33 : INFO  : Email: katiecmorrison@gmail.com
+21/10/2025 22:34:33 : INFO  : Checked sequence
+21/10/2025 22:34:33 : INFO  : Running Phyre2.2
+21/10/2025 22:34:33 : INFO  : Test mode is not set:
+21/10/2025 22:34:33 : INFO  : Finding homologues with PSI-BLAST
+21/10/2025 22:34:33 : INFO  : PSI-BLAST 3 iterations
+21/10/2025 22:46:19 : INFO  : PSI-BLAST 5 iterations
+21/10/2025 23:04:11 : INFO  : Finished PSI-BLAST
+21/10/2025 23:04:11 : INFO  : Running Buildali to generate a3m file (plain)
+21/10/2025 23:19:22 : INFO  : Converting to HMM
+21/10/2025 23:19:24 : INFO  : Calibrating HMM
+21/10/2025 23:20:05 : INFO  : Searching HMM database
+21/10/2025 23:20:05 : INFO  : using hhblits version 3.3.0 with updated fold library
+21/10/2025 23:22:16 : INFO  : new new re-sorting program
+21/10/2025 23:22:16 : INFO  : Finished buildali
+21/10/2025 23:22:16 : INFO  : Predicting secondary structure
+21/10/2025 23:22:16 : INFO  : 2: phyre2.2 running psipred35
+21/10/2025 23:22:17 : INFO  : Predicted secondary structure (PSI-Pred)
+21/10/2025 23:22:17 : INFO  : Predicting Disordered regions
+21/10/2025 23:22:17 : INFO  : 3: phyre2.2 running psipred35
+21/10/2025 23:22:17 : INFO  : Predicted Disorder (Disopred)
+21/10/2025 23:22:17 : INFO  : Running memsat_svm check
+21/10/2025 23:22:17 : INFO  : Exitval for mkdir: 
+21/10/2025 23:25:23 : INFO  : Running memsat_svm full
+21/10/2025 23:34:30 : INFO  : Predicted Transmembrane (memsat_svm) ID 'd93b978a3eaf5ed7'
+21/10/2025 23:34:30 : INFO  : Initialising fold library search
+21/10/2025 23:34:31 : INFO  : Initialised search input
+21/10/2025 23:34:31 : INFO  : Building Ensemble models (normal)
+21/10/2025 23:34:31 : INFO  : Building c8vjkA_.1.pdb
+21/10/2025 23:34:31 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:34:31 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:34:34 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c8vjkA_.1.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c8vjkA_.1.pdb 
+21/10/2025 23:34:34 : INFO  : Building c8vjkH_.2.pdb
+21/10/2025 23:34:34 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:34:34 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:34:38 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c8vjkH_.2.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c8vjkH_.2.pdb 
+21/10/2025 23:34:38 : INFO  : Building c9c1eB_.3.pdb
+21/10/2025 23:34:38 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:34:38 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:34:41 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c9c1eB_.3.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c9c1eB_.3.pdb 
+21/10/2025 23:34:41 : INFO  : Building c8tk8D_.4.pdb
+21/10/2025 23:34:41 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:34:41 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:34:44 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c8tk8D_.4.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c8tk8D_.4.pdb 
+21/10/2025 23:34:45 : INFO  : Building c8tk8A_.5.pdb
+21/10/2025 23:34:45 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:34:45 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:34:49 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c8tk8A_.5.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c8tk8A_.5.pdb 
+21/10/2025 23:34:49 : INFO  : Building c6mu2A_.6.pdb
+21/10/2025 23:34:49 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:34:49 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:34:52 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c6mu2A_.6.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c6mu2A_.6.pdb 
+21/10/2025 23:34:52 : INFO  : Building c6uqkA_.7.pdb
+21/10/2025 23:34:52 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:34:52 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:34:55 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c6uqkA_.7.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c6uqkA_.7.pdb 
+21/10/2025 23:34:55 : INFO  : Building c4jkqA_.8.pdb
+21/10/2025 23:34:55 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:34:55 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:34:56 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c4jkqA_.8.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c4jkqA_.8.pdb 
+21/10/2025 23:34:56 : INFO  : Building c5xa0A_.9.pdb
+21/10/2025 23:34:56 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:34:56 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:34:58 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c5xa0A_.9.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c5xa0A_.9.pdb 
+21/10/2025 23:34:58 : INFO  : Building c5xa0B_.10.pdb
+21/10/2025 23:34:58 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:34:58 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:00 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c5xa0B_.10.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c5xa0B_.10.pdb 
+21/10/2025 23:35:00 : INFO  : Building c5xa1A_.11.pdb
+21/10/2025 23:35:00 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:35:00 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:02 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c5xa1A_.11.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c5xa1A_.11.pdb 
+21/10/2025 23:35:02 : INFO  : Building c5c30A_.12.pdb
+21/10/2025 23:35:02 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:35:02 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:04 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c5c30A_.12.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c5c30A_.12.pdb 
+21/10/2025 23:35:04 : INFO  : Building c4p9jA_.13.pdb
+21/10/2025 23:35:04 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:35:04 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:05 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c4p9jA_.13.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c4p9jA_.13.pdb 
+21/10/2025 23:35:05 : INFO  : Building c6uheC_.14.pdb
+21/10/2025 23:35:05 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:35:05 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:07 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c6uheC_.14.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c6uheC_.14.pdb 
+21/10/2025 23:35:07 : INFO  : Building c6uhaA_.15.pdb
+21/10/2025 23:35:07 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:35:07 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:08 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c6uhaA_.15.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c6uhaA_.15.pdb 
+21/10/2025 23:35:08 : INFO  : Building c5c33A_.16.pdb
+21/10/2025 23:35:08 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:35:08 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:10 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c5c33A_.16.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c5c33A_.16.pdb 
+21/10/2025 23:35:10 : INFO  : Building c4p9iA_.17.pdb
+21/10/2025 23:35:10 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:35:10 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:11 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c4p9iA_.17.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c4p9iA_.17.pdb 
+21/10/2025 23:35:11 : INFO  : Building c6lt9A_.18.pdb
+21/10/2025 23:35:11 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:35:11 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:13 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c6lt9A_.18.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c6lt9A_.18.pdb 
+21/10/2025 23:35:13 : INFO  : Building c3uj4B_.19.pdb
+21/10/2025 23:35:13 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:35:13 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:14 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c3uj4B_.19.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c3uj4B_.19.pdb 
+21/10/2025 23:35:14 : INFO  : Building c3uj0A_.20.pdb
+21/10/2025 23:35:14 : INFO  : 5: using code for HHblits fold library
+21/10/2025 23:35:14 : INFO  :    using newpreparealign3.pl
+21/10/2025 23:35:16 : INFO  : Ran /bmm/www/servers/phyre2/bin//phyre2/newpreparealign3.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c3uj0A_.20.fasta > /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/c3uj0A_.20.pdb 
+21/10/2025 23:35:16 : INFO  : Finished HH model building (normal)
+21/10/2025 23:36:14 : INFO  : Loop modelling
+21/10/2025 23:36:14 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:36:14 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.1.log
+21/10/2025 23:36:14 : WARN  : (1265) Failed to run assembler on model - command was
+21/10/2025 23:36:14 : WARN  : (1265) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_uber.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop_uber.log
+21/10/2025 23:38:09 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:38:09 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.2.log
+21/10/2025 23:40:14 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:40:14 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.3.log
+21/10/2025 23:42:04 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:42:04 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.4.log
+21/10/2025 23:43:04 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:43:04 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.5.log
+21/10/2025 23:44:02 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:44:02 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.6.log
+21/10/2025 23:44:54 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:44:54 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.7.log
+21/10/2025 23:45:36 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:45:36 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.8.log
+21/10/2025 23:45:45 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:45:45 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.9.log
+21/10/2025 23:46:08 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:46:08 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.10.log
+21/10/2025 23:46:30 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:46:30 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.11.log
+21/10/2025 23:46:54 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:46:54 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.12.log
+21/10/2025 23:46:57 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:46:57 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.13.log
+21/10/2025 23:47:01 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:47:01 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.14.log
+21/10/2025 23:47:05 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:47:05 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.15.log
+21/10/2025 23:47:09 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:47:09 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.16.log
+21/10/2025 23:47:12 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:47:12 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.17.log
+21/10/2025 23:47:15 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:47:15 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.18.log
+21/10/2025 23:47:18 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:47:18 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.19.log
+21/10/2025 23:47:32 : WARN  : (1245) Failed to run assembler on model - command was
+21/10/2025 23:47:32 : WARN  : (1245) cd /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7; /bmm/www/servers/phyre2/bin/sbg-new/src/assembler.loop -c ~phyre2/bin/loop_local.config -f /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/input.fasta -pssm /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/assembler.pssm -log model.loop.20.log
+21/10/2025 23:47:42 : INFO  : Running genhtml-harry.pl
+22/10/2025 00:00:47 : INFO  : Finished genhtml-harry.pl
+22/10/2025 00:00:47 : INFO  : Running genalightml-harry.pl - Phyre2.2
+22/10/2025 01:00:17 : INFO  : finished genalightml-harry.pl - Phyre2.2
+22/10/2025 01:00:17 : INFO  : Creating zip file of results

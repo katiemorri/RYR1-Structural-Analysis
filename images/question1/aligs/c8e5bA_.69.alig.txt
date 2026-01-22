@@ -1,0 +1,42 @@
+69 c8e5bA_ Probab=92.08  E-value=0.25  Score=59.98  Aligned_cols=161  Identities=16%  Similarity=0.270  Sum_probs=0.0  Template_Neff=11.664
+
+Q ss_pred             HHHHHHHHHHHHcccchHHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4790 LYLGWYMVMSLLGHYNNFFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVY 4849 (5037)
+Q Consensus      4790 LYl~wY~~~S~lG~~nnFFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVY 4849 (5037)
+                      +-.+.-.+++..-....+|-..+++-+.--++++|.++.++.+--+.++-.+.++.+++|
+T Consensus       944 ~~~~~~~~~~~~~~~~~~~~~~r~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1003 (1230)
+T c8e5bA_         944 IGSIIDVALSESITFFRLFRVMRLVKLLSRGEGIRTLLWTFIKSFQALPYVALLIAMLFF 1003 (1230)
+T ss_dssp             HHHHTSSGGGSSHHHHHGGGGGGGGGGGGGSTTHHHHHHHHHHHHHHCHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHhhhHHHHHHHHHHHHHHHHhhhhhHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHHhhccccCCCCccchhhhHHHH--HHHHHhh---------------hh
+Q 5GKY_1_Chains_ 4850 LYTVVAFNFFRKFYNKSEDEDEPDMKCDDMMTCY--LFHMYVG---------------VR 4892 (5037)
+Q Consensus      4850 LYTVvAFNFFRKFY~k~ed~depD~KC~dM~TCy--~fHmY~G---------------VR 4892 (5037)
+                      +|.+++.++|........+...+...-++...-+  +|.+-.|               ..
+T Consensus      1004 ~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1063 (1230)
+T c8e5bA_        1004 IYAVIGMQMFGKVAMRDNNQINRNNNFQTFPQAVLLLFRCATGEAWQEIMLACLPGKLCD 1063 (1230)
+T ss_dssp             HHHHHHHHHHTTB--CSSSSSBTTBCSSSHHHHHHHHHHHHHTSSHHHHHHHTSSSC-B-
+T ss_pred             HHHHHHHHHhccccccCCCCCCCCcccccHHHHHHHHHHHHccCcHHHHHHHHhcCCCCC
+
+
+Q ss_pred             cCCccccccCCCCCCcchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHHHHH
+Q 5GKY_1_Chains_ 4893 AGGGIGDEIEDPAGDEYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQVKE 4952 (5037)
+Q Consensus      4893 AGGGIGDEIEdP~GDeyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEqvkE 4952 (5037)
+                      -+.+....-....|.   .+-.+|=++|.+++..|++.++-|.|+|+|.+..++.+..++
+T Consensus      1064 ~~~~~~~~~~~~~~~---~~~~~~~~~~~~~~~~~~~n~~~~~~~~~~~~~~~~~~~~~~ 1120 (1230)
+T c8e5bA_        1064 PESDYNPGEEYTCGS---NFAIVYFISFYMLCAFLIINLFVAVIMDNFDYLTRDWSILGP 1120 (1230)
+T ss_dssp             TTSC--TTCCSCCCC---THHHHHHHHHHHHHHHHHHHHHHHHHHHTCTGGGCCTTTCCH
+T ss_pred             CccCCCCCcCCCcCc---hHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhcccccCCH
+
+
+Q ss_pred             h
+Q 5GKY_1_Chains_ 4953 D 4953 (5037)
+Q Consensus      4953 d 4953 (5037)
+                      +
+T Consensus      1121 ~ 1121 (1230)
+T c8e5bA_        1121 H 1121 (1230)
+T ss_dssp             H
+T ss_pred             H
+
+

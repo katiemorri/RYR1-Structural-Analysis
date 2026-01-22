@@ -1,0 +1,32 @@
+21 c6kimA_ Probab=99.80  E-value=3.6e-20  Score=182.03  Aligned_cols=171  Identities=51%  Similarity=1.026  Sum_probs=0.0  Template_Neff=11.953
+
+Q ss_pred             cccccceeeeeccceeeecCeeEEEEEeecccceeeeeeCCCCCCccccCcccceeeecc
+Q 5GKY_1_Chains_ 1067 SRWDRVRIFRAEKSYTVQSGRWYFEFEAVTTGEMRVGWARPELRPDVELGADELAYVFNG 1126 (5037)
+Q Consensus      1067 ~~~~~~R~fR~EktYAV~~GKWYFEFE~vT~G~MRVGWarp~~~pd~eLGsDd~sy~FdG 1126 (5037)
+                      +.....+..|+++++++.+|+||||+++...|.++|||+.+...++..+|.+..+|+|.+
+T Consensus         1 ~~~~~~~~~~~~~~~~~~~g~~y~e~~~~~~~~~~~G~~~~~~~~~~~~~~~~~~~~~~~   60 (173)
+T c6kimA_           1 SNAADFRTYRAEKNYAVNSGKWYFEFEILTAGPMRVGWAHADMPPGMMLGQDENSWAFDG   60 (173)
+T ss_dssp             CCSSCEEEEECCGGGCBSSSEEEEEEEECSSSCEEEEEEETTS-TT--TTSSTTEEEEET
+T ss_pred             CCCCcceEEEeCCCccccCCEEEEEEEEEeCCCEEEEEEcCCCCCCCcCCCCCCEEEEEC
+
+
+Q ss_pred             hhhhhhccCC-CccccccccCCEEEEEEeccCceEEEEEcceEEEcCCCceeeecceecc
+Q 5GKY_1_Chains_ 1127 HRGQRWHLGS-EPFGRPWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEIG 1185 (5037)
+Q Consensus      1127 ~~~~kwH~G~-e~fGr~Wq~GDVVGCmiDl~d~tisFtLNGElL~d~~GsE~AF~di~~g 1185 (5037)
+                      ..+..+|.+. ..+|..|..||+|||.+|+.+.++.|..||..+.++.+...++.++ .+
+T Consensus        61 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~n~~~~~~~~~~~~~~~~~-~~  119 (173)
+T c6kimA_          61 YNEEKVYVNSSESFGKQWAVGDVVGVFLDLIDNTISFSLNGELLMDALGGETTFADV-QG  119 (173)
+T ss_dssp             TTTEEEETTEEEECSCCCCTTCEEEEEEETTTTEEEEEETTEE--BTTTBTCSEECC-CC
+T ss_pred             CCCeEEeCCCCccccCccCCCCEEEEEEEeCCCEEEEEECCEEcccccccceeeccC-CC
+
+
+Q ss_pred             CcceeeeeeCccceeeeeccc-cchhhHHHHhhhhccCCcceeeecCCCccccc
+Q 5GKY_1_Chains_ 1186 DGFLPVCSLGPGQVGHLNLGQ-DVSSLRFFAICGLQEGFEPFAINMQRPVTTWF 1238 (5037)
+Q Consensus      1186 dGfvPvcsLG~gQ~gRlNlGq-DvsslkyFT~CGLQEGyEPF~VNM~R~~tmW~ 1238 (5037)
+                      ..+.|++++..++..++|+|+ +++.++|..+|.+++||+|++..|.|++++||
+T Consensus       120 ~~~~p~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~  173 (173)
+T c6kimA_         120 DNFVPACTLGVGQKARLTYGQQDVNTLKYFTTCGLQEGYEPFCVNMARDVTHWY  173 (173)
+T ss_dssp             SCEEEEEEEETTCCEEEECSS-SGGGCSSTTTTTGGGTCEEGGGGCCCCCCCCC
+T ss_pred             CcEEEEEEecCCCEEEEEcCCCCCCceeccCCCCCCCCcccchhhccccceecC
+
+

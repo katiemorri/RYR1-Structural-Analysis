@@ -1,0 +1,32 @@
+47 c3malA_ Probab=98.03  E-value=6.8e-06  Score=81.80  Aligned_cols=157  Identities=18%  Similarity=0.259  Sum_probs=0.0  Template_Neff=11.085
+
+Q ss_pred             eeeee-eeeeeeeccceeeeeeccccccccceeeeecccccCCCceeeEE-ecccccccc
+Q 5GKY_1_Chains_  101 LLYGH-AILLRHAHSRMYLSCLTTSRSMTDKLAFDVGLQEDATGEACWWT-MHPASKQRS  158 (5037)
+Q Consensus       101 LLYGh-AIlLrH~~S~MYLsCLsTs~S~tDKLaFDVGLQe~~~GEACWWT-iHPASKQRS  158 (5037)
+                      +-||. .|.|+|..++.||.+-....+....-...|-.-.....+..||+ |.|......
+T Consensus         4 v~~g~~~v~l~~~~~~~~L~s~~~~~~~~~~~~~~v~~~~~~~~~~~~w~~i~~~~~~~~   63 (186)
+T c3malA_           4 ITYGSSAIKLMHEKTKFRLHSHDVPYGSSGSGQQSVTGFPGVVDSNSYWIIVKPVPGTTE   63 (186)
+T ss_dssp             CBTTC-EEEEEETTTC-EEEEEEEECSS-TTC-EEEEEECCSCCGGGCEE-EECCTTSSC
+T ss_pred             EecCCcEEEEEECCCCCeEEcCCcCCCCCCCCCCEEEEECCCCCCCCEEEEEECCCCCCC
+
+
+Q ss_pred             -ccceeeecCcEEEEEeccceeEEe----eeccCceEEEee------eeeeeeccccccc
+Q 5GKY_1_Chains_  159 -EGEKVRVGDDLILVSVSSERYLHL----STASGELQVDAS------FMQTLWNMNPICS  207 (5037)
+Q Consensus       159 -EGEKVRVGDDlILVSVssERYLHl----s~~~g~~~V~AS------F~qTLWnv~pv~S  207 (5037)
+                       .|+.|+.||-+.|+.+.+.+|||.    +..++...|.+.      -..++|.+.....
+T Consensus        64 ~~~~~v~~gd~i~l~h~~t~~~L~s~~~~~~~~~~~ev~~~~~~~~~~~~~~W~i~~~~~  123 (186)
+T c3malA_          64 KQGDAVKSGATIRLQHMKTRKWLHSHLHASPISGNLEVSCFGDDTNSDTGDHWKLIIEGS  123 (186)
+T ss_dssp             CTTSB-BTTCEEEEEETTTC-EEEEEEEECTTTCSEEEEEECBTTBCCGGGCEEEEESSS
+T ss_pred             CCCCEEcCCCEEEEEEhhcCCCEEeCCcCCCCCCCEEEEEeCCCCCCCCCCeEEEEECCC
+
+
+Q ss_pred             ccccccccCCcEEeeecCCccceeeeCc----cccccccceeEeecchhhhhhhhheeee
+Q 5GKY_1_Chains_  208 CCEEGYVTGGHVLRLFHGHMDECLTISA----ADSDDQRRLVYYEGGAVCTHARSLWRLE  263 (5037)
+Q Consensus       208 g~~~Gyl~Gg~VlRlfHG~~DEcLtIp~----~~~e~~~~~v~YEgGav~s~ARSLWRlE  263 (5037)
+                      +   +++..|+.+||.|-...-.|+...    .+...++.+.-.....   ...++|++|
+T Consensus       124 ~---~~~~~~~~~~l~h~~t~~~L~~~~~~~~~~~~~~~ev~~~~~~~---~~~~~W~i~  177 (186)
+T c3malA_         124 G---KTWKQDQRVRLQHIDTSGYLHSHDKKYQRIAGGQQEVCGIREKK---ADNIIWLAA  177 (186)
+T ss_dssp             C---CBCBTTCEEEEEETTTC-EEEEEEEECCSSSTT-EEEEEESSCC---GGGC-EEEE
+T ss_pred             C---CEEECCCeEEEEECCCCeEEEECCccCCCCCCCceEEEEeCCCC---CCCCEEEEe
+
+

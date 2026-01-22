@@ -1,0 +1,842 @@
+3 c9c1eB_ Probab=100.00  E-value=0  Score=10178.89  Aligned_cols=4054  Identities=72%  Similarity=1.224  Sum_probs=3881.5  Template_Neff=7.559
+
+Q ss_pred             eeEeecCCeeEeEeehhhccCCeeEEEeecccCCceeeeeeccccccCCcchhHHHHHHh
+Q 5GKY_1_Chains_   11 VQFLRTDDEVVLQCSATVLKEQLKLCLAAEGFGNRLCFLEPTSNAQNVPPDLAICCFTLE   70 (5037)
+Q Consensus        11 vqFLRT~D~V~lqc~at~~ke~~k~CLaaEGfGnRlC~LE~~s~ak~vPPDl~~C~fvle   70 (5037)
+                      ++|||+||+|+|+|.++..+++.++||+|||||+|.|+||++++.+|+|||++.|+|+|+
+T Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   60 (4061)
+T c9c1eB_           1 IQFLRTEDEVVLQCIANIHKEQRKFCLAAEGLGNRLCFLEPTSEAKYVPPDLCVCNFVLE   60 (4061)
+T ss_pred             CceeecCCEEEEEecccccchhhHHHHhhcccCCceeeeeecCCCCCCCCcccccceeec
+Confidence            589999999999999998888889999999999999999999999999999999999999
+
+
+Q ss_pred             hhhhHHHHHHHhhcccccccccccCCCceeeeeeeeeeeeeeccceeeeeeccccccccc
+Q 5GKY_1_Chains_   71 QSLSVRALQEMLANTVEAGVESSQGGGHRTLLYGHAILLRHAHSRMYLSCLTTSRSMTDK  130 (5037)
+Q Consensus        71 qsLSVRALQEMlsn~~~s~~~s~qGgGHRTLLYGhAIlLrH~~S~MYLsCLsTs~S~tDK  130 (5037)
+                      |++|++|+|||+++           .++++|+||++|||+|++|||||+|.++.++..+|
+T Consensus        61 ~~~~~~~~~~~~~~-----------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  109 (4061)
+T c9c1eB_          61 QSLSVRALQEMLAN-----------TGHRTLLYGHAILLRHSFSGMYLTCLTTSRSQTDK  109 (4061)
+T ss_pred             ccCCHHHHHHHHHh-----------cCCCeEeeccEEEEEeccCCcEEEEecCCCCCCcc
+Confidence            99999999999987           25899999999999999999999999988899999
+
+
+Q ss_pred             eeeeecccccCCCceeeEEeccccccccccceeeecCcEEEEEeccceeEEeeeccCceE
+Q 5GKY_1_Chains_  131 LAFDVGLQEDATGEACWWTMHPASKQRSEGEKVRVGDDLILVSVSSERYLHLSTASGELQ  190 (5037)
+Q Consensus       131 LaFDVGLQe~~~GEACWWTiHPASKQRSEGEKVRVGDDlILVSVssERYLHls~~~g~~~  190 (5037)
+                      .+++|+|++..++++|||+|+|++|+|++||+|++||+|+|+|+++++|||+|...+..+
+T Consensus       110 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  169 (4061)
+T c9c1eB_         110 LAFDVGLRENATGEACWWTIHPASKQRSEGEKVRIGDDLILVSVSSERYLHLSVSNGNVQ  169 (4061)
+T ss_pred             ccccccccccCCCCccceeecCCCCccCCCCceecCCeEEEEEccCCceeeeecCCCCce
+Confidence            999999988888899999999999999999999999999999999999999999889999
+
+
+Q ss_pred             EEeeeeeeeecccccccccc--cccccCCcEEeeecCCccceeeeCccccccccceeEee
+Q 5GKY_1_Chains_  191 VDASFMQTLWNMNPICSCCE--EGYVTGGHVLRLFHGHMDECLTISAADSDDQRRLVYYE  248 (5037)
+Q Consensus       191 V~ASF~qTLWnv~pv~Sg~~--~Gyl~Gg~VlRlfHG~~DEcLtIp~~~~e~~~~~v~YE  248 (5037)
+                      |++++.+|.|++.+|+++..  +++|+|||+|||||+|.+.+++.+........+.++++
+T Consensus       170 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  229 (4061)
+T c9c1eB_         170 VDASFMQTLWNVHPTCSGSSIEEGYLLGGHVVRLFHGHDECLTIPSTDQNDAQHRRIFYE  229 (4061)
+T ss_pred             eccccccceeEEEeccCCCCcccceeecCcEEEEEeccccccccCCCCCCcccccccccc
+Confidence            99999999999999988754  69999999999999997777766555555566889999
+
+
+Q ss_pred             cchhhhhhhhheeeeeeeeEeeccccCcCceeEEEeecccceeeeecCCcEEEEehhhcc
+Q 5GKY_1_Chains_  249 GGAVCTHARSLWRLEPLRISWSGSHLRWGQPLRIRHVTTGRYLALTEDQGLVVVDACKAH  308 (5037)
+Q Consensus       249 gGav~s~ARSLWRlE~lRi~Wsgshi~WgqpfRlRHiTTGrYL~l~E~~gl~l~~~~ka~  308 (5037)
+                      ++++++++++||+||..+.+|+|+.++|+++|||||++||+||++.++..+.+++.++++
+T Consensus       230 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  289 (4061)
+T c9c1eB_         230 AGGAGTRARSLWRVEPLRISWSGSNIRWGQAFRLRHITTGHYLALTEDQGLLLQDRAKSD  289 (4061)
+T ss_pred             CCCCCCCccceeeeeeeccccCCCcccccCceeeEeeecCCcccccccccccccccccCC
+Confidence            999999999999999999999999999999999999999999999998888888888888
+
+
+Q ss_pred             ccceeeeeccchhhhhhcchhhcccCCCcceeccchheeeeeccccceeeeecCcchhcc
+Q 5GKY_1_Chains_  309 TKATSFCFRVSKEKLDTAPKRDVEGMGPPEIKYGESLCFVQHVASGLWLTYAAPDPKALR  368 (5037)
+Q Consensus       309 ~~~taFcfr~sKek~~~~~~~d~eGMG~peIKYGes~~fvQHv~tglWLsY~a~d~k~~r  368 (5037)
+                      ...+.|+|+++++      .++.++|+.++++||||+|+|||+.||.|||++..      
+T Consensus       290 ~~~~~~~~~~~~~------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------  337 (4061)
+T c9c1eB_         290 TKSTAFSFRASKE------IRDIEGMGVPEIKYGDSVCFVQHIASGLWVTYKAQ------  337 (4061)
+T ss_pred             CCCceeEeccCCc------cCCcCcCCCceEeeCCceEEEEEecCCcccccCCc------
+Confidence            8999999999873      34578999999999999999999999999998765      
+
+
+Q ss_pred             cchhhhhhhhcccCcchhhhhhhhhhhHHHHHHHHHHHHHHHHHHHHhhHHhhccccCCC
+Q 5GKY_1_Chains_  369 LGVLKKKAILHQEGHMDDALFLTRCQQEESQAARMIHSTAGLYNQFIKGLDSFSGKPRGS  428 (5037)
+Q Consensus       369 lG~~~rkAilh~EGHMDD~l~l~R~q~EES~aARvIr~~t~lfn~FI~~Ld~ls~~~~~~  428 (5037)
+                        +...|++++.+++++|+|++.+++++|++++++|+++.+++++|++.           
+T Consensus       338 --~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-----------  384 (4061)
+T c9c1eB_         338 --PLKRKVILHQEGHMDDGLTLQRCQREESQAARIIRNTTALFSQFVST-----------  384 (4061)
+T ss_pred             --ccccceecccccccccceeeccCCHHHHHHHHHHHHHHHHHHhhhcc-----------
+Confidence              23446889999999999999999999999999999999999999873           
+
+
+Q ss_pred             ccccceecCHHHHHHHHHHHHHhhcCCChhhhHHHHHHHHHHhhhHHHhHHhhcHHHHHH
+Q 5GKY_1_Chains_  429 GPPAGPALPIEAVILSLQDLIGYFEPPSEELQHEEKQSKLRSLRNRQSLFQEEGMLSLVL  488 (5037)
+Q Consensus       429 ~~~~~~~l~~~ev~~~L~DLI~YF~qP~ee~eHEeKQ~kLraLrnRQdLFQEEGml~lVl  488 (5037)
+                             .+++.+.++|+|||.||.++.+...++.+|+..+++|+|||||||+|+|++|+
+T Consensus       385 -------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  437 (4061)
+T c9c1eB_         385 -------LPIQEVLQTLQDLIAYFQPPEEEMQHEDKQNKLRSLKNRQNLFKEEGMLALVL  437 (4061)
+T ss_pred             -------cchhHHHHHHHHHHHHhcCCCcccchhhhhchhcchhhHHHHHhhcChHHHHH
+Confidence                   23567899999999999999999999999999999999999999999999999
+
+
+Q ss_pred             HHHhhhhhhhhHHHHHhhcchhHHHhHHHHHHHHHHHHHHHhcCChhhHHHHHhhhhHHH
+Q 5GKY_1_Chains_  489 NCIDRLNVYTTAAHFAEYAGEEAAESWKEIVNLLYELLASLIRGNRANCALFSTNLDWVV  548 (5037)
+Q Consensus       489 ~~IDrln~~~sa~~fa~~agEea~~~W~~I~n~LY~LLAAlIrGNr~NCaqFa~~LdWL~  548 (5037)
+                      ++|++++...+.         +....|++|+++||+||+++++||++||+||+++++||+
+T Consensus       438 ~~~~~~~~~~~~---------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  488 (4061)
+T c9c1eB_         438 NCIDRLNIYNSV---------ESGMAWKEILNLLYKLLAALIRGNRNNCAQFSNNLDWLI  488 (4061)
+T ss_pred             HHHHhhcccCcc---------cchhhHHHHHHHHHHHHHHHHcCCcchhhhhhhhhhHHH
+Confidence            999987754433         345579999999999999999999999999999999999
+
+
+Q ss_pred             HhhcchhhhhhHHHHHHhHhccChhHhhhhhhhhHHHHHHHHHHcCCChHHHHHHHhhhc
+Q 5GKY_1_Chains_  549 SKLDRLEASSGILEVLYCVLIESPEVLNIIQENHIKSIISLLDKHGRNHKVLDVLCSLCV  608 (5037)
+Q Consensus       549 skL~~~eassGiLeVLhCVLieSPEaLNii~e~HIksIISLLdKhGRn~KVLDVLCSLCv  608 (5037)
+                      ++++++..+.|++++|+|++.||+++|++|+++||+.||++|+++||+++||+||++||+
+T Consensus       489 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  548 (4061)
+T c9c1eB_         489 SKLDRLESSSGILEVLHCILIESPEALNLIAEGHIKSIISLLDKHGRNHKVLDVLCSLCL  548 (4061)
+T ss_pred             HHhhhhccchhHHHHHHHHHhcCHHHHhhcchHHHHHHHHHHHhcCCCcchhhhhhhhhc
+Confidence            999988889999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             cCceEEeeccchhhhhcCccccceeccchhhhhhccCcceEEEEecCcccccccchhhhh
+Q 5GKY_1_Chains_  609 CNGVAVRSNQDLITENLLPGRELLLQTNLINYVTSIRPNIFVGRAEGSTQYGKWYFEVMV  668 (5037)
+Q Consensus       609 cnGvAVRsnQnlI~d~LLP~rdLLLQT~Lvd~v~SiRPNIflG~~eGsaqy~KWYfEv~v  668 (5037)
+                      |+|+||++||++||+.||+++++|++|+|+++++|++||||++.+++++++|||||||++
+T Consensus       549 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  608 (4061)
+T c9c1eB_         549 CNGVAVRANQNLICDNLLPRRNLLLQTRLINDVTSIRPNIFLGVAEGSAQYKKWYFELII  608 (4061)
+T ss_pred             cCCceecccHHHHHhhcCCCCcceeeeceeccccccccceeeeccCCcccccceeEEEEE
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hhhhhhhccCCcceeeeecccCCCCCCCCCCCCCCcccccccchhcccccceeecCCCCc
+Q 5GKY_1_Chains_  669 DEVVPFLTAQATHLRVGWALTEGYSPYPGGGEGWGGNGVGDDLYSYGFDGLHLWTGHVAR  728 (5037)
+Q Consensus       669 dhve~~~T~~~~hLRVGWAnt~Gy~PyPGGGegWGgnGVGDDlySYgFDGlhLW~G~~~r  728 (5037)
+                      +++++|.+..++++||||+++.++.++|+||++|+++|+|+|.+||||||.+.|+++...
+T Consensus       609 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  668 (4061)
+T c9c1eB_         609 DQVDPFLTAEPTHLRVGWASSSGYAPYPGGGEGWGGNGVGDDLYSYGFDGLHLWSGRIPR  668 (4061)
+T ss_pred             EeecCCCCCCCCeEEEEEEcCCCCCCCCCCCCCCCCCCCCCCCceeeecCCCcccCCCcc
+Confidence            988887778899999999999999999999999999999999999999999999877766
+
+
+Q ss_pred             ccCCCCCccCCcCCEEEEeeecCCceEEEEecCeeehhhhhhccccceeeeeeecCCCce
+Q 5GKY_1_Chains_  729 PVTSPGQHLLAPEDVVSCCLDLSVPSISFRINGCPVQGVFEAFNLDGLFFPVVSFSAGVK  788 (5037)
+Q Consensus       729 ~v~s~~~h~L~~gDVVsCcLDLsvP~IsFriNG~pVqGmFe~FN~dGlFfPVvS~SA~v~  788 (5037)
+                      .....++..|+.||||||++|++.|+|+|++||+++|++|++++..|.|||+||++++++
+T Consensus       669 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  728 (4061)
+T c9c1eB_         669 AVASINLHLLRSDDVVSCCLDLGVPSISFRINGQPVQGMFENFNTDGLFFPVVSFSAGVK  728 (4061)
+T ss_pred             ccccccccccCCCcEEEEEEecCCCeEEEEECCeeecccccccCCCCCceeeeecCCCeE
+Confidence            555567888999999999999999999999999999999999988899999999999999
+
+
+Q ss_pred             EEEEecCCccceeecCCcchHHHHHHhCCCCeeeeeehHhhcccCcCcccccccccccCC
+Q 5GKY_1_Chains_  789 VRFLLGGRHGEFKFLPPPGYAPCHEAVLPRERLRLEPIKEYRREGPRGPHLVGPSRCLSH  848 (5037)
+Q Consensus       789 ~RFLlGG~hG~fkflPPpGysp~~EAllP~e~L~iEP~~~y~~~~~~v~~L~Gp~~~~~~  848 (5037)
+                      +++|||+++|+|+|+||+||.|++++++|+++++++||+.|++..+++..+.||....+.
+T Consensus       729 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  788 (4061)
+T c9c1eB_         729 VRFLTGGRHGEFKFLPPSGYAPCYEALLPKEKMRLEPVKEYKRDAEGIRDLLGTTQSLSQ  788 (4061)
+T ss_pred             EEEEcCCCCCCccCCCCCCccccccccccccccccCccccccccccccchhccCcccCCC
+Confidence            999999999999999999999999999999999999999999999999899999999999
+
+
+Q ss_pred             ccccccccceeeeecChhHHHHHHHHHHhHHHHhcchhhhcccccccccccccccCcccc
+Q 5GKY_1_Chains_  849 TDFVPCPVDTVQIVLPPHLERIREKLAENIHELWALTRIEQGWTYGPVRDDNKRLHPCLV  908 (5037)
+Q Consensus       849 ~~FvP~PVDTs~I~LP~~lE~IreKLAENiHELWam~KIE~GWtYG~vRDd~kr~HPCL~  908 (5037)
+                      ..|+|.|+|++.+.+|+.++.+++++|+++|+.|+++++++||.||+.+++.++.||+++
+T Consensus       789 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  848 (4061)
+T c9c1eB_         789 ASFIPCPIDTSQVVLPPHLEKIRDRLAENIHELWGMNKIELGWTFGKIRDDNKRQHPCLV  848 (4061)
+T ss_pred             CcCCCCCCCCcccccccchhHHHHHHHHHHHHHHhhhhhhcCCcccccccCCCCCCCCcc
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             chhhCCchhhcccceehhhhHHHHHhhhheeeecCCCchhhhhcccCCcccccCCCccCC
+Q 5GKY_1_Chains_  909 NFHSLPEPERNYNLQMSGETLKTLLALGCHVGMADEKAEDNLKKTKLPKTYMMSNGYKPA  968 (5037)
+Q Consensus       909 ~F~kLPe~EknYNlqma~eTLKTllALG~hi~~~~~~a~~rlkkikLpk~y~q~NGYKPa  968 (5037)
+                      +|+.|++.+|.+|+++|.+++++|.++||++...+.....+++..+++..+.+.++|+|+
+T Consensus       849 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  908 (4061)
+T c9c1eB_         849 EFSKLPETEKNYNLQMSTETLKTLLALGCHIAHVNPAAEEDLKKVKLPKNYMMSNGYKPA  908 (4061)
+T ss_pred             cccCCCHhhhhhhHHHHHHHHHHHHHhCCcccccCCcchhhhhhccCCccccCCCCCCCC
+Confidence            999999999999999999999999999999999888888889999999999999999999
+
+
+Q ss_pred             CccchheeeChhhHHHHHHHhhcccchhHHHHhhcCccccccccccccCCCccccHhhhh
+Q 5GKY_1_Chains_  969 PLDLSHVRLTPAQTTLVDRLAENGHNVWARDRVAQGWSYSAVQDIPARRNPRLVPYRLLD 1028 (5037)
+Q Consensus       969 PLDls~v~Ltp~~e~LVd~LAENtHNvWArdRI~qGWTYg~~qD~~~kRsP~LVPY~llD 1028 (5037)
+                      |++.+.+.++...+++++.||+++|++|+++++.+||+||..+|...|+||+||||+.|+
+T Consensus       909 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  968 (4061)
+T c9c1eB_         909 PLDLSDVKLLPPQEVLVDKLAENAHNVWAKDRIKQGWTYGIQQDLKNKRNPRLVPYALLD  968 (4061)
+T ss_pred             CCCCCcccCCCchhhHHHHHHHhhhhHHHHHHhhcCcccceeecCCCCCCCCCCCcccCC
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             HHHHhhhhHHHHHHHHHHHhcceecCCCCccchhh-hhhcccccceeeeeccceeeecCe
+Q 5GKY_1_Chains_ 1029 EATKRSNRDSLCQAVRTLLGYGYNIEPPDQEPSQV-ENQSRWDRVRIFRAEKSYTVQSGR 1087 (5037)
+Q Consensus      1029 e~~KksNRDs~~EaVRTLl~YGY~lEPp~~E~a~~-~~~~~~~~~R~fR~EktYAV~~GK 1087 (5037)
+                      +.+|+.+|+.+++++++|..+||.+++++.+.... .........+++++.+++++++||
+T Consensus       969 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1028 (4061)
+T c9c1eB_         969 ERTKKSNRDSLREAVRTFVGYGYNIEPSDQELADPAVEKVSIDKIRFFRVEWSYAVRSGK 1028 (4061)
+T ss_pred             HhhhhhhhHHHHhHHhhhhccceeeecCCCCCCCccccccccccccceeEEeeeeecCce
+Confidence            99999999999999999999999999986543221 223345678899999999999999
+
+
+Q ss_pred             eEEEEEeecccceeeeeeCCCCCCccccCcccceeeecchhhhhhccCCCccccccccCC
+Q 5GKY_1_Chains_ 1088 WYFEFEAVTTGEMRVGWARPELRPDVELGADELAYVFNGHRGQRWHLGSEPFGRPWQSGD 1147 (5037)
+Q Consensus      1088 WYFEFE~vT~G~MRVGWarp~~~pd~eLGsDd~sy~FdG~~~~kwH~G~e~fGr~Wq~GD 1147 (5037)
+                      |||||++.+.|.++|||++..+..+..+|++..||||+++++.+|+++...||..|+.||
+T Consensus      1029 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1088 (4061)
+T c9c1eB_        1029 WYFEFEVVTGGDMRVGWARPGCRPDIELGADDQAFVFEGSRGQRWHQGSGYFGRTWQPGD 1088 (4061)
+T ss_pred             EEEEEEEecCCeeEEEEeCCCCCCCCCCCCCCCceeEeccCCeeeecCCccccccCCCCC
+Confidence            999999999999999999999999999999999999999999999988899999999999
+
+
+Q ss_pred             EEEEEEeccCceEEEEEcceEEEcCCCceeeecceeccCcceeeeeeCccceeeeecccc
+Q 5GKY_1_Chains_ 1148 VVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEIGDGFLPVCSLGPGQVGHLNLGQD 1207 (5037)
+Q Consensus      1148 VVGCmiDl~d~tisFtLNGElL~d~~GsE~AF~di~~gdGfvPvcsLG~gQ~gRlNlGqD 1207 (5037)
+                      ||||++|+++|+|+|++||+++.++.|++.||.++...++|||+++++.++.+++|||++
+T Consensus      1089 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1148 (4061)
+T c9c1eB_        1089 VVGCMINLDDASMIFTLNGELLITNKGSELAFADYEIENGFVPICSLGLSQIGRMNLGMD 1148 (4061)
+T ss_pred             EEEEeecCCCCeEEEEeccccccccCCccccccccccCCCeeeEEeecCCceEEEEecCC
+Confidence            999999999999999999999988888999999887667899999999988899999999
+
+
+Q ss_pred             chhhHHHHhhhhccCCcceeeecCCCccccccccCCcccccCCCCceEEEEecCCCCCCC
+Q 5GKY_1_Chains_ 1208 VSSLRFFAICGLQEGFEPFAINMQRPVTTWFSKSLPQFEPVPPEHPHYEVARMDGTVDTP 1267 (5037)
+Q Consensus      1208 vsslkyFT~CGLQEGyEPF~VNM~R~~tmW~sK~lP~F~~v~~~h~~ieV~Ri~gt~dsp 1267 (5037)
+                      +.+|+||+.|++|+||+||+.+|++++++|+++..|.|.+++..++.+++++++++.++|
+T Consensus      1149 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1208 (4061)
+T c9c1eB_        1149 ASTFKFYTMCGLQEGFEPFAVNMNRDVAMWFSKRLPTFVNVPKDHPHIEVVRIDGTMDSP 1208 (4061)
+T ss_pred             CcCccccccccCCCCccccccccCCcchhhhccCCCCCCCCCCCCCceEEEeeCCCCCCC
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             ceeeeeehhhcCcCCCccEEEEEccCceehhhhhccccccccccccccCCcchhhhhhcc
+Q 5GKY_1_Chains_ 1268 PCLRLAHRTWGSQNSLVEMLFLRLSLPVQFHQHFRCTAGATPLAPPGLQPPAEDEARAAE 1327 (5037)
+Q Consensus      1268 PcLKvthktf~s~~~~~~~~f~RLSlPV~c~~~f~~~~g~~~~~~~~~~~~~~~~~~~~~ 1327 (5037)
+                      |+|+++++++++++..++++|+|+|+||+|++.|...                       
+T Consensus      1209 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~----------------------- 1245 (4061)
+T c9c1eB_        1209 PCLKVTHKTFGTQNSNASMIYCRLSMPVECHSSFSHT----------------------- 1245 (4061)
+T ss_pred             CcceeeccCCCCCCCCCcceEEecccccccccccccC-----------------------
+Confidence            9999999999999988999999999999999766320                       
+
+
+Q ss_pred             CcchHHHHHhhhccccccccccccccccccccCCccccccccccccccCccccccccccc
+Q 5GKY_1_Chains_ 1328 PDPDYENLRRSAGGWGEAEGGKEGTAKEGTPGGTPQPGVEAQPVRAENEKDATTEKNKKR 1387 (5037)
+Q Consensus      1328 ~d~d~e~l~~S~~~~~~~~~~k~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ek~kkr 1387 (5037)
+                                                                                  
+T Consensus      1246 ------------------------------------------------------------ 1245 (4061)
+T c9c1eB_        1246 ------------------------------------------------------------ 1245 (4061)
+T ss_pred             ------------------------------------------------------------
+Confidence                                                                        
+
+
+Q ss_pred             cchhhhccccccCCCCCCCccccccccCcCCccccchhhhhcccceeEEEEeecCCCCcc
+Q 5GKY_1_Chains_ 1388 GFLFKAKKAAMMTQPPATPALPRLPHDVVPADNRDDPEIILNTTTYYYSVRVFAGQEPSC 1447 (5037)
+Q Consensus      1388 gflfk~kK~~~~~~~p~~p~~prl~~dvvp~D~r~d~~~l~~~~~YyYsVRIfpGQdPs~ 1447 (5037)
+                                                                .++|||+|||+|||||++
+T Consensus      1246 ------------------------------------------~~~~~~~~~~~~~~~~~~ 1263 (4061)
+T c9c1eB_        1246 ------------------------------------------TTQCYYAIRIFAGQDPSC 1263 (4061)
+T ss_pred             ------------------------------------------CCceeeEEEEcCCCCCce
+Confidence                                                      257999999999999999
+
+
+Q ss_pred             eEEEeecccccccccccCccceEEEEEEeeccccchhhcccccCceeEechhhccCcccc
+Q 5GKY_1_Chains_ 1448 VWVGWVTPDYHQHDMNFDLSKVRAVTVTMGDEQGNVHSSLKCSNCYMVWGGDFVSPGQQG 1507 (5037)
+Q Consensus      1448 VwVGWVT~~yH~~~~~Fd~~~vr~vtvt~gd~~gnv~esi~r~nCYMV~age~~s~~~~g 1507 (5037)
+                      |||||+|++||++..+|+++++|+|+++.++++|+++++++|++||||++||+.+.+   
+T Consensus      1264 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--- 1320 (4061)
+T c9c1eB_        1264 VWVGWVTPDYHLYSEKFDLNKNCTVTVTLGDERGRVHESVKRSNCYMVWGGDIVATS--- 1320 (4061)
+T ss_pred             eEeecccCCcccccccCCCCCceEEEEEEecCCCceeeeeecCCceeeccCccccCC---
+Confidence            999999999999999999999999999999999999999999999999999998633   
+
+
+Q ss_pred             cccccCeeEEEeeecccceEEEeecCeecceEEEecCCCeeeeeeeeccCCcceeeEecC
+Q 5GKY_1_Chains_ 1508 RISHTDLVIGCLVDLATGLMTFTANGKESNTFFQVEPNTKLFPAVFVLPTHQNVIQFELG 1567 (5037)
+Q Consensus      1508 ~~s~~gl~IGC~vD~AtGlltFtanGke~~t~fqvEP~TKLFPAvFv~pTs~~~~QfElG 1567 (5037)
+                        .++|++|||++|++||+|+||+||++++++||+||+|+||||||++||++|++|||||
+T Consensus      1321 --~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1378 (4061)
+T c9c1eB_        1321 --SNVDLEIGCLVDLAMGMLSFSANGRELGTCYQVEPNTKVFPAVFLQPTSTALFQFELG 1378 (4061)
+T ss_pred             --CCCCceEEEEEEcCCcEEEEeeCCccccceeeccCCCcccccccccCCCccccccccc
+Confidence              3789999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             CcCccccchhhhhcccccCCCCCCCCcceEEEeccchhhhCccccccceecccccccceE
+Q 5GKY_1_Chains_ 1568 KQKNIMPLSAAMFLSERKNPAPQCPPRLEVQMLMPVSWSRMPNHFLQVETRRAGERLGWA 1627 (5037)
+Q Consensus      1568 k~k~~mPLSAamf~s~~kn~~PqcPPRL~VQ~L~pv~WsRmPn~~L~v~~~r~se~~GW~ 1627 (5037)
+                      |+|++||+|||||++++|+++|||||||+||+|+|++|+||||++++|+++|+||+|||+
+T Consensus      1379 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1438 (4061)
+T c9c1eB_        1379 KLKNAMPLSAAIFKSEEKNPVPQCPPRLDVQTIQPVLWSRMPSSFLKVETERVSERHGWA 1438 (4061)
+T ss_pred             cccccccchhhhccCCCCCCCCCCCCccccccccccccccCCCCccccccccccccCCce
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             EEecChhhhhhhccCccccchhhhhccchHHHHHHHHHHHHHHHHHHhcCccHHHHHHHh
+Q 5GKY_1_Chains_ 1628 VQCQDPLTMMALHIPEENRCMDILELSERLDLQRFHSHTLRLYRAVCALGNNRVAHALCS 1687 (5037)
+Q Consensus      1628 v~C~ePl~mmalhIPEEnrciDILEL~E~~dLl~FH~HTL~LY~alCa~GN~RVAHaLCs 1687 (5037)
+                      |+|+||++||+|||||||||+|||||+|+++||+||+|||+||||||+|||+||||+||+
+T Consensus      1439 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1498 (4061)
+T c9c1eB_        1439 VQCLEPLQMMALHIPEENRCVDILELCEQEDLMQFHYHTLRLYSAVCALGNSRVAYALCG 1498 (4061)
+T ss_pred             EEecCccccccccCCCCCCccchhhhhcchhhhhhhhhHHHHHHHHHccCcchhhhhhcc
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             ccCHHHhhhhhcccccCchhhhhHHHHHHHHHHHHHHHHHHhhcCceEEeeccccceeee
+Q 5GKY_1_Chains_ 1688 HVDQAQLLHALEDAHLPGPLRAGYYDLLISIHLESACRSRRSMLSEYIVPLTPETRAITL 1747 (5037)
+Q Consensus      1688 HVDe~QLlyAI~~~yLpGpLR~GfyDLLIsiHLeS~~~ar~~~~~EyIiPl~~et~~i~l 1747 (5037)
+                      |||++||||||+|+||||+||+|||||||+|||++|+++|+||++||||||+++++++++
+T Consensus      1499 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1558 (4061)
+T c9c1eB_        1499 HVDLSQLFYAIDNKYLPGLLRSGFYDLLISIHLANAKERKLMMKNEYIIPITSATRKIRL 1558 (4061)
+T ss_pred             cCChhhhhhhhcCCCCCchhHhHHHHHHHHHHhhhhhhhhhccCceeEeecccccccccc
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             ccCCcCccccccCCCCCccccccccCccccCccccccccccccccchhhhcCCCccHHHH
+Q 5GKY_1_Chains_ 1748 FPPGRKGGNARRHGLPGVGVTTSLRPPHHFSPPCFVAALPAAGVAEAPARLSPAIPLEAL 1807 (5037)
+Q Consensus      1748 fp~~~~~d~~~~~~lpgvg~stslrP~~~fs~p~fv~~~~~~~~~~~~~~~sP~~pL~~L 1807 (5037)
+                      |+.     +.+.|++|+++.++|+||+|++++++|++           .+.+|+||++.|
+T Consensus      1559 ~~~-----~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-----------~~~~~~~~~~~~ 1602 (4061)
+T c9c1eB_        1559 YPD-----ESKRHGLPGVGLRTCLKPGFRFSTPCFVV-----------QKQSPEIPLEIL 1602 (4061)
+T ss_pred             CCC-----CCCCCCCCCCccceeecCCccccCCcccc-----------ccCCCCCCHHHH
+Confidence            997     45689999999999999999999999752           367999999999
+
+
+Q ss_pred             HHHHHHHHHHHHHhCCccccCCCCCcchhhHHhHHHHHHHhhhhhcccchHHHHHHHHhC
+Q 5GKY_1_Chains_ 1808 RDKALRMLGEAVRDGGQHARDPVGGSVEFQFVPVLKLVSTLLVMGIFGDEDVKQILKMIE 1867 (5037)
+Q Consensus      1808 k~~~l~~L~eAV~~~~~h~RDPvGGs~E~~FvPllKL~~~LLvmGvl~deDv~~iL~lid 1867 (5037)
+                      |++||++|++||+++++|+|||+||++|++|||||||+|+||+||+|+|+||++||.|||
+T Consensus      1603 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1662 (4061)
+T c9c1eB_        1603 KTKALSMLTEAVQHSGAHIRDPVGGSVEFQFVPVLKLIGTLLVMGVFDDDDIRQILLLID 1662 (4061)
+T ss_pred             HHHHHHHHHHHHHHcCCCCCCCCCCccchhHHHHHHHhhccceecccCchhHHHHHHhcC
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hhhcCccccccccchhhhhhhcchhcccccccccccccccccccccccccccccccccce
+Q 5GKY_1_Chains_ 1868 PEVFTEEEEEEEEEEEEEEEEEEDEEEKEEDEEEEEKEDAEKEEEEAPEGEKEDLEEGLL 1927 (5037)
+Q Consensus      1868 P~vF~~~~~~~e~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~GLl 1927 (5037)
+                      |++|++                                                 .+|||
+T Consensus      1663 ~~~~~~-------------------------------------------------~~~~~ 1673 (4061)
+T c9c1eB_        1663 PSVFGE-------------------------------------------------HKGLL 1673 (4061)
+T ss_pred             cccccC-------------------------------------------------Ccccc
+Confidence            999931                                                 47999
+
+
+Q ss_pred             eecCCchhHHHHHHHHHHHhhhHHHHHHHHHHHhhHHHHHHHHhhHHHHHHHHHHhcCCC
+Q 5GKY_1_Chains_ 1928 QMKLPESVKLQMCNLLEYFCDQELQHRVESLAAFAERYVDKLQANQRSRYALLMRAFTMS 1987 (5037)
+Q Consensus      1928 qmkLpE~VKLQmC~LL~~lCD~qLrhRVEaivaFsd~fV~~LQ~nQ~~RY~e~m~a~~Ms 1987 (5037)
+                      ||+|+|+||||||+|||||||+|||||||+||+||++||+++|.||++||+||||++|||
+T Consensus      1674 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1733 (4061)
+T c9c1eB_        1674 QTRLPESVKLQMCELLSYLCDCELQHRVEAIVAFGDIYVSKLQANQKSRYNELMQALNMS 1733 (4061)
+T ss_pred             ccCCCCccchhHHHhhhhhhcccccchhhhhhhhchhhhhhcccchhhhHHHHHhhcccc
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             HHHHhhhhhcccCChHHHHHHHhcCCCccccccCCCCHHHHHHHHHHHHHHHHhcCCccC
+Q 5GKY_1_Chains_ 1988 AAETARRTREFRSPPQEQINMLLHFKDEADEEDCPLPEDIRQDLQDFHQDLLAHCGIQLE 2047 (5037)
+Q Consensus      1988 aA~tArkTkEFR~PPqEQin~LL~fkd~~d~e~CPcp~eire~L~~FH~~L~~h~Gi~le 2047 (5037)
+                      +|+||||||||||||+|||++||+||++   ++|||+||+|++|++||++|+.|||++. 
+T Consensus      1734 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~---~~~~~~~~~~~~~~~~~~~~~~~~~~~~- 1789 (4061)
+T c9c1eB_        1734 AALTARKTREFRSPPQEQINMLLNFQLG---ENCPCPEEIREELYDFHEDLLIHCGVPE- 1789 (4061)
+T ss_pred             hhhhhccCCcccCCcHHHHHHhhcccCC---CCCCCcHHHHHHHHHHHHHHHHhcCCCC-
+Confidence            9999999999999999999999999986   5799999999999999999999999653 
+
+
+Q ss_pred             cccccccccchhHHHHHHHHHHHhhccCCcccccccCccccccchhHHHHHHHHHHHHhh
+Q 5GKY_1_Chains_ 2048 GEEEEPEEETSLSSRLRSLLETVRLVKKKEEKPEEELPAEEKKPQSLQELVSHMVVRWAQ 2107 (5037)
+Q Consensus      2048 ~eeee~~~~~si~~~l~~lv~kv~~vk~~~~~~ee~~~~e~~~p~tl~~lis~t~v~WAq 2107 (5037)
+                                                               .++++|+++|++||++||+
+T Consensus      1790 -----------------------------------------~~~~~~~~~~~~~~~~~~~ 1808 (4061)
+T c9c1eB_        1790 -----------------------------------------RCPTTLKELISQTMIRWAQ 1808 (4061)
+T ss_pred             -----------------------------------------CCCcchhhHHHHHHHHHhh
+Confidence                                                     1345699999999999999
+
+
+Q ss_pred             hhhcCCHHHHHHHHHHHHhhhhhHHHHHhhhhhceeecccchhhHHHHHHHHhhhhhhhh
+Q 5GKY_1_Chains_ 2108 EDYVQSPELVRAMFSLLHRQYDGLGELLRALPRAYTISPSSVEDTMSLLECLGQIRSLLI 2167 (5037)
+Q Consensus      2108 E~~Ie~peLVR~MFSLLhRQYdgigEL~rAL~ktYtIs~~sv~D~~~ll~~L~QIRsLL~ 2167 (5037)
+                      +++||||+|||+||+||+||||++|||++||+|||+|+++|++||.+|+++|||||+||+
+T Consensus      1809 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1868 (4061)
+T c9c1eB_        1809 EDQIQDAELVRMMFSLLQRQYDSIGELLQALRKTYTISQASVSDTINLLAALGQIRCLLS 1868 (4061)
+T ss_pred             hccCCCHHHHHHHHHHHhhhhhhHHHHHHHHhhceeeecCChhhHHHHHHHHHHHHhhcc
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hhcCchHHHHHHHHhhhhhccceeeecccHHHHhhhhHHHHHHHHHHhcCCCcccccchH
+Q 5GKY_1_Chains_ 2168 VQMGPQEENLMIQSIGNIMNNKVFYQHPNLMRALGMHETVMEVMVNVLGGGETKEIRFPK 2227 (5037)
+Q Consensus      2168 Vqmg~eEE~Lmi~~Lg~iMNNkVFyQHP~LmR~LgmHEtVM~VMvNvLgg~~skei~fpk 2227 (5037)
+                      ||||+|||++|+++||++|||++|+|||||||+|++||+||+||+|+|.       .+|+
+T Consensus      1869 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-------~~~~ 1921 (4061)
+T c9c1eB_        1869 VRMGKEEELLMINGLGDIMNNKVFYQHPNLMRVLGMHETVMEVMVDVLI-------AFPK 1921 (4061)
+T ss_pred             ccCCchhhHHHHHhhcccccCccccCCccccccccCccchhhhhhhhhh-------ccch
+Confidence            9999999999999999999999999999999999999999999999993       4589
+
+
+Q ss_pred             HHHHHHHHHHHHhhccchhhHHHHHHHHHHhhcccccee---ecCCchhhHhHHhhhccc
+Q 5GKY_1_Chains_ 2228 MVTSCCRFLCYFCRISRQNQRSMFDHLSYLLENSGIGLG---MQGSTPLDVAAASVIDNN 2284 (5037)
+Q Consensus      2228 MV~~CCRFLCYFCRiSRQNQkAMFdHLSyLLeNssigLa---mRGStPLDVA~sSvMDNn 2284 (5037)
+                      ||++||||||||||+|||||+|||+||+|||+|++++++   +||+||||||++++|||+
+T Consensus      1922 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1981 (4061)
+T c9c1eB_        1922 MVASCCRFLCYFCRISRQNQKAMFEHLSYLLENSSVGLASPSMRGSTPLDVAASSVMDNN 1981 (4061)
+T ss_pred             hhhhhhhhhccccccccccchhhhhhhHHHhcCCCCcCCCCCCCCCCcchhhhcccCCCc
+Confidence            999999999999999999999999999999999999998   999999999999999999
+
+
+Q ss_pred             chhhhhhhhhHHHHHHHHhhcCCccchHHHhcCCCcCCcCccchhhHhhhhheeeeecCc
+Q 5GKY_1_Chains_ 2285 ELALALQEQDLEKVVSYLAGCGLQSCPMLLAKGYPDIGWNPCGGERYLDFLRFAVFVNGE 2344 (5037)
+Q Consensus      2285 ELALAL~E~~LEKVv~YLa~CGLQs~~~L~aKGYPDIGWnPveGERYLDFLRFaV~vNGE 2344 (5037)
+                      |||+||+|++|||||+||++||+|||++|++|||||||||||||||||||||||||||||
+T Consensus      1982 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2041 (4061)
+T c9c1eB_        1982 ELALGLEEPDLEKVVTYLAGCGLQSCPMLLAKGYPDVGWNPIEGERYLSFLRFAVFVNSE 2041 (4061)
+T ss_pred             ccccCCCCCchhhHHHHhhhcCCccchhhhcCCCCCCcCCcCccchhhhhhhhhhccCCc
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             cccchhhhhhhhhhcCchhccccccCCCcchHHHHHHHHhhhhhcccccccccccccccc
+Q 5GKY_1_Chains_ 2345 SVEENANVVVRLLIRKPECFGPALRGEGGSGLLAAIEEAIRISEDPARDGPGVRRDRRRE 2404 (5037)
+Q Consensus      2345 sVEENAnlVvRLLIRRPECfGPALrGEgG~GLlaA~~eAi~isEdp~~d~~~~~~~~~~~ 2404 (5037)
+                      +||||||+|||+||||||||||||||||+++|+|+++++++||+++.+++|+.       
+T Consensus      2042 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------- 2094 (4061)
+T c9c1eB_        2042 SVEENASVVVKLLIRRPECFGPALRGEGGNGLLAAMQGAIKISENPALDLPSQ------- 2094 (4061)
+T ss_pred             cchhhhhhhhhhcccCcccccccccCCCchhHHHHHHHHHhhccCCCCCCCCC-------
+Confidence            99999999999999999999999999999999999999999999999776532       
+
+
+Q ss_pred             ccCCCCCccceeehhHHHHHHHHHHHHHhhhcCCcHHHHhcCcchhhHHHHHHHHhccHh
+Q 5GKY_1_Chains_ 2405 HFGEEPPEENRVHLGHAIMSFYAALIDLLGRCAPEMHLIQAGKGEALRIRAILRSLVPLD 2464 (5037)
+Q Consensus      2405 ~~~~~~~eed~i~lG~AimsFYsaLIDLLGrCAPemhlI~~GKgEalRiRAILRSLVpl~ 2464 (5037)
+                           ++||||||||+|||+|||+||||||||||++++|++||++++|||||||||||||
+T Consensus      2095 -----~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2149 (4061)
+T c9c1eB_        2095 -----GYKEEIVHMGNAIMSFYSALIDLLGRCAPEMHLIQTGKGEAIRIRSILRSLVPTE 2149 (4061)
+T ss_pred             -----CccccccccchhhHHhHHHHHHHhccCCCchhhhccCCCchhhHHHHhhcCCCcc
+Confidence                 7899999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hheeeeeeeeecCcCCCCcccccCCCCcccCcccccceEEeeeeccccchHHHHHHHHhh
+Q 5GKY_1_Chains_ 2465 DLVGIISLPLQIPTLGKDGALVQPKMSASFVPDHKASMVLFLDRVYGIENQDFLLHVLDV 2524 (5037)
+Q Consensus      2465 DL~GVisl~f~lP~~~k~~~v~~p~m~a~f~P~HKa~mVLFLdRVYGI~~Q~~llhlLEv 2524 (5037)
+                      ||+||||+||+||++.++|.++++|||++|+|+||+|||+||||||||++|++||||||+
+T Consensus      2150 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2209 (4061)
+T c9c1eB_        2150 DLVGIISIPLKLPSLNKDGSISEPDMAANFCPDHKAPMVLFLDRVYGIKDQTFLLHLLEV 2209 (4061)
+T ss_pred             ccceeeecccCCCCCCCCCCCCCCCCCCCCCCCCcchhhhhhhhhccccchhhHHHHhhc
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hcccchhhhhhccccccccchhhHHHHHhhhhhhHHHHhhhhhhhcCcchhHHHHHHHHH
+Q 5GKY_1_Chains_ 2525 GFLPDMRAAASLDTATFSTTEMALALNRYLCLAVLPLITKCAPLFAGTEHRAIMVDSMLH 2584 (5037)
+Q Consensus      2525 gFLPDlRaA~sLDt~~~~~tdmALALNRYlc~sVLPLLtk~a~lfa~~eh~a~LiDstLh 2584 (5037)
+                      +||||||||++||++.++++|||+|||||+|++|||+|++|+++|+++|++++|+|++||
+T Consensus      2210 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2269 (4061)
+T c9c1eB_        2210 GFLPDLRASASLDTVSLSTTEAALALNRYLCSAVLPLLTRCAPLFAGTEHYTSLIDSTLQ 2269 (4061)
+T ss_pred             CCccccccccCCCCCCccchHHHHhhhhhhhcchhhhhhcCCCCCCCCccchhhHHHHhh
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             HHHhhhhccchhhhhHHhHHHHHHHHHhcCCchHHHHHHHHHhhhhhhcccchhhhHHHH
+Q 5GKY_1_Chains_ 2585 TVYRLSRGRSLTKAQRDVIEDCLMALCRYIRPSMLQHLLRRLVFDVPILNEFAKMPLKLL 2644 (5037)
+Q Consensus      2585 TiYRLsk~rsLTkaQRd~i~d~L~Al~~~l~PsMmq~LLRrlv~Dvp~L~E~~~vpLrLL 2644 (5037)
+                      ||||||||++|||+||++|++||+|||++|+|+||++|||||++|||.|+|+|+||||+|
+T Consensus      2270 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2329 (4061)
+T c9c1eB_        2270 TIYRLSKGRSLTKAQRDTIEECLLAICNHLRPSMLQQLLRRLVFDVPQLNEYCKMPLKLL 2329 (4061)
+T ss_pred             hhhhhcCCCCCCccchhHHHHHHHHHhccCCchhHHHHHHHhccCcccccccCCCchhhh
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             HHHHhhhhhhcccCCCCCccccccHHHHHHHHHHHHHHHHHhhcCcCCHHHHHhhHHHHH
+Q 5GKY_1_Chains_ 2645 TNHYERCWKYYCLPTGWANFGVTSEEELHLTRKLFWGIFDSLAHKKYDQELYRMAMPCLC 2704 (5037)
+Q Consensus      2645 T~HYerc~KYY~~~~G~g~yG~aSeEE~~Lt~~LF~~IFdsLs~k~YdpeLF~~alPCL~ 2704 (5037)
+                      |+||||||||||++||||+||+||||||||||+|||+|||||++|+||||||++||||||
+T Consensus      2330 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2389 (4061)
+T c9c1eB_        2330 TNHYEQCWKYYCLPSGWGSYGLAVEEELHLTEKLFWGIFDSLSHKKYDPDLFRMALPCLS 2389 (4061)
+T ss_pred             hhccccccceeccCCCCCCCcCcchhhhhhhhHHHHHHHHhhcCCCCChHhHhhhhHHHH
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             HhhccCCchhhccccchhhhhhcccccccCcCCCccccceeeccchHHHHHHHHHhhcch
+Q 5GKY_1_Chains_ 2705 AIAGALPPDYVDASYSSKAEKKATVDAEGNFDPRPVETLNVIIPEKLDSFINKFAEYTHE 2764 (5037)
+Q Consensus      2705 AIa~AlpPDY~~s~~~~~~~k~~~~d~~Gnf~P~pv~t~n~~lpe~L~~~v~k~AEh~Hd 2764 (5037)
+                      ||||||||||..+                                               
+T Consensus      2390 ~~~~~~~~~~~~~----------------------------------------------- 2402 (4061)
+T c9c1eB_        2390 AIAGALPPDYLDT----------------------------------------------- 2402 (4061)
+T ss_pred             HHhccCCCCccCC-----------------------------------------------
+Confidence            9999999999732                                               
+
+
+Q ss_pred             hHHHHHHhcccccccccccccccCcccchhhhCCHHHHhhhhhhHHHHHHHHhhcccchh
+Q 5GKY_1_Chains_ 2765 KWAFDKIQNNWSYGENVDEELKTHPMLRPYKTFSEKDKEIYRWPIKESLKAMIAWEWTIE 2824 (5037)
+Q Consensus      2765 ~Wa~~Ki~~gW~yGe~~de~~ktHP~LkPy~~l~ekEKe~Yr~pi~EsLK~mLA~gW~vE 2824 (5037)
+                                                                                  
+T Consensus      2403 ------------------------------------------------------------ 2402 (4061)
+T c9c1eB_        2403 ------------------------------------------------------------ 2402 (4061)
+T ss_pred             ------------------------------------------------------------
+Confidence                                                                        
+
+
+Q ss_pred             ccccchhhhhhhhhhhhhhhhhccccccCCCCCCCccccccchhHHHHHHHHHHhhhhhh
+Q 5GKY_1_Chains_ 2825 KAREGEEERTEKKKTRKISQTAQTYDPREGYNPQPPDLSGVTLSRELQAMAEQLAENYHN 2884 (5037)
+Q Consensus      2825 ~t~e~e~~~~~~~~tr~iS~~~~s~~~~~~ynP~P~Dls~vtLsrel~~MaE~lAEN~Hn 2884 (5037)
+                      +   .                        .                              
+T Consensus      2403 ~---~------------------------~------------------------------ 2405 (4061)
+T c9c1eB_        2403 R---I------------------------S------------------------------ 2405 (4061)
+T ss_pred             C---C------------------------C------------------------------
+Confidence            0   0                        0                              
+
+
+Q ss_pred             hhhhhhhhhhhhcCCCCCccccchhhhccchhhhhHHHHHHHHHHhhhcceEEeeccCcc
+Q 5GKY_1_Chains_ 2885 TWGRKKKQELEAKGGGTHPLLVPYDTLTAKEKARDREKAQELLKFLQMNGYAVTRGLKDM 2944 (5037)
+Q Consensus      2885 iWakkkk~eL~~kGGg~hp~LVPyD~LTakEk~kdRekaqellKfLQ~nGY~v~r~~k~~ 2944 (5037)
+                                                                                  
+T Consensus      2406 ------------------------------------------------------------ 2405 (4061)
+T c9c1eB_        2406 ------------------------------------------------------------ 2405 (4061)
+T ss_pred             ------------------------------------------------------------
+Confidence                                                                        
+
+
+Q ss_pred             ccchhHHHHHhhHHHHHHHHHHHHHHHHHHHhhhhhhhhccccccccchhhHHHHHHHHH
+Q 5GKY_1_Chains_ 2945 ELDTSSIEKRFAFGFLQQLLRWMDISQEFIAHLEAVVSSGRVEKSPHEQEIKFFAKILLP 3004 (5037)
+Q Consensus      2945 e~d~ssvekRFay~~L~kLl~y~d~a~~~i~~l~~~~~s~r~~~~~~eQeiKFF~KVvLP 3004 (5037)
+                          +++|+||||+||+|||+|+|+|+++|+.++++.+++|.+++++++|||||+|||||
+T Consensus      2406 ----~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2461 (4061)
+T c9c1eB_        2406 ----SSMEKRFAYKFLKKILKYVDSAQEFIAHLEAIVSSGKTEKSPHDQEIKFFAKVLLP 2461 (4061)
+T ss_pred             ----CcchhhhHHHHHHHHHHHHHHHHHHHhhhhhhccCCCCCCCCCchhhHHHHhhhhH
+Confidence                25799999999999999999999999999999988888888999999999999999
+
+
+Q ss_pred             HHHHHHhhhhheeecccccccccccccchhHHHHHHHHHHhhHhhhhhhhhhhcchHHHH
+Q 5GKY_1_Chains_ 3005 LINQYFTNHCLYFLSTPAKVLGSGGHASNKEKEMITSLFCKLAALVRHRVSLFGTDAPAV 3064 (5037)
+Q Consensus      3005 Li~qYF~~H~lYFLs~~a~~~~s~G~ASnKEKEMvasLFCkLaaLvR~r~slFG~da~~~ 3064 (5037)
+                      |||+||++|++||+++++++.++.|+||+||||||++||||||+|+|+|+++||+|++++
+T Consensus      2462 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2521 (4061)
+T c9c1eB_        2462 LVDQYFTNHHLYFLSSPLKPLSSSGYASHKEKEMVASLFCKLAALVRHRISLFGSDSTTM 2521 (4061)
+T ss_pred             HhHHHHhhccceeecCCCCCCCCCcccCCcchhhHHHHHHHHHHHhhcccccccCchhhH
+Confidence            999999999999999998887889999999999999999999999999999999999999
+
+
+Q ss_pred             HHHHHhhhhccchhhHhhhchHHHHHhhhhhhhcchHHHHHHHHhhhhcchhhhhhcccc
+Q 5GKY_1_Chains_ 3065 VNCLHILARSLDARTVMKSGPEIVKAGLRSFFESASEDIEKMVENLRLGKVSQARTQVKG 3124 (5037)
+Q Consensus      3065 v~CL~~L~~~lD~rtvmK~g~e~Vr~~l~~FFenaadDl~~~venL~~gk~s~~r~q~k~ 3124 (5037)
+                      |+|||+|+||+|+||++|++||+||++|++||++||+||+++|+||+.|           
+T Consensus      2522 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~----------- 2570 (4061)
+T c9c1eB_        2522 VSCLHILAQTLDTRTVMKSGSELVKAGLRAFFENAAEDLEKTSENLKLG----------- 2570 (4061)
+T ss_pred             HHHHHHHhhhcccccccccchhHHHhhHHHHHHHHHHHHHHHHHhhhcc-----------
+Confidence            9999999999999999999999999999999999999999999999984           
+
+
+Q ss_pred             cccchhhHHHHHHHHHHHHHHHHHhhhcCcceeechhHHHHHHHHHHHhhhcCCCchhhh
+Q 5GKY_1_Chains_ 3125 VGQNLTYTTVALLPVLTTLFQHIAQHQFGDDVILDDVQVSCYRTLCSIYSLGTTKNTYVE 3184 (5037)
+Q Consensus      3125 ~~~~i~y~~~~llPvLTslF~Hla~~~fG~dlllddiQvsCYrIL~slY~Lgt~~~~~ve 3184 (5037)
+                      ++++|+|++++||||||+||+|||+|+||.|||+||||+||||||||||+|||++++|+|
+T Consensus      2571 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2630 (4061)
+T c9c1eB_        2571 VSQNINYTTVALLPILTSIFEHVAQHQFGVDLLLGDVQISCYHILCSLYSLGTGKNIYVE 2630 (4061)
+T ss_pred             CccchHHHHhhhhhhhhhhhhhhhhcccCccccchhhhhhhHHHHhhHhhhcCCCccccc
+Confidence            678999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hhhhhHHHHHHHHhhccceeeecccccccCceeeeecCCcchhhhhhhhHHHHHhccchh
+Q 5GKY_1_Chains_ 3185 KLRPALGECLARLAAAMPVAFLEPQLNEYNACSVYTTKSPRERAILGLPNSVEEMCPDIP 3244 (5037)
+Q Consensus      3185 r~RpalG~CLaala~afPVAFLEp~lN~~N~~Sv~~t~~~~er~il~~pd~v~~mc~~iP 3244 (5037)
+                      ||||++|+||||||+|||||||||+||+|||+||++++.++|++.|+++++++++++++|
+T Consensus      2631 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2690 (4061)
+T c9c1eB_        2631 RQRPALGECLASLAAAIPVAFLEPTLNRYNPLSVFNTKTPRERSILGMPDTVEEMCPDIP 2690 (4061)
+T ss_pred             cCCchhhhHHHHHhhccchhhccccCCCCCCcccccCCCcccccccCCCcccccccCCCc
+Confidence            999999999999999999999999999999999999777678988999999999999999
+
+
+Q ss_pred             hHHHHHHHHHHHHhcCcchhcCchhhhhhHHHHhhhhhhHHhhCCCCCCcccccCCCCce
+Q 5GKY_1_Chains_ 3245 VLDRLMADIGGLAESGARYTEMPHVIEITLPMLCSYLPRWWERGPEAPPPALPAGAPPPC 3304 (5037)
+Q Consensus      3245 ~Le~ll~ei~~laeSgaryte~PhvieV~LPmLCsYl~~WW~~GPe~~p~~~~~~~~~~~ 3304 (5037)
+                      +|+++++||+++|++|++|+++||||||+|||||||||+||++||++...    .++++|
+T Consensus      2691 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~----~~~~~~ 2746 (4061)
+T c9c1eB_        2691 QLEGLMKEISDLAESGARYTEMPHVIEVILPMLCNYLSYWWERGPEHLPP----STGPWC 2746 (4061)
+T ss_pred             hhhhHHHHHHHHhhccCcccCCCCcchhhhhhhhhccccccccCCCCCCC----CCCCce
+Confidence            99999999999999999999999999999999999999999999999443    157899
+
+
+Q ss_pred             eecCHHHHHHHHHHHHHHHhhcCCCCccchhhhhhhhhhhhhccCchhhhhccchhHHHH
+Q 5GKY_1_Chains_ 3305 TAVTSDHLNSLLGNILRIIVNNLGIDEATWMKRLAVFAQPIVSRARPELLHSHFIPTIGR 3364 (5037)
+Q Consensus      3305 T~Vt~eHln~llg~iLkii~nnlGi~~A~Wm~Riav~~qpIi~~a~~elLk~hflP~~Er 3364 (5037)
+                      |+||++|||++||+||+||+||+|.++||||+|||+++||||+|++++||++||||+|||
+T Consensus      2747 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2806 (4061)
+T c9c1eB_        2747 TKVTSEHLSVILGNILKIINNNLGIDEASWMKRIAVYAQPIISKARPDLLKSHFIPTLEK 2806 (4061)
+T ss_pred             eeeccccchHHHHHHHHHHhccCCCCCCccccccccccccccccCCccccccCchHHHHH
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             HHHHHHHHHhHHHhhhccccccchhHHHHHHHHHHHHHHHHHHHhhHHHHHHhhhhhhhc
+Q 5GKY_1_Chains_ 3365 LRKRAGKVVAEEEQLRLEAKAEAEEGELLVRDEFSVLCRDLYALYPLLIRYVDNNRAHWL 3424 (5037)
+Q Consensus      3365 Lkk~a~kv~~eEE~lr~~~k~d~~e~e~~i~def~vL~RDlYAfYPlLIryvD~~Ra~WL 3424 (5037)
+                      ||+||++++++||+||+++++|++++|++|||+|++|||||||||||||||||+||++||
+T Consensus      2807 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2866 (4061)
+T c9c1eB_        2807 LKKKAVKTVQEEEQLKADTKGDTQEAELLILDEFAVLCRDLYAFYPMLIRYVDNNRSNWL 2866 (4061)
+T ss_pred             HHHHHhhhhhHHHhhhhccCCCchhhhhhhhhhhhhhhhhhhhhhhhhhhhhcccccccc
+Confidence            999999999999999999888999999999999999999999999999999999999999
+
+
+Q ss_pred             cCCCccHHHHHHHHHHHHHHHHhhccchhhhhhhhhhhhhhhhhhhcccccchhhhcccc
+Q 5GKY_1_Chains_ 3425 TEPNANAEELFRMVGEIFIYWSKSHNFKREEQNFVVQNEINNMSFLTADSKSKMAKAGDA 3484 (5037)
+Q Consensus      3425 k~p~~eae~lf~mVaeiF~~WskShnFkrEEqNfVvqnEinn~sflt~d~kskmsk~~~~ 3484 (5037)
+                      |+|+++||+||++||+||++|+|||+|||||||||+|||||||+++|+.+          
+T Consensus      2867 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~---------- 2916 (4061)
+T c9c1eB_        2867 KSPSADSDQLFRMVAEVFILWCKSHNFKREEQNFVIQNEINNLAFLTGGQ---------- 2916 (4061)
+T ss_pred             CCCChhHHHHHHHHHHHhhhcccccCccccccccccccccccchhccCCC----------
+Confidence            99999999999999999999999999999999999999999999999821          
+
+
+Q ss_pred             CcccchhHHHHHhhcccccccchhHHHHHHHhhhhchhhhcCCchHHHHHHHHhhhhhcC
+Q 5GKY_1_Chains_ 3485 QSGGSDQERTKKKRRGDRYSVQTSLIVATLKKMLPIGLNMCAPTDQDLIMLAKTRYALKD 3544 (5037)
+Q Consensus      3485 ~~~g~~~er~kkkrrgd~ys~qtSLiVA~lKrlLPiGLn~c~~~dqeLi~~aK~ry~~kd 3544 (5037)
+                           +++|+|+|||+|+|+.+|||||||||||||||||+|+||||||||+||+||++|+
+T Consensus      2917 -----~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2971 (4061)
+T c9c1eB_        2917 -----DQERKKTKRRGDLYSIQTSLIVAALKKMLPIGLNMCTPGDQELISLAKSRYSYRD 2971 (4061)
+T ss_pred             -----cccccccccCCCCCCccchhHHHHHhhcccccccccCCchHHHHHHhhhhhccCC
+Confidence                 3566677899999999999999999999999999999999999999999999999
+
+
+Q ss_pred             ChHHHHHHHHhhcccccccCCchhHHHHHHHHhhhcccccCcCCHHHHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 3545 TDEEVREFLQNNLHLQGKVEGSPSLRWQMALYRGLPGREEDADDPEKIVRRVQEVSAVLY 3604 (5037)
+Q Consensus      3545 te~evre~~~~~L~l~~K~d~~~~~~WQ~~LYr~~~~r~ed~~~~e~~V~rv~~~s~vl~ 3604 (5037)
+                      +|++|+||++++|++++|.++ |+++||+.||+|++ +..+.++++++|+||++||||+|
+T Consensus      2972 ~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~~~~~~~~ 3029 (4061)
+T c9c1eB_        2972 TDEEVKEHLRNNLHLQEKSDD-PAVKWQLNLYKDVL-KSEEPFNAEKTIERVQRISAAVF 3029 (4061)
+T ss_pred             chHHHHHHHhhcccccCCCCC-hhhhhhHhhhhccc-cCCCCCChhhHHHHHHHHHHHHH
+Confidence            999999999999999999866 67999999999998 45567888999999999999999
+
+
+Q ss_pred             hHHhhhCchhhhhccchhhCChhHHHHHHHHHhhcccccCcchhhhhhHHHHHHHhhhhh
+Q 5GKY_1_Chains_ 3605 HLEQTEHPYKSKKAVWHKLLSKQRRRAVVACFRMTPLYNLPTHRACNMFLESYKAAWILT 3664 (5037)
+Q Consensus      3605 ~L~~~ehp~~~kk~vw~kllS~QRkRaVvacfrm~pLynlp~HRa~N~Fl~~y~~~Wl~~ 3664 (5037)
+                      |||+||||+                       ||+||||||||||||+||++|++.||+.
+T Consensus      3030 ~~~~~~~~~-----------------------~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3066 (4061)
+T c9c1eB_        3030 HLEQVEQPL-----------------------RSAPLYNLPRHKINNFFLSTFQRVWLEK 3066 (4061)
+T ss_pred             HHHhhcCCc-----------------------ccCccCCCCccccccccchhhhhhhhhh
+Confidence            999999996                       9999999999999999999999999996
+
+
+Q ss_pred             -ccchhhHHHHHHHhcccccccccccccccCCChHHHHHHHhhhhhchhhhhccccchhh
+Q 5GKY_1_Chains_ 3665 -EDHSFEDRMIDDLSKAGEQEEEEEEVEEKKPDPLHQLVLHFSRTALTEKSKLDEDYLYM 3723 (5037)
+Q Consensus      3665 -Ee~~~e~~~i~dl~~s~~~~e~~~~~~~~~pDPL~QLi~~F~r~AltE~s~l~eD~LYm 3723 (5037)
+                       +|++++++||+||+++           +.+||||+||+++|+|++++|...+++|.||+
+T Consensus      3067 ~~~~~~~~~~~~~~~~~-----------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3115 (4061)
+T c9c1eB_        3067 VNEKTQYDRLIPILMKS-----------PKQPDPLHQIILHFSRNALTERSKLEDDPLYT 3115 (4061)
+T ss_pred             ccccccccchhhhhhcC-----------CCCCCchhhhhhhhchhhhccccccCCCchhh
+Confidence             7999999999999974           34689999999999999999999999999999
+
+
+Q ss_pred             hHHHHHHhhhccccccccccccccccccchhHHHHHHHHHHHHHHHHhhhhHHHHHHHHH
+Q 5GKY_1_Chains_ 3724 AYADIMAKSCHLEEGGENGEAEEEEVEVSFEEKEMEKQRLLYQQSRLHTRGAAEMVLQMI 3783 (5037)
+Q Consensus      3724 ayA~imaKSc~~eeeee~~eee~e~~~~sfeekEmekQ~ll~~QarL~~RGaaeMvL~~i 3783 (5037)
+                      .|++||+++||++              .+++|+++++|++.++|++|+++||++|||.+|
+T Consensus      3116 ~~~~~~~~~~~~~--------------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3161 (4061)
+T c9c1eB_        3116 SYSSMMAKSCQSE--------------KTFEEKEMEKQKTLYQQARLHERGAAEMVLQMI 3161 (4061)
+T ss_pred             hhhhhhhcccccc--------------chhhHHHHHHhhHHHHHHHHHhcCcHHHHHHHH
+Confidence            9999999999972              356789999999999999999999999999999
+
+
+Q ss_pred             HhcCCCchhHHHHHHhhhhhhhcCCcHHHHHHHHHHHHhhhhhhHHHHHHHHhhccceec
+Q 5GKY_1_Chains_ 3784 SACKGETGAMVSSTLKLGISILNGGNAEVQQKMLDYLKDKKEVGFFQSIQALMQTCSVLD 3843 (5037)
+Q Consensus      3784 sAskGe~~~mV~~TLkLGI~iLnGGN~~vQ~~mldyLk~kkdvgFF~S~agLm~~CSVLd 3843 (5037)
+                      +++++..+.++.+++.|||+||+|||.+||++|++||++++++.||.+++.+|+.|++.+
+T Consensus      3162 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3221 (4061)
+T c9c1eB_        3162 SASKGEMSPMVVETLKLGIAILNGGNAGVQQKMLDYLKEKKDAGFFQSLSGLMQSCSVLD 3221 (4061)
+T ss_pred             HccCCCChHhHHHHHHHHHHHHcCCCchhHHHHHHHHhcCCcchHHHHHHhhhhccchhh
+Confidence            998887788999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hHHHhhhhhhhcceeeccccccccccccccccchhhhhHHHHHHHHHHhcccchhHHHHh
+Q 5GKY_1_Chains_ 3844 LNAFERQNKAEGLGMVNEDGTVINRQNGEKVMADDEFTQDLFRFLQLLCEGHNNDFQNYL 3903 (5037)
+Q Consensus      3844 L~aFERqnKAEGLGm~~e~~s~~~~~~gek~m~D~eFTc~LFRFLQLlCEGHN~dfQNyL 3903 (5037)
+                      ++.+++++++++.+.....+      ..+..+.+..+++.+|||||+||||||.+|||||
+T Consensus      3222 ~~~~~~~~~~~~~~~~~~~~------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3275 (4061)
+T c9c1eB_        3222 LNAFERQNKAEGLGMVTEEG------TREKVLQNDEFTRDLFRFLQLLCEGHNSDFQNFL 3275 (4061)
+T ss_pred             hhhhhhhhhccCCCccccCc------cccccccchhhHHHHHHHHHHHhccCCchhhhhH
+Confidence            99999999888766443322      2345677888999999999999999999999999
+
+
+Q ss_pred             hccCCCceEEEEEeechHHHHHHHHhhhhhhhhcccchhcChhhHHhHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 3904 RTQTGNTTTINIIICTVDYLLRLQESISDFYWYYSGKDVIEEQGKRNFSKAMSVAKQVFN 3963 (5037)
+Q Consensus      3904 RTQ~GnTttvNiii~TVDYLLRLQESI~DFYW~YS~KdvIDe~Gk~nF~kAi~VakQVFN 3963 (5037)
+                      |.|++|.+|||+|.++++||..++++++||||||+++++++..++.+++.++++++|+|+
+T Consensus      3276 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3335 (4061)
+T c9c1eB_        3276 RTQMGNTTTINVIISTVDYLLRLQESISDFYWYYSGKDIIDESGQHNFSKALAVTKQIFN 3335 (4061)
+T ss_pred             HhcCCCCCccchHHHHHHHHHHHhhhhchhhhhccCCccccCCCCcchhhHHHHHHHHHH
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             HHHHhhcCCcccchHHHHHHHHHHHHHHHHHHHHHHHHHhhcChhHHHHHHHHHHhHHHH
+Q 5GKY_1_Chains_ 3964 SLTEYIQGPCTGNQQSLAHSRLWDAVVGFLHVFAHMMMKLAQDSSQIELLKELLDLQKDM 4023 (5037)
+Q Consensus      3964 tLTEyIQGPCtgNQqsLAhSRLWDAV~GFl~vFAhM~~KLsqdssQi~LLkElL~LQKdm 4023 (5037)
+                      ||||+|||||.+||++|+++++||++++||+++++|+++..+++.+.+.++++++||++|
+T Consensus      3336 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3395 (4061)
+T c9c1eB_        3336 SLTEYIQGPCIGNQQSLAHSRLWDAVVGFLHVFANMQMKLSQDSSQIELLKELLDLLQDM 3395 (4061)
+T ss_pred             HhhhhccCCCccccchhhccChHHHHHHHHHhhhhhhhhhcCCchhHHHHHHHHHHHHHH
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             HHHHHHHhcCccccchHHHHHHHHHhhccccHHHHHHHHHHHHHHHhhhcCchhhhhccC
+Q 5GKY_1_Chains_ 4024 VVMLLSLLEGNVVNGMIARQMVDMLVESSSNVEMILKFFDMFLKLKDIVGSEAFQDYVTD 4083 (5037)
+Q Consensus      4024 ivmlLSmLEGNVvNGtIgkQMVD~LVESssNVEmILKffDMFLKLKdlt~S~aF~~yd~~ 4083 (5037)
+                      ++|||||||||++|++|++||+++|++++.|++||++||++|+|++++++++.|.++|.+
+T Consensus      3396 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3455 (4061)
+T c9c1eB_        3396 VVMLLSLLEGNVVNGTIGKQMVDTLVESSTNVEMILKFFDMFLKLKDLTSSDTFKEYDPD 3455 (4061)
+T ss_pred             HHHHHHHhccCCCCchHHHHHHhhhccchhhHHHHHHHHHHHhhhcccCCCccccccCCC
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             CCccccHHHHHHHHhhhhccCHHHHhhhhhhhCCCccccccHHHHHHhhhchhhhccchh
+Q 5GKY_1_Chains_ 4084 PRGLISKKDFQKAMDSQKQFTGPEIQFLLSCSEADENEMINFEEFANRFQEPARDIGFNV 4143 (5037)
+Q Consensus      4084 ~~G~IS~kdFqkaMesqK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~ePAkdIGFNv 4143 (5037)
+                      .+|++++++|+++|+.+|.|+.+++.++++|.+.+++++++|.+|.++|++++++||||+
+T Consensus      3456 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3515 (4061)
+T c9c1eB_        3456 GKGIISKKEFQKAMEGQKQYTQSEIDFLLSCAEADENDMFNYVDFVDRFHEPAKDIGFNV 3515 (4061)
+T ss_pred             CCCCCCHHHHHHHHhhcccchhhhHhhhhhhhhccccccccchhhhcccCccccchhhHH
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hhhhhhhhhcCCCcHHHHHHHHHhHHHHHHhhhhcceEEEecCCceeEEEEeeechhhHh
+Q 5GKY_1_Chains_ 4144 AVLLTNLSEHVPHDPRLRNFLELAESILEYFRPYLGRIEIMGASRRIERIYFEISETNRA 4203 (5037)
+Q Consensus      4144 AVLLTNLsEH~p~d~RL~~fle~A~svL~YF~PfLGRIEImGsskrIERvYFEIses~~~ 4203 (5037)
+                      ++|++||++|||+++|++++++.+.++++||++++|||||++.+++||||||+|+++|+.
+T Consensus      3516 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3575 (4061)
+T c9c1eB_        3516 AVLLTNLSEHMPNDSRLKCLLDPAGSVLNYFEPYLGRIEIMGGAKKIERVYFEISESSRT 3575 (4061)
+T ss_pred             HHHhhhhhhcCCCChhhhhhcCcchhhhhhhccCceeEEEEcCCCceEeEEEecCCcccc
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hhhchhhHHHhHhhhHhhhcCCcchhHHHHHHHHhhhhHHHHHHHHhhcccccccccccc
+Q 5GKY_1_Chains_ 4204 QWEMPQVKESKRQFIFDVVNEGGEAEKMELFVSFCEDTIFEMQIAAQISEPEGEPEADED 4263 (5037)
+Q Consensus      4204 QWekpQvkESKrqFifdVvnEgGd~eKmE~FVNFCEDtIFEMq~As~ise~e~~~~~~~d 4263 (5037)
+                      ||++|++||+||+|++++|+++++++|+++|++||||+|+||+|+++|+..         
+T Consensus      3576 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--------- 3626 (4061)
+T c9c1eB_        3576 QWEKPQVKESKRQFIFDVVNEGGEQEKMELFVNFCEDTIFEMQLASQISEL--------- 3626 (4061)
+T ss_pred             cccCcCcchhhhhhhhhhccCCChhhHHHHHHhhhhHHHHHHHHHhhhhhh---------
+Confidence            999999999999999999999999999999999999999999999988531         
+
+
+Q ss_pred             cchhhhhhhhcccccccccccccchhhhHHHHHHHHHHHHhhhcCHHHHHHHHHHhhcCC
+Q 5GKY_1_Chains_ 4264 EGMGEAAAEGAEEGAAGAEGAAGTVAAGATARLAAAAARALRGLSYRSLRRRVRRLRRLT 4323 (5037)
+Q Consensus      4264 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~r~mt 4323 (5037)
+                                                                                  
+T Consensus      3627 ------------------------------------------------------------ 3626 (4061)
+T c9c1eB_        3627 ------------------------------------------------------------ 3626 (4061)
+T ss_pred             ------------------------------------------------------------
+Confidence                                                                        
+
+
+Q ss_pred             hHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhchhhhcccccchhHHHhhccC
+Q 5GKY_1_Chains_ 4324 AREAATALAALLWAVVARAGAAGAGAAAGALRLLWGSLFGGGLVEGAKKVTVTELLAGMP 4383 (5037)
+Q Consensus      4324 ~~~~~~~~~~~~~~i~~~~~~~~~~v~~~~~~~l~~~lfgg~L~egak~~~~~e~l~~m~ 4383 (5037)
+                                                                                  
+T Consensus      3627 ------------------------------------------------------------ 3626 (4061)
+T c9c1eB_        3627 ------------------------------------------------------------ 3626 (4061)
+T ss_pred             ------------------------------------------------------------
+Confidence                                                                        
+
+
+Q ss_pred             CcchhhcccccCccccccccccccccccccccccccchhhhhhcccccccccccccccCC
+Q 5GKY_1_Chains_ 4384 DPTSDEVHGEQPAGPGGDADGAGEGEGEGDAAEGDGDEEVAGHEAGPGGAEGVVAVADGG 4443 (5037)
+Q Consensus      4384 dpt~d~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4443 (5037)
+                                                                                  
+T Consensus      3627 ------------------------------------------------------------ 3626 (4061)
+T c9c1eB_        3627 ------------------------------------------------------------ 3626 (4061)
+T ss_pred             ------------------------------------------------------------
+Confidence                                                                        
+
+
+Q ss_pred             CCCCCCCCcccccccCCCCCCCCcccchhHHHhhcccccccccccccccccchhhhhccc
+Q 5GKY_1_Chains_ 4444 PFRPEGAGGLGDMGDTTPAEPPTPEGSPILKRKLGVDGEEEELVPEPEPEPEPEPEKADE 4503 (5037)
+Q Consensus      4444 ~~~~~~~~~lgd~~~~~~~~~p~~e~~~~l~~~~~~~~~~~~~~~~~~~e~~~~~~~a~~ 4503 (5037)
+                                                                                  
+T Consensus      3627 ------------------------------------------------------------ 3626 (4061)
+T c9c1eB_        3627 ------------------------------------------------------------ 3626 (4061)
+T ss_pred             ------------------------------------------------------------
+Confidence                                                                        
+
+
+Q ss_pred             cccccccccccCccccccccccccccccccccchhhhhhhhhHhHHHHHHHHHhccchHH
+Q 5GKY_1_Chains_ 4504 ENGEKEEVPEAPPEPPKKAPPSPPAKKEEAGGAGMEFWGELEVQRVKFLNYLSRNFYTLR 4563 (5037)
+Q Consensus      4504 e~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~k~lnylaRNFynlr 4563 (5037)
+                                                               ..+++++++++++|+++|+
+T Consensus      3627 -----------------------------------------~~~~~~~~~~~~~~~~~~~ 3645 (4061)
+T c9c1eB_        3627 -----------------------------------------EIYQTKLLHYLARNFYNLR 3645 (4061)
+T ss_pred             -----------------------------------------hhhhHHHHHHHhhhhHHHH
+Confidence                                                     0024556789999999999
+
+
+Q ss_pred             HHHHHHHHHHHHHhhhhhcccCCcccccccccccccccccccccccccCccccccccccc
+Q 5GKY_1_Chains_ 4564 FLALFLAFAINFILLFYKVSDSPPGEDDMEGSAAGDLAGAGSGGGSGWGSGAGEEAEGDE 4623 (5037)
+Q Consensus      4564 ~laL~lAFaINfiLLFykV~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4623 (5037)
+                      .++|++||+||++||||++....                                     
+T Consensus      3646 ~~~~~~~~~~~~~~~~~~~~~~~------------------------------------- 3668 (4061)
+T c9c1eB_        3646 FLALFVAFAINFILLFYKVTEEA------------------------------------- 3668 (4061)
+T ss_pred             HHHHHHHHHHHHHHHHhcccccc-------------------------------------
+Confidence            99999999999999999865311                                     
+
+
+Q ss_pred             cCceeEEEEecchhhHHHHHHHHHHHHHHHHHHHHHHHhhhhcceeeeehhHHHHHhhhh
+Q 5GKY_1_Chains_ 4624 DENMVYYFLEESTGYMEPALWCLSLLHTLVAFLCIIGYNCLKVPLVIFKREKELARKLEF 4683 (5037)
+Q Consensus      4624 ~~~~~~~~l~E~tgyM~p~l~~la~lHtiiSf~~ii~yy~LKVPLviFKREKEiARkLeF 4683 (5037)
+                         ..++...+...|+.+++.+|+++|+++|++++++|+++++|++|||++|+++|+++|
+T Consensus      3669 ---~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3725 (4061)
+T c9c1eB_        3669 ---MVFFVLQESTGYMAPALRALAIIHTVISLVCVVGYYCLKVPLVVFKREKEIARKLEF 3725 (4061)
+T ss_pred             ---ceeeeeccCCCchhHHHHHHHHHHHHHHHHHHHHHHhhccchhhhHHHHHHhhhccc
+Confidence               123344556678999999999999999999999999999999999999999999999
+
+
+Q ss_pred             ccceeccCCCccchhhhhheeeecCCcCChhHHHHHHHHHHHHHhhhhhCHHHHHHHhcc
+Q 5GKY_1_Chains_ 4684 DGLYITEQPGDDDVKGQWDRLVLNTPSFPSNYWDKFVKRKVLDKHGDIFGRERIAELLGM 4743 (5037)
+Q Consensus      4684 dGlyIteqp~eDdik~~wDrLVi~t~SFP~nYWDKFVKrKv~~Ky~d~y~~e~I~~LLGm 4743 (5037)
+                      +|+|++++|.+++++++|+++++++++||.+|||||+++|+++||++.++.+++++++|+
+T Consensus      3726 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3785 (4061)
+T c9c1eB_        3726 DGLYITEQPSEDDIKGQWDRLVINTPSFPNNYWDKFVKRKVINKYGDLYGAERIAELLGL 3785 (4061)
+T ss_pred             cccccccCCCcchhhhhhhheehcCCCCCcccccceeeeeeeeeccccccHHHHHHHhCC
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             chhhcccccccccccccccchhhhhhccchhheeeeeeeeeecChhHHHHHHHHHHHHcc
+Q 5GKY_1_Chains_ 4744 DLASLEITAHNERKPDPPPGLLTWLMSIDVKYQIWKFGVIFTDNSFLYLGWYMVMSLLGH 4803 (5037)
+Q Consensus      4744 dk~s~d~~~~~e~k~~~~~~~~~~~~siD~kYqvWk~GVvfTdnsFLYl~wY~~~S~lG~ 4803 (5037)
+                      ++....+.                  .++++|++|++||+|+|+.++|+++|+++|++|+
+T Consensus      3786 ~~~~~~~~------------------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3827 (4061)
+T c9c1eB_        3786 DKNALDFS------------------PIDMKYHIWKLGVVFTDNSFLYLAWYTTMSVLGH 3827 (4061)
+T ss_pred             CCCCCCCC------------------cccccceeeeeeeeccchhHHHHHHHHHHHHHhh
+Confidence            88755321                  3678999999999999999999999999999999
+
+
+Q ss_pred             cchHHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHHHHHHHHHHHHHHHh
+Q 5GKY_1_Chains_ 4804 YNNFFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTVVAFNFFRKFY 4863 (5037)
+Q Consensus      4804 ~nnFFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVYLYTVvAFNFFRKFY 4863 (5037)
+                      +++|||++|||||++++++|++|++|||+|+++|++|++|++|++|+||++||++|+++|
+T Consensus      3828 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3887 (4061)
+T c9c1eB_        3828 YNNFFFAAHLLDIAMGFKTLRTILSSVTHNGKQLVLTVGLLAVVVYLYTVVAFNFFRKFY 3887 (4061)
+T ss_pred             hhHHHHHHHHHHHhhcchhHHHHHHHHhhCCchhHHHHHHHHHHHHHHHHhhhhhhcccc
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hccccCCCCccchhhhHHHHHHHHHhhhhcCCccccccCCCCCCcchhhhhhhhHHHHHH
+Q 5GKY_1_Chains_ 4864 NKSEDEDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIEDPAGDEYELYRVVFDITFFFF 4923 (5037)
+Q Consensus      4864 ~k~ed~depD~KC~dM~TCy~fHmY~GVRAGGGIGDEIEdP~GDeyE~yRi~fDItFFFF 4923 (5037)
+                      ...+++++.+..|+++++||++++++|+|+||||||.+.++.++++.++|++||++|||+
+T Consensus      3888 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3947 (4061)
+T c9c1eB_        3888 NKSEDDDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIEDPAGDPYEMYRIVFDITFFFF 3947 (4061)
+T ss_pred             cCCCCCCCCCCCCCchhhhhhheeeeeeecccccccccCCCCCCcchhhHHHHhhHHHHH
+Confidence            877666677889999999999999999999999999999988888888999999999999
+
+
+Q ss_pred             HHHHHHHHHhhHHHhHHHhhhhHHHHHHHhhhccceEecccchhhhcCCCccchhhhhhh
+Q 5GKY_1_Chains_ 4924 VIVILLAIIQGLIIDAFGELRDQQEQVKEDMETKCFICGIGSDYFDTTPHGFETHTLEEH 4983 (5037)
+Q Consensus      4924 VIvILLAIiQGLIIDAFGELRDQqEqvkEdmEtkCFICgIG~dyFD~~PhGFetHt~~EH 4983 (5037)
+                      |++|++|||+|||||||++||++++++++|++++|||||++++.||+.++||++|+++||
+T Consensus      3948 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4007 (4061)
+T c9c1eB_        3948 VIVILLAIIQGLIIDAFGELRDQQEQVREDMETKCFICGIGNDYFDTTPHGFETHTLQEH 4007 (4061)
+T ss_pred             HHHHHHHHhhhcchhhHHHHHHHHHHHHhhhccCCccccccccccccCCCcccccccccc
+Confidence            999999999999999999999999999999999999999999999999999999999999
+
+
+Q ss_pred             hHHHHHHHHHHHhCCccccccchhHHHHHHHhccccceeehHHHHHHHhhhhcC
+Q 5GKY_1_Chains_ 4984 NLANYMFFLMYLINKDETEHTGQESYVWKMYQERCWDFFPAGDCFRKQYEDQLS 5037 (5037)
+Q Consensus      4984 NlANYmFFLm~LINKdeTE~TGQEsYVwkmYqeRcWdFFP~GdCFrKQYEdqL~ 5037 (5037)
+                      |+|+|+||++||+.||++||||+|+||++++++++++|||+|+|+++||||||+
+T Consensus      4008 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4061 (4061)
+T c9c1eB_        4008 NLANYLFFLMYLINKDETEHTGQESYVWKMYQERCWDFFPAGDCFRKQYEDQLG 4061 (4061)
+T ss_pred             hhHHHHHHHhhhhcCCCCCCCChHHHHHHHhhhcCCCCcCCcchhhchhhhccC
+Confidence            999999999999999999999999999999999999999999999999999984
+
+

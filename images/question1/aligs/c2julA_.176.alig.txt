@@ -1,0 +1,32 @@
+176 c2julA_ Probab=91.99  E-value=0.11  Score=44.67  Aligned_cols=128  Identities=13%  Similarity=0.231  Sum_probs=0.0  Template_Neff=13.743
+
+Q ss_pred             hhHHHHHHHHHHhHHHHHHHHHHHhcCccccchHHHHHHHHHhhccccHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4007 SSQIELLKELLDLQKDMVVMLLSLLEGNVVNGMIARQMVDMLVESSSNVEMILKFFDMFL 4066 (5037)
+Q Consensus      4007 ssQi~LLkElL~LQKdmivmlLSmLEGNVvNGtIgkQMVD~LVESssNVEmILKffDMFL 4066 (5037)
+                      +.+++.++....+-++-|.-+...+....-+|.|...-....+........-..+.+...
+T Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   60 (181)
+T c2julA_           1 PEGLDQLQAQTKFTKKELQSLYRGFKNECPTGLVDEDTFKLIYSQFFPQGDATTYAHFLF   60 (181)
+T ss_dssp             CTHHHHHHHHTTSCHHHHHHHHHHHHHHCTTSSEEHHHHHHHHHHHCCSSCCHHHHHHHH
+T ss_pred             ChHHHHHHHhcCCCHHHHHHHHHHHHHhCCCCCcCHHHHHHHHHHHccCcchHHHHHHHH
+
+
+Q ss_pred             HHHhhhcCc-------------------------hhhhhccCCCccccHHHHHHHHh---
+Q 5GKY_1_Chains_ 4067 KLKDIVGSE-------------------------AFQDYVTDPRGLISKKDFQKAMD--- 4098 (5037)
+Q Consensus      4067 KLKdlt~S~-------------------------aF~~yd~~~~G~IS~kdFqkaMe--- 4098 (5037)
+                      +.-|.....                         .|+-||+|++|.|+..+|...+.   
+T Consensus        61 ~~~d~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~f~~~d~~~~~~i~~~~~~~~~~~~~  120 (181)
+T c2julA_          61 NAFDADGNGAIHFEDFVVGLSILLRGTVHEKLKWAFNLYDINKDGCITKEEMLAIMKSIY  120 (181)
+T ss_dssp             HHSSCSCCSEECSHHHHHHHHHHHSCCHHHHHHHHHHHTCCSSSSCBCHHHHHHHHHHHH
+T ss_pred             HHHccCCCCeEeHHHHHHHHHHhcCCCHHHHHHHHHHhhcCCCCCcCcHHHHHHHHHHHH
+
+
+Q ss_pred             ----------hhhccCHHHHhhhhhhhCCCccccccHHHHHHhhhc
+Q 5GKY_1_Chains_ 4099 ----------SQKQFTGPEIQFLLSCSEADENEMINFEEFANRFQE 4134 (5037)
+Q Consensus      4099 ----------sqK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~e 4134 (5037)
+                                ........++.-++...+.+.+|.|+|.+|...+..
+T Consensus       121 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~i~~~ef~~~~~~  166 (181)
+T c2julA_         121 DMMGRHTYPILREDAPLEHVERFFQKMDRNQDGVVTIDEFLETCQK  166 (181)
+T ss_dssp             HHCCCCCSCCSCCCCHHHHHHHHHHHSCCSTTCSBCHHHHHHHHHH
+T ss_pred             HhcCCcccccCcchHHHHHHHHHHHHhCCCCCCcEeHHHHHHHHHc
+
+

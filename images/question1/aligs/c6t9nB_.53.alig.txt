@@ -1,0 +1,32 @@
+53 c6t9nB_ Probab=91.79  E-value=0.33  Score=50.74  Aligned_cols=149  Identities=19%  Similarity=0.331  Sum_probs=0.0  Template_Neff=12.552
+
+Q ss_pred             HHHHHHHHHHHcccchHHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4791 YLGWYMVMSLLGHYNNFFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYL 4850 (5037)
+Q Consensus      4791 Yl~wY~~~S~lG~~nnFFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVYL 4850 (5037)
+                      +..++.....++.+.-|+-...++-.....+.++.+...+..--++++..+.++++++..
+T Consensus       331 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  390 (480)
+T c6t9nB_         331 LAYWQIQFNNIAAVTVFFVWIKLFKFINFNRTMSQLSTTMSRCAKDLFGFAIMFFIIFLA  390 (480)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHHGGGSCCCSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHhcccHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHhhccccCCCCccchhhhHHHHHHHHHhhhhcCCccccccCCCCCCcch
+Q 5GKY_1_Chains_ 4851 YTVVAFNFFRKFYNKSEDEDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIEDPAGDEYE 4910 (5037)
+Q Consensus      4851 YTVvAFNFFRKFY~k~ed~depD~KC~dM~TCy~fHmY~GVRAGGGIGDEIEdP~GDeyE 4910 (5037)
+                      |+.++.-.|.          .......+...+++.-+-.-+  |..--+++.+...    
+T Consensus       391 f~~~~~~~~g----------~~~~~f~~~~~~~~~~~~~~~--g~~~~~~~~~~~~----  434 (480)
+T c6t9nB_         391 YAQLAYLVFG----------TQVDDFSTFQECIFTQFRIIL--GDINFAEIEEANR----  434 (480)
+T ss_dssp             HHHHHHHHHT----------TTCGGGSSHHHHHHHHHHHHH--TCCCHHHHHHHCT----
+T ss_pred             HHHHHHHHHc----------CchhhhCCHHHHHHHHHHHHH--cCCCHHHHHHhcc----
+
+
+Q ss_pred             hhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHHHHHhhh
+Q 5GKY_1_Chains_ 4911 LYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQVKEDME 4955 (5037)
+Q Consensus      4911 ~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEqvkEdmE 4955 (5037)
+                      ..-.+|=++|.+++.++++.++-+.|+|+|.+.+++.++-+++++
+T Consensus       435 ~~~~~~~~~~~~~~~~~~~n~~~ai~~~~~~~~~~~~~~~~~~~~  479 (480)
+T c6t9nB_         435 VLGPIYFTTFVFFMFFILLNMFLAIINDTYSEVKSDLAQQKAEME  479 (480)
+T ss_dssp             THHHHHHHHHCCCCCCCCHHHHHHHHHHHHHHHHHHHHHHHHHTT
+T ss_pred             hHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcCccccC
+
+

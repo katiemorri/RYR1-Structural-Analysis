@@ -1,0 +1,22 @@
+184 c2jojA_ Probab=86.74  E-value=0.21  Score=32.97  Aligned_cols=64  Identities=27%  Similarity=0.434  Sum_probs=0.0  Template_Neff=15.501
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhhh-ccCHHHHhhhhhhhCCCccccccHHHHHHhhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQK-QFTGPEIQFLLSCSEADENEMINFEEFANRFQ 4133 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesqK-~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~ 4133 (5037)
+                      ..|..+|.+.+|.++..++...+..-. ..+..++..++.+...+.++.++|.+|..-+.
+T Consensus        11 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   70 (77)
+T c2jojA_          11 EAFDLFDTNKTGSIDYHELKVAMRALGFDVKKPEILELMNEYDREGNGYIGFDDFLDIMT   70 (77)
+T ss_dssp             HHHHHHCCSSSSEEEHHHHHHHHHHHTCCCHHHHHHHHHHHHCCSSSSEEEHHHHHHHHT
+T ss_pred             HHHHHhCCCCCCcCcHHHHHHHHHHhCCCCCHHHHHHHHHHhCCCCCceeeHHHHHHHHH
+
+
+Q ss_pred             chhhh
+Q 5GKY_1_Chains_ 4134 EPARD 4138 (5037)
+Q Consensus      4134 ePAkd 4138 (5037)
+                      .....
+T Consensus        71 ~~~~~   75 (77)
+T c2jojA_          71 EKIKN   75 (77)
+T ss_dssp             HHHHT
+T ss_pred             HHhcc
+
+

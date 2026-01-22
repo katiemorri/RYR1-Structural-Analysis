@@ -1,0 +1,32 @@
+84 c7u0uA_ Probab=95.01  E-value=0.021  Score=50.70  Aligned_cols=160  Identities=14%  Similarity=0.212  Sum_probs=0.0  Template_Neff=13.537
+
+Q ss_pred             HHHHHHHHHHHHHHHHhhcChhHHHHHHHHHHhHHHHHHHHHHHhc----CccccchHHH
+Q 5GKY_1_Chains_ 3987 DAVVGFLHVFAHMMMKLAQDSSQIELLKELLDLQKDMVVMLLSLLE----GNVVNGMIAR 4042 (5037)
+Q Consensus      3987 DAV~GFl~vFAhM~~KLsqdssQi~LLkElL~LQKdmivmlLSmLE----GNVvNGtIgk 4042 (5037)
+                      ....+.+..+..+.....-...++.-+++.......----.++.-+    +.........
+T Consensus        21 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~d~~~~g~i~~~~~~~~~~~~~~~~~~   80 (195)
+T c7u0uA_          21 EKITDMLIAILNIVSASNFDRDEVDRLRKRFMKLDKDSSGTIDRDEFLSLPQVSSNPLAT   80 (195)
+T ss_dssp             HHHHHHHHHHHSSGGGSSSCHHHHHHHHHHHHHHCTTCSSSBCHHHHHTSHHHHTCTTHH
+T ss_pred             hHHHHHHHHHHHHHHhcCCCHHHHHHHHHHHHHhCCCcCCcccHHHHHHHHHhccchHHH
+
+
+Q ss_pred             HHHHHHhhccccHHHHHHHHHHHHHH-----HhhhcCchhhhhccCCCccccHHHHHHHH
+Q 5GKY_1_Chains_ 4043 QMVDMLVESSSNVEMILKFFDMFLKL-----KDIVGSEAFQDYVTDPRGLISKKDFQKAM 4097 (5037)
+Q Consensus      4043 QMVD~LVESssNVEmILKffDMFLKL-----Kdlt~S~aF~~yd~~~~G~IS~kdFqkaM 4097 (5037)
+                      .+.+.+-......--.-.|...+..+     ..-.-...|+.+|.|++|.|+..++...+
+T Consensus        81 ~~~~~~~~~~~~~i~~~~f~~~~~~~~~~~~~~~~~~~~f~~~d~~~~g~i~~~~~~~~~  140 (195)
+T c7u0uA_          81 RMIAIFDEDGGGDVDFQEFVSGLSAFSSKGNKEEKLRFAFKVYDIDRDGYISNGELFIVL  140 (195)
+T ss_dssp             HHHHHHCTTCSSSBCHHHHHHHHHTTSTTSCHHHHHHHHHHHHCTTCSSEECHHHHHHHH
+T ss_pred             HHHHHhccCCCCCcCHHHHHHHHHHHhcCCCHHHHHHHHHHHhCCCCCCcccHHHHHHHH
+
+
+Q ss_pred             hh--hhccCHHH----HhhhhhhhCCCccccccHHHHHHhhhchhhhccchhhhh
+Q 5GKY_1_Chains_ 4098 DS--QKQFTGPE----IQFLLSCSEADENEMINFEEFANRFQEPARDIGFNVAVL 4146 (5037)
+Q Consensus      4098 es--qK~yt~~E----i~fLlsC~e~d~~~~idy~eF~~rF~ePAkdIGFNvAVL 4146 (5037)
+                      ..  ....++++    ++-++...+.|.+|.|+|.+|..-+.....-+...++++
+T Consensus       141 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~ef~~~~~~~~~~~~~~~~~~  195 (195)
+T c7u0uA_         141 KMMVGNNLKDVQLQQIVDKTIMEADKDRDGKISFEEFTEMVENTDVSLSMTLSMF  195 (195)
+T ss_dssp             HHHHGGGSCHHHHHHHHHHHHHHHCTTCSSSEEHHHHHHHTTTSCHHHHTS---C
+T ss_pred             HHHhcccCCHHHHHHHHHHHHHhcCCCCCCeEcHHHHHHHHHhCchhHhHhhhcC
+
+

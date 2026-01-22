@@ -1,0 +1,32 @@
+210 c2i2rF_ Probab=91.84  E-value=0.12  Score=44.37  Aligned_cols=128  Identities=12%  Similarity=0.235  Sum_probs=0.0  Template_Neff=13.710
+
+Q ss_pred             hHHHHHHHHHHhHHHHHHHHHHHhcCccccchHHHHHHHHHhhccccHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4008 SQIELLKELLDLQKDMVVMLLSLLEGNVVNGMIARQMVDMLVESSSNVEMILKFFDMFLK 4067 (5037)
+Q Consensus      4008 sQi~LLkElL~LQKdmivmlLSmLEGNVvNGtIgkQMVD~LVESssNVEmILKffDMFLK 4067 (5037)
+                      ..++-+.....+..+-+.-+...+...--+|.|...-....+........-..++....+
+T Consensus         1 ~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   60 (180)
+T c2i2rF_           1 EGLEQLEAQTNFTKRELQVLYRGFKNECPSGVVNEDTFKQIYAQFFPHGDASTYAHYLFN   60 (180)
+T ss_dssp             CCHHHHHHHSSCCHHHHHHHHHHHHHHCTTSEECHHHHHHHHHHHSSSCCCHHHHHHHHT
+T ss_pred             ChHHHHHHhcCCCHHHHHHHHHHHHHHCcCCCcCHHHHHHHHHHHcCCCchHHHHHHHHH
+
+
+Q ss_pred             HHhhhcCc-------------------------hhhhhccCCCccccHHHHHHHHhh---
+Q 5GKY_1_Chains_ 4068 LKDIVGSE-------------------------AFQDYVTDPRGLISKKDFQKAMDS--- 4099 (5037)
+Q Consensus      4068 LKdlt~S~-------------------------aF~~yd~~~~G~IS~kdFqkaMes--- 4099 (5037)
+                      .-|.....                         .|+.||+|++|.|+..+|...+..   
+T Consensus        61 ~~~~~~~~~i~~~~f~~~~~~~~~~~~~~~~~~~f~~~d~~~~~~l~~~~~~~~~~~~~~  120 (180)
+T c2i2rF_          61 AFDTTQTGSVKFEDFVTALSILLRGTVHEKLRWTFNLYDINKDGYINKEEMMDIVKAIYD  120 (180)
+T ss_dssp             TSCSSCSSSEEHHHHHHHHHHHHHSCHHHHHHHHHHHHCTTSSSEEEHHHHHHHHHHHHH
+T ss_pred             HHcCCCCCeeeHHHHHHHHHHHcCCCHHHHHHHHHHHhcCCCCCcCCHHHHHHHHHHHHH
+
+
+Q ss_pred             ----------hhccCHHHHhhhhhhhCCCccccccHHHHHHhhhch
+Q 5GKY_1_Chains_ 4100 ----------QKQFTGPEIQFLLSCSEADENEMINFEEFANRFQEP 4135 (5037)
+Q Consensus      4100 ----------qK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~eP 4135 (5037)
+                                .-..+.+++.-++...+.+.+|.|+|.+|..-+...
+T Consensus       121 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~f~~~~~~~  166 (180)
+T c2i2rF_         121 MMGAYTYPVLAEDTPRQHVDVFFQKMDKNKDGIVTLDEFLESCQED  166 (180)
+T ss_dssp             HTTSSSGGGCCCSCSHHHHHHHHHTTCSSSSSEEEHHHHHHHHHTC
+T ss_pred             HcccccccccchhhHHHHHHHHHHHhCcCCCCcCcHHHHHHHHHhC
+
+

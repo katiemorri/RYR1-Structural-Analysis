@@ -1,0 +1,32 @@
+212 c8j7hD_ Probab=91.34  E-value=0.22  Score=47.35  Aligned_cols=140  Identities=11%  Similarity=0.162  Sum_probs=0.0  Template_Neff=13.120
+
+Q ss_pred             hHHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhc
+Q 5GKY_1_Chains_ 4806 NFFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTVVAFNFFRKFYNK 4865 (5037)
+Q Consensus      4806 nFFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVYLYTVvAFNFFRKFY~k 4865 (5037)
+                      ..+-..+.+-+.-.++.+|.++.++....+++.-...++++++++|.+++.++|+.....
+T Consensus       115 ~~~r~~r~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  174 (290)
+T c8j7hD_         115 RNLRAFRIFRLFKRIKSLNKIIVSLGKAIPGVANAFVIMVIIMCIYAILGVEFYHMTGSD  174 (290)
+T ss_dssp             HGGGGGGGGGHHHHSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTT
+T ss_pred             HHHHHHHHHHHHHhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcccCCC
+
+
+Q ss_pred             cccCCCCccch-----------------------------------hhhHHHHHHHHHhh
+Q 5GKY_1_Chains_ 4866 SEDEDEPDMKC-----------------------------------DDMMTCYLFHMYVG 4890 (5037)
+Q Consensus      4866 ~ed~depD~KC-----------------------------------~dM~TCy~fHmY~G 4890 (5037)
+                      ......++..+                                   +++..+++--+...
+T Consensus       175 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~~~~~~  234 (290)
+T c8j7hD_         175 GTYVTYNDNVKRGLCTGDEVELGQCSLNQTVSSETARGYTYGEEYYGTFFRALYTLFQVL  234 (290)
+T ss_dssp             SEEEEECCHHHHTSSCHHHHHHTSSCSEEEEECCCTTSSCHHHHHSSSHHHHHHHHHHHH
+T ss_pred             CccccCCCccccccccCcccCCCccccccccccccccccCCcCCCCccHHHHHHHHHHHH
+
+
+Q ss_pred             hhcCCc-cccccCCCCCCcchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhh
+Q 5GKY_1_Chains_ 4891 VRAGGG-IGDEIEDPAGDEYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRD 4945 (5037)
+Q Consensus      4891 VRAGGG-IGDEIEdP~GDeyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRD 4945 (5037)
+                      .-.|-+ |=+..-+..++.....-.+|=++|.++.-++++.+.-|.|+|+|.+.++
+T Consensus       235 ~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~nl~~~~~~~~~~~~~~  290 (290)
+T c8j7hD_         235 TGESWSEAVARPAVFESHYDSFGPVLFYVSFIIICQIVLINVVVAVLLDKMVEEDD  290 (290)
+T ss_dssp             HTSSCCCCCCHHHHHHSSSCTHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHHHHC
+T ss_pred             ccCchHHHHHhhhccCcccCCCcceeeeeehHHHHHHHHHHHHHHHHHHHHHhccC
+
+

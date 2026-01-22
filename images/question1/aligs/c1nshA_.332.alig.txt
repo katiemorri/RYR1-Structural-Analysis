@@ -1,0 +1,22 @@
+332 c1nshA_ Probab=87.50  E-value=0.18  Score=41.44  Aligned_cols=64  Identities=20%  Similarity=0.298  Sum_probs=0.0  Template_Neff=12.392
+
+Q ss_pred             chhhhh--ccCCCccccHHHHHHHHhhh------hccCHHHHhhhhhhhCCCccccccHH
+Q 5GKY_1_Chains_ 4075 EAFQDY--VTDPRGLISKKDFQKAMDSQ------KQFTGPEIQFLLSCSEADENEMINFE 4126 (5037)
+Q Consensus      4075 ~aF~~y--d~~~~G~IS~kdFqkaMesq------K~yt~~Ei~fLlsC~e~d~~~~idy~ 4126 (5037)
+                      .+|..|  |.+++|.|++.++...+...      ...++..++-++.-.+.+.+|.|+|.
+T Consensus        15 ~~f~~~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~i~~~   74 (101)
+T c1nshA_          15 AVFQKYAGKDGHSVTLSKTEFLSFMNTELAAFTKNQKDPGVLDRMMKKLDLNSDGQLDFQ   74 (101)
+T ss_dssp             HHHHHHTCSSCCCSCCCHHHHHHHHHHHCHHHHGGGSCTTTHHHHHHHTCCCBTTBCCSH
+T ss_pred             HHHHHHccccCCcCccCHHHHHHHHHHHhHHhhcCCCCHHHHHHHHHHhCCCCCCcCcHH
+
+
+Q ss_pred             HHHHhhhchhhh
+Q 5GKY_1_Chains_ 4127 EFANRFQEPARD 4138 (5037)
+Q Consensus      4127 eF~~rF~ePAkd 4138 (5037)
+                      +|......-+..
+T Consensus        75 e~~~~~~~~~~~   86 (101)
+T c1nshA_          75 EFLNLIGGLAVA   86 (101)
+T ss_dssp             HHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHH
+
+

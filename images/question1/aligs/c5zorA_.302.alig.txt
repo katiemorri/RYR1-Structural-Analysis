@@ -1,0 +1,12 @@
+302 c5zorA_ Probab=93.30  E-value=0.022  Score=47.43  Aligned_cols=59  Identities=22%  Similarity=0.326  Sum_probs=0.0  Template_Neff=13.916
+
+Q ss_pred             hhhhhccCCCccccHHHHHHHHhhhhc-cCHHHHhhhhhhhCCCccccccHHHHHHhhhc
+Q 5GKY_1_Chains_ 4076 AFQDYVTDPRGLISKKDFQKAMDSQKQ-FTGPEIQFLLSCSEADENEMINFEEFANRFQE 4134 (5037)
+Q Consensus      4076 aF~~yd~~~~G~IS~kdFqkaMesqK~-yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~e 4134 (5037)
+                      .|..+|.+++|.|+..+|...+..... .+++++..++.+.+.+.+|.|+|.+|..-+..
+T Consensus        86 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~f~~~~~~  145 (149)
+T c5zorA_          86 AFQLFDLDKKGKISFANLKEVAKLLGENPGDDVLQEMIAEADEDGDGEVSFEEFKSVMMQ  145 (149)
+T ss_dssp             HHHHHCSSCCCCBCHHHHHHHHHHTTCCCCHHHHHHHHHHHHTTSSSCBCHHHHHHHHHH
+T ss_pred             HHHHhCCCCCCCcCHHHHHHHHHHhCCCCCHHHHHHHHHHHcCCCCCcCcHHHHHHHHHh
+
+

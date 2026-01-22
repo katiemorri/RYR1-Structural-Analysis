@@ -1,0 +1,11 @@
+316 c3wfnA_ Probab=88.34  E-value=0.11  Score=44.66  Aligned_cols=55  Identities=24%  Similarity=0.442  Sum_probs=0.0  Template_Neff=13.489
+
+Q ss_pred             hhhhhccCCCccccHHHHHHHHhhhhc-cCHHHHhhhhhhhCCCccccccHHHHHHhhh
+Q 5GKY_1_Chains_ 4076 AFQDYVTDPRGLISKKDFQKAMDSQKQ-FTGPEIQFLLSCSEADENEMINFEEFANRFQ 4133 (5037)
+Q Consensus      4076 aF~~yd~~~~G~IS~kdFqkaMesqK~-yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~ 4133 (5037)
+                      .|..+|.|++|.|+..+|...+..... .+.+++.-++.+.   .+|.|+|.+|...+.
+T Consensus        90 ~f~~~d~~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~---~~~~i~~~ef~~~~~  145 (169)
+T c3wfnA_          90 AFRVFDKDGNGYISAAELRHVMTNLGEKLTDEEVDEMIREA---IDGQVNYEEFVQMMT  145 (169)
+T ss_pred             HHHHhCcCCCCCccHHHHHHHHHHhcCCCCHHHHHHHHHHh---hCCcccHHHHHHHHH
+
+

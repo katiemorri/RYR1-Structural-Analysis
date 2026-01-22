@@ -1,0 +1,42 @@
+149 c8emxA_ Probab=87.16  E-value=0.78  Score=54.22  Aligned_cols=135  Identities=14%  Similarity=0.280  Sum_probs=0.0  Template_Neff=10.223
+
+Q ss_pred             HHHHHHHHHHHHHHhhcChhHHHHHHHHHHhH------------HHHHHHHHHHhcCccc
+Q 5GKY_1_Chains_ 3989 VVGFLHVFAHMMMKLAQDSSQIELLKELLDLQ------------KDMVVMLLSLLEGNVV 4036 (5037)
+Q Consensus      3989 V~GFl~vFAhM~~KLsqdssQi~LLkElL~LQ------------KdmivmlLSmLEGNVv 4036 (5037)
+                      +.|.-++..+..   .++.+..+.|++..+..            +++.-++=++      
+T Consensus       116 ~~~l~~~~~~~~---~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------  166 (743)
+T c8emxA_         116 SEELFKLAMNIL---AQNASRNTFLRKAYTKLKLQVNQDGRIPVKNILKMFSAD------  166 (743)
+T ss_dssp             HHHHHHHHTCST---TTSCCHHHHHHHHHHHHHHCCCSSSCEEHHHHHHHTCSC------
+T ss_pred             HHHHHHHHHhhh---hccccHHHHHHHHHHHhhcccccccchhHHHHHHHhhhh------
+
+
+Q ss_pred             cchHHHHHHHHHhhcc--------------ccHHHHHHHHHHHHHHHhhhcCchhhhhcc
+Q 5GKY_1_Chains_ 4037 NGMIARQMVDMLVESS--------------SNVEMILKFFDMFLKLKDIVGSEAFQDYVT 4082 (5037)
+Q Consensus      4037 NGtIgkQMVD~LVESs--------------sNVEmILKffDMFLKLKdlt~S~aF~~yd~ 4082 (5037)
+                           +..+..+.+..              =+-+....|+.....-.||.  ++|+.||.
+T Consensus       167 -----~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~~~~~~--~~f~~~~~  219 (743)
+T c8emxA_         167 -----KKRVETALESCGLKFNRSESIRPDEFSLEIFERFLNKLCLRPDID--KILLEIGA  219 (743)
+T ss_dssp             -----SHHHHHHHHTTTCCCSSSCEECTTSSCHHHHHHHHHHHSCCHHHH--HHHHHHTC
+T ss_pred             -----HHHHHHHHHHhCCccccccccccCccCHHHHHHHHHHhcccchHH--HHHHHhcC
+
+
+Q ss_pred             CCCccccHHHHHHHHhhhhc-----------cCHHHHhhhhhhhCCC----ccccccHHH
+Q 5GKY_1_Chains_ 4083 DPRGLISKKDFQKAMDSQKQ-----------FTGPEIQFLLSCSEAD----ENEMINFEE 4127 (5037)
+Q Consensus      4083 ~~~G~IS~kdFqkaMesqK~-----------yt~~Ei~fLlsC~e~d----~~~~idy~e 4127 (5037)
+                      |++|.||.++|++.|.....           ++.+|++-|+.=.+.+    .+|.++|++
+T Consensus       220 ~~~~~~~~~~~~~fl~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  279 (743)
+T c8emxA_         220 KGKPYLTLEQLMDFINQKQRDPRLNEVLYPPLRPSQARLLIEKYEPNQQFLERDQMSMEG  279 (743)
+T ss_dssp             CSSSSBCSHHHHHHHHHHSCCTTSCTTTSCCCCHHHHHHHHHHHCCCTTTTTTTCBCSHH
+T ss_pred             CCCCccCHHHHHHHHHHhhhhhhccccccccCCHHHHHHHHHhhccchhhccccccCHHH
+
+
+Q ss_pred             HHHhhhchhhhc
+Q 5GKY_1_Chains_ 4128 FANRFQEPARDI 4139 (5037)
+Q Consensus      4128 F~~rF~ePAkdI 4139 (5037)
+                      |..-...+.-++
+T Consensus       280 f~~~l~~~~~~~  291 (743)
+T c8emxA_         280 FSRYLGGEENGI  291 (743)
+T ss_dssp             HHTTTTSSSSCS
+T ss_pred             HHHHHhcCcccc
+
+

@@ -1,0 +1,12 @@
+414 c2m8uA_ Probab=90.99  E-value=0.067  Score=36.85  Aligned_cols=58  Identities=17%  Similarity=0.392  Sum_probs=0.0  Template_Neff=14.938
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhhhcc-CHHHHhhhhhhhCCCccccccHHHHHHhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQKQF-TGPEIQFLLSCSEADENEMINFEEFANRF 4132 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesqK~y-t~~Ei~fLlsC~e~d~~~~idy~eF~~rF 4132 (5037)
+                      ..|..+|.+.+|.|+..++...+.....- +.+++..++.+.+.+.++.++|.+|...+
+T Consensus        15 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   73 (77)
+T c2m8uA_          15 EAFKVFDRDGNGYVTVDYLRKVLNELGDMMPADEIEEMIYEADPQNSGYVQYETFVGML   73 (77)
+T ss_dssp             HHHHHHCSSCCSCEEHHHHHHHHHHHTTTTTHHHHHHHHHHHCTTCSSEECHHHHHHHH
+T ss_pred             HHHHHHCCCCCCeEeHHHHHHHHHHhCCCCCHHHHHHHHHHhCCCCCCcEeHHHHHHHH
+
+

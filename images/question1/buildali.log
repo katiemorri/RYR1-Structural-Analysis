@@ -1,0 +1,50 @@
+./buildali_uniref50_dssp.pl  /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/query.fasta  /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7 
+$ ./reformat.pl -M first -noss a3m a3m /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/query.fasta /tmp/phyre2/37737/query.in.a3m -> 1
+$ ./reformat.pl -r a3m psi /tmp/phyre2/37737/query.in.a3m /tmp/phyre2/37737/query.psi -> 1
+
+************************************************
+ Building alignment for /tmp/phyre2/37737/query (5GKY_1_Chains_A_C_E_G_Ryanodine_receptor_1_Oryctolagus_cuniculus_9986_)
+************************************************
+Building alignment for query with PSI-BLAST ...
+$ /bmm/www/servers/phyre2/bin/blast/blastpgp -I T -s T -b 20000 -v 1 -e 0.001 -d /data/data/blast/uniref50.fasta -i /tmp/phyre2/37737/query.seq &> /tmp/phyre2/37737/query.bla
+$ ./alignhits.pl -cov 80 -e 0.001  -bl 0.33 -bs 0.67  -best -psi -q /tmp/phyre2/37737/query.seq /tmp/phyre2/37737/query.bla /tmp/phyre2/37737/query.core.psi -> 15
+$ ./alignhits.pl -cov 80 -e 0.001  -bl 0 -bs 0.167 -bg 20 -B /tmp/phyre2/37737/query.core.psi  -best -psi -q /tmp/phyre2/37737/query.seq /tmp/phyre2/37737/query.bla /tmp/phyre2/37737/query.psi -> 15
+$ ./alignhits.pl -cov 80 -e 0.001  -bl 0 -bs 0.167 -bg 20 -B /tmp/phyre2/37737/query.core.psi  -best -a3m -q /tmp/phyre2/37737/query.seq /tmp/phyre2/37737/query.bla /tmp/phyre2/37737/query.a3m -> 15
+Found 15 sequences in PSI-BLAST round 1 (E-value<1E-03, coverage>20%, db=uniref50.fasta)
+
+$ /bmm/www/servers/phyre2/bin/blast/blastpgp -I T -s T -b 20000 -v 1 -e 0.001 -d /data/data/blast/uniref50.fasta -i /tmp/phyre2/37737/query.seq -B /tmp/phyre2/37737/query.psi &> /tmp/phyre2/37737/query.bla
+$ ./alignhits.pl -cov 20 -e 0.001   -bl 0 -bs 0.167 -bg 20 -B /tmp/phyre2/37737/query.core.psi   -a3m -q /tmp/phyre2/37737/query.seq /tmp/phyre2/37737/query.bla /tmp/phyre2/37737/query.tmp -> 32
+$ cat /tmp/phyre2/37737/query.tmp >> /tmp/phyre2/37737/query.a3m
+$ ./alignhits.pl -cov 20 -e 0.001   -bl 0 -bs 0.167 -bg 20 -B /tmp/phyre2/37737/query.core.psi   -psi -q /tmp/phyre2/37737/query.seq /tmp/phyre2/37737/query.bla /tmp/phyre2/37737/query.tmp -> 32
+$ cat /tmp/phyre2/37737/query.tmp >> /tmp/phyre2/37737/query.psi
+Found 32 sequences in PSI-BLAST round 2 (E-value<1E-03, coverage>20%, db=uniref50.fasta)
+
+$ /bmm/www/servers/phyre2/bin/blast/blastpgp -I T -s T -b 20000 -v 1 -e 0.001 -d /data/data/blast/uniref50.fasta -i /tmp/phyre2/37737/query.seq -B /tmp/phyre2/37737/query.psi &> /tmp/phyre2/37737/query.bla
+$ ./alignhits.pl -cov 20 -e 0.001   -bl 0 -bs 0.167 -bg 20 -B /tmp/phyre2/37737/query.core.psi   -a3m -q /tmp/phyre2/37737/query.seq /tmp/phyre2/37737/query.bla /tmp/phyre2/37737/query.tmp -> 31
+$ ./hhfilter -M a3m -id 90  -cov 20 -diff 0 -i /tmp/phyre2/37737/query.a3m -o /tmp/phyre2/37737/query.fil
+Input file = /tmp/phyre2/37737/query.a3m
+Output file = /tmp/phyre2/37737/query.fil
+Read /tmp/phyre2/37737/query.a3m with 47 sequences
+Alignment in /tmp/phyre2/37737/query.a3m contains 5037 match states
+23 out of 47 sequences passed filter (20% min coverage, 90% max pairwise sequence identity)
+$ ./reformat.pl -r a3m psi /tmp/phyre2/37737/query.fil /tmp/phyre2/37737/query.psi -> 23
+Read DSSP state sequence
+
+Searching DSSP state assignments...
+name=5GKY_1_Chains_A_C_E_G_Ryanodine_receptor_1_Oryctolagus_cuniculus_9986_  range=
+WARNING: Cannot open /bmm/data/dssp//5GKY_1_Chains_A_C_E_G_Ryanodine_receptor_1_Oryctolagus_cuniculus_9986_.dssp: No such file or directory
+WARNING Cannot open /pdb5GKY_1_Chains_A_C_E_G_Ryanodine_receptor_1_Oryctolagus_cuniculus_9986_.ent: No such file or directory
+Predicting secondary structure with PSIPRED ...
+$ /bmm/www/servers/phyre2/bin/blast/blastpgp -I T -s T -b 1 -j 1 -h 0.001 -d /bmm/www/servers/phyre/public_html/Version_1.1/data/dummydb -i /tmp/phyre2/37737/query.seq -B /tmp/phyre2/37737/query.psi -C /tmp/phyre2/37737/query.chk &> /tmp/phyre2/37737/query.bla
+$ /bmm/www/servers/phyre2/bin/psipred25_64/bin/psipred /tmp/phyre2/37737/query.mtx /bmm/www/servers/phyre2/bin/psipred25_64/data/weights.dat /bmm/www/servers/phyre2/bin/psipred25_64/data/weights.dat2 /bmm/www/servers/phyre2/bin/psipred25_64/data/weights.dat3 /bmm/www/servers/phyre2/bin/psipred25_64/data/weights.dat4 > /tmp/phyre2/37737/query.ss
+$ /bmm/www/servers/phyre2/bin/psipred25_64/bin/psipass2 /bmm/www/servers/phyre2/bin/psipred25_64/data/weights_p2.dat 1 0.98 1.09 /tmp/phyre2/37737/query.ss2 /tmp/phyre2/37737/query.ss > /tmp/phyre2/37737/query.horiz
+$ cat /tmp/phyre2/37737/query.a3m /tmp/phyre2/37737/query.in.a3m /tmp/phyre2/37737/query.fil > /tmp/phyre2/37737/query.tmp.a3m
+$ ./hhfilter -M a3m -id 90  -cov 20 -diff 0 -i /tmp/phyre2/37737/query.tmp.a3m -o /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/query.a3m
+Input file = /tmp/phyre2/37737/query.tmp.a3m
+Output file = /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/query.a3m
+Read /tmp/phyre2/37737/query.tmp.a3m with 26 sequences
+Alignment in /tmp/phyre2/37737/query.tmp.a3m contains 5037 match states
+23 out of 24 sequences passed filter (20% min coverage, 90% max pairwise sequence identity)
+Written alignment with 23 sequences to /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/query.a3m
+
+Finished  buildali.pl /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7/query.fasta /bmm/www/servers/phyre2/public_html/phyre2_output/d93b978a3eaf5ed7

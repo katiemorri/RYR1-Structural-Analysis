@@ -1,0 +1,11 @@
+476 c4phnA_ Probab=87.19  E-value=0.13  Score=43.57  Aligned_cols=56  Identities=14%  Similarity=0.369  Sum_probs=0.0  Template_Neff=13.808
+
+Q ss_pred             hhhhhccCCCccccHHHHHHHHhhhh-ccCHHHHhhhhhhhCCCccccccHHHHHHhh
+Q 5GKY_1_Chains_ 4076 AFQDYVTDPRGLISKKDFQKAMDSQK-QFTGPEIQFLLSCSEADENEMINFEEFANRF 4132 (5037)
+Q Consensus      4076 aF~~yd~~~~G~IS~kdFqkaMesqK-~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF 4132 (5037)
+                      .|+.+|.+.+|.++..+|...+.... ..+.+++.-++.+.. +.+|.|+|.+|...+
+T Consensus        82 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~f~~~~  138 (173)
+T c4phnA_          82 IYKQFDVDRSGTIGSSELPGAFEAAGFHLNEHLYSMIIRRYS-DEGGNMDFDNFISCL  138 (173)
+T ss_pred             HHHHhccCCCCccChhhhHHHHHHcCCCCCHHHHHHHHHHHc-CCCCcccHHHHHHHH
+
+

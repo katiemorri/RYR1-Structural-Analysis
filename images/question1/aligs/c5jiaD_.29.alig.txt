@@ -1,0 +1,32 @@
+29 c5jiaD_ Probab=99.03  E-value=1.4e-10  Score=115.57  Aligned_cols=148  Identities=28%  Similarity=0.586  Sum_probs=0.0  Template_Neff=12.011
+
+Q ss_pred             ccceeeeeccceeeecCeeEEEEEeec---ccceeeeeeCCCCCCccccCcccceeeecc
+Q 5GKY_1_Chains_ 1070 DRVRIFRAEKSYTVQSGRWYFEFEAVT---TGEMRVGWARPELRPDVELGADELAYVFNG 1126 (5037)
+Q Consensus      1070 ~~~R~fR~EktYAV~~GKWYFEFE~vT---~G~MRVGWarp~~~pd~eLGsDd~sy~FdG 1126 (5037)
+                      ......++-......+|+||||+++..   .|.+.+||+......+..+|.+..+|.+..
+T Consensus        57 ~~~~~~~~~~~~~~~~~~~~~e~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~  116 (210)
+T c5jiaD_          57 KDAASVRATHPIPAACGIYYFEVKIVSKGRDGYMGIGLSAQGVNMNRLPGWDKHSYGYHG  116 (210)
+T ss_dssp             GGCEEEEESS---GGGSEEEEEEEEEEETTTCCCEEEEEETTCCSSSCTTSSTTEEEEET
+T ss_pred             CceeEEEeCCCCCCCCCCEEEEEEEEeCCCCCeEEEEEccCCCCccCCCCCCCceEEEEe
+
+
+Q ss_pred             hhhhhhccCC--CccccccccCCEEEEEEeccCceEEEEEcceEEEcCCCceeeecceec
+Q 5GKY_1_Chains_ 1127 HRGQRWHLGS--EPFGRPWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEI 1184 (5037)
+Q Consensus      1127 ~~~~kwH~G~--e~fGr~Wq~GDVVGCmiDl~d~tisFtLNGElL~d~~GsE~AF~di~~ 1184 (5037)
+                      ..+..++.+.  ..+|..|..||+|||.+|+...++.|..||..+.      .+|.++..
+T Consensus       117 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------~~~~~~~~  170 (210)
+T c5jiaD_         117 DDGHSFCSSGTGQPYGPTFTTGDVIGCCVNLINGTCFYTKNGHSLG------IAFTDLPA  170 (210)
+T ss_dssp             TTCCEEESSSSCBCCSCCCCTTCEEEEEEETTTTEEEEEETTEEEE------EEECS--S
+T ss_pred             CCCcEEeCCCCCCccCCCCCCCCEEEEEEEeCCCEEEEEECCEEcc------ccccCCCC
+
+
+Q ss_pred             cCcceeeeee-CccceeeeeccccchhhHHHHhhhhccCCcceeeecCCCccccccccC
+Q 5GKY_1_Chains_ 1185 GDGFLPVCSL-GPGQVGHLNLGQDVSSLRFFAICGLQEGFEPFAINMQRPVTTWFSKSL 1242 (5037)
+Q Consensus      1185 gdGfvPvcsL-G~gQ~gRlNlGqDvsslkyFT~CGLQEGyEPF~VNM~R~~tmW~sK~l 1242 (5037)
+                        .+.|++++ +.+++.++|+|+                 +||..+|.+-+.+|++|.+
+T Consensus       171 --~~~p~~~~~~~~~~~~~~~~~-----------------~~~~~~~~~~~~~~~~~~~  210 (210)
+T c5jiaD_         171 --NLYPTVGLQTPGEIVDANFGQ-----------------QPFLFDIEDYMREWRAKVQ  210 (210)
+T ss_dssp             --SEEEEEEECSTTEEEEEESSS-----------------SCCSSCHHHHHHHHHHHCC
+T ss_pred             --CEeEEEEEcCCCCEEEEEcCC-----------------CCcccCHHHHHHHHHHhcC
+
+

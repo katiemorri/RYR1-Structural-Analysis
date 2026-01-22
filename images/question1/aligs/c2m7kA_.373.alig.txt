@@ -1,0 +1,11 @@
+373 c2m7kA_ Probab=89.32  E-value=0.12  Score=34.28  Aligned_cols=59  Identities=19%  Similarity=0.317  Sum_probs=0.0  Template_Neff=14.900
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhhh-ccCHHHHhhhhhhhCCCccccccHHHHHHhhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQK-QFTGPEIQFLLSCSEADENEMINFEEFANRFQ 4133 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesqK-~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~ 4133 (5037)
+                      ..|..+|.|.+|.++..+|...+.... ..+.+++..++.+...+.++.+++.+|..-+.
+T Consensus         4 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   63 (66)
+T c2m7kA_           4 ALFKEIDVNGDGAVSYEEVKAFVSKKRAIKNEQLLQLIFKSIDADGNGEIDQNEFAKFYG   63 (66)
+T ss_pred             HHHHHhccCCCCcccHHHHHHHHHHhcccccHHHHHHHHHHHcCCCCCCcCHHHHHHHHH
+
+

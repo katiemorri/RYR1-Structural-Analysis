@@ -1,0 +1,20 @@
+162 c7cqpA_ Probab=84.27  E-value=0.29  Score=31.54  Aligned_cols=63  Identities=30%  Similarity=0.410  Sum_probs=0.0  Template_Neff=15.707
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhhh-ccCHHHHhhhhhhhCCCccccccHHHHHHhhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQK-QFTGPEIQFLLSCSEADENEMINFEEFANRFQ 4133 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesqK-~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~ 4133 (5037)
+                      ..|..+|.+.+|.++..+|...+..-. ..+..+...++.+...+.++.+++.+|..-+.
+T Consensus        12 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   71 (75)
+T c7cqpA_          12 EAFSLFDKDGDGTITTKELGTVMRSLGQNPTEAELQDMINEVDADGNGTIDFPEFLTMMA   71 (75)
+T ss_pred             HHHhhhccCCCCcccHHHHHHHHHHhCCCCCHHHHHHHHHHhccCCCcccchHHHHHHHH
+
+
+Q ss_pred             chhh
+Q 5GKY_1_Chains_ 4134 EPAR 4137 (5037)
+Q Consensus      4134 ePAk 4137 (5037)
+                      ...+
+T Consensus        72 ~~~~   75 (75)
+T c7cqpA_          72 RKMK   75 (75)
+T ss_pred             HhhC
+
+

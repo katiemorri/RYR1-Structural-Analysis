@@ -1,0 +1,32 @@
+161 c7b16D_ Probab=85.31  E-value=1.4  Score=47.98  Aligned_cols=156  Identities=12%  Similarity=0.141  Sum_probs=0.0  Template_Neff=12.313
+
+Q ss_pred             HHHHHHHHcccchHHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4794 WYMVMSLLGHYNNFFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTV 4853 (5037)
+Q Consensus      4794 wY~~~S~lG~~nnFFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVYLYTV 4853 (5037)
+                      .+.+...+..++.++....++.+...++++...+.++..--+.++--+.++++++..|++
+T Consensus       398 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~f~~~~~~~~~~f~~  457 (643)
+T c7b16D_         398 PTLVAEAVFAIANIFSSLRLISLFTANSHLGPLQISLGRMLLDILKFLFIYCLVLLAFAN  457 (643)
+T ss_dssp             HHHHHHHHHHHHHHHHHHGGGGGGGSSSSHHHHHHHHHHSSHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHhhcccccchHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHhhccccCCCCccchhhhHHHH------HHHHHhhhhcCCccccccCCCCCC
+Q 5GKY_1_Chains_ 4854 VAFNFFRKFYNKSEDEDEPDMKCDDMMTCY------LFHMYVGVRAGGGIGDEIEDPAGD 4907 (5037)
+Q Consensus      4854 vAFNFFRKFY~k~ed~depD~KC~dM~TCy------~fHmY~GVRAGGGIGDEIEdP~GD 4907 (5037)
+                      ..+.+|.. |.........+..|..-..-|      ++.+|..+-+.+..-.---+...+
+T Consensus       458 ~~~~l~~~-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~  516 (643)
+T c7b16D_         458 GLNQLYFY-YENSEGMTCKGIRCERQNNAFSTLFETLQSLFWSIFGLISLYVTNVKADHK  516 (643)
+T ss_dssp             HHHHHHTT-CCCCCSCSSCBSSSSSCBCTTSSHHHHHHHHHTTTTTCSCGGGSCCSSCCT
+T ss_pred             HHHHHHHh-hcccccccccCCccccccchHHHHHHHHHHHHHHHhCCcccccccccCCcc
+
+
+Q ss_pred             cchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHHH
+Q 5GKY_1_Chains_ 4908 EYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQV 4950 (5037)
+Q Consensus      4908 eyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEqv 4950 (5037)
+                      ..+..-.++=++|.+++.|+|+-++-+.+.|.|.+..++.+..
+T Consensus       517 ~~~~~~~~~~~~~~~~~~i~l~nllia~~~~~~~~~~~~~~~~  559 (643)
+T c7b16D_         517 FTEFVGATMFGTYNVISLVVLLNMLIAMMNNSYQHIADHADIE  559 (643)
+T ss_dssp             THHHHHHHHHHHHHHCCCCCHHHHHHHHHHHHHHHHSSTTHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhHHHHHhcchhh
+
+

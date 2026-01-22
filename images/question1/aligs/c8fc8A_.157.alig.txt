@@ -1,0 +1,32 @@
+157 c8fc8A_ Probab=93.07  E-value=0.21  Score=55.71  Aligned_cols=145  Identities=12%  Similarity=0.214  Sum_probs=0.0  Template_Neff=11.670
+
+Q ss_pred             hhHHHHHHHH----HHHHcccchHHHHHHHHHHHhhhHHHHHHHHHhcc-chHHHHHHHH
+Q 5GKY_1_Chains_ 4788 SFLYLGWYMV----MSLLGHYNNFFFAAHLLDIAMGVKTLRTILSSVTH-NGKQLVMTVG 4842 (5037)
+Q Consensus      4788 sFLYl~wY~~----~S~lG~~nnFFfAaHLLDvamgfktLRtILsSVTH-NgkQlvlTv~ 4842 (5037)
+                      ++++.+.++.    ...++.++-+|.-..++-....++.+..++..+.. =-+.++.-.+
+T Consensus       411 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  470 (617)
+T c8fc8A_         411 VIVSAALYLAGIEAYLAVMVFALVLGWMNALYFTRGLKLTGTYSIMIQKILFKDLFRFLL  470 (617)
+T ss_dssp             HHHHHHHHHSCCTTHHHHHHHHHHHHHHTCHHHHHSCTTTHHHHHHHHHHCCCCCHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHHhhccccCCCCccchhhhHHHHHHHHHhhhhcCCccccccC
+Q 5GKY_1_Chains_ 4843 LLAVVVYLYTVVAFNFFRKFYNKSEDEDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIE 4902 (5037)
+Q Consensus      4843 Ll~VVVYLYTVvAFNFFRKFY~k~ed~depD~KC~dM~TCy~fHmY~GVRAGGGIGDEIE 4902 (5037)
+                      ++++++|.|.+.+..+|..         ....--.....+.+. ++.|.   |+. |.+.
+T Consensus       471 ~~~~~~~~f~~~~~~l~~~---------~~~~~~~~~~~~~~~-~~~~~---~~~-~~~~  516 (617)
+T c8fc8A_         471 VYLLFMIGYASALVSLLNP---------CDSETFSTFLLDLFK-LTIGM---GDL-EMLS  516 (617)
+T ss_dssp             HHHHHHHHHHHHHHHHCCS---------SSHHHHHHHHHHHHH-HHHTC---SCC-CGGG
+T ss_pred             HHHHHHHHHHHHHHHHhCC---------CChhHHHHHHHHHhh-hhccc---cch-hhhc
+
+
+Q ss_pred             CCCCCcchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHH
+Q 5GKY_1_Chains_ 4903 DPAGDEYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQ 4949 (5037)
+Q Consensus      4903 dP~GDeyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEq 4949 (5037)
+                      .+   .+...-.+|=++|.|++.+||+-++.|.+.|+|-+.+++.+.
+T Consensus       517 ~~---~~~~~~~~~~~~~~~~~~~~l~n~~iai~~~~~~~~~~~~~~  560 (617)
+T c8fc8A_         517 ST---KYPVVFIILLVTYIILTFVLLLNMLIALMGETVGQVSKESKH  560 (617)
+T ss_dssp             TS---SSHHHHHHHHHHHHCCCCCCCCHHHHHHHHHHHHHHHHTHHH
+T ss_pred             cc---cchHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhHHH
+
+

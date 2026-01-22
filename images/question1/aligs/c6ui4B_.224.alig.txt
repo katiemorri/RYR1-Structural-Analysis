@@ -1,0 +1,12 @@
+224 c6ui4B_ Probab=84.94  E-value=0.036  Score=47.24  Aligned_cols=54  Identities=30%  Similarity=0.381  Sum_probs=0.0  Template_Neff=12.677
+
+Q ss_pred             CchhhhhccCCCccccHHHHHHHHhhhhccCHHHHhhhhhhhCCCccccccHHHHHH
+Q 5GKY_1_Chains_ 4074 SEAFQDYVTDPRGLISKKDFQKAMDSQKQFTGPEIQFLLSCSEADENEMINFEEFAN 4130 (5037)
+Q Consensus      4074 S~aF~~yd~~~~G~IS~kdFqkaMesqK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~ 4130 (5037)
+                      ++.|..+|.+++|+||.++|..++....   +++..-++...+.+.+|.++|.+|..
+T Consensus         2 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~---~~~~~~~~~~~~~~~~~~~~~~~~~~   55 (125)
+T c6ui4B_           2 SEFKEAFSLFGDGQITTKELGTVMRSLG---ESELQDMINEVDADNNGTIDFPEFLT   55 (125)
+T ss_dssp             HHHHHHHHSSSSSCEEHHHHHHHHHHHS---SHHHHHHHTTCCSSCSSEECHHHHHH
+T ss_pred             hHHHHHhhccCCCcCcHHHHHHHHHHcC---cHHHHHHHHHhCCCCCCcCcHHHHHH
+
+

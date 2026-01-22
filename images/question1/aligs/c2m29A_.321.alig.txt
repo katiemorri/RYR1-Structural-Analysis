@@ -1,0 +1,12 @@
+321 c2m29A_ Probab=89.93  E-value=0.096  Score=35.20  Aligned_cols=58  Identities=22%  Similarity=0.349  Sum_probs=0.0  Template_Neff=15.070
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhhh-ccCHHHHhhhhhhhCCCccccccHHHHHHhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQK-QFTGPEIQFLLSCSEADENEMINFEEFANRF 4132 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesqK-~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF 4132 (5037)
+                      ..|..+|.+.+|.++..++...+.... ..++.++.-++.+.+.+.++.++|.+|...+
+T Consensus        13 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   71 (72)
+T c2m29A_          13 AAFEEFDTDQDGYIGYRELGDCMRTLGYMPTEMELLEVSQHVKMRMGGFVDFEEFVELI   71 (72)
+T ss_dssp             HHHHHHCTTCCSCBCSGGGHHHHHTTTSCCCSHHHHHHHHTTSSSSCCCBCHHHHHHHH
+T ss_pred             HHHHHHcCCCCCcccHHHHHHHHHHhCCCCCHHHHHHHHHHhccCCCCeecHHHHHHHh
+
+

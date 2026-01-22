@@ -1,0 +1,12 @@
+196 c2lv7A_ Probab=91.28  E-value=0.062  Score=40.47  Aligned_cols=59  Identities=27%  Similarity=0.437  Sum_probs=0.0  Template_Neff=14.300
+
+Q ss_pred             hhhhhccCCCccccHHHHHHHHhhhh-ccCHHHHhhhhhhhCCCccccccHHHHHHhhhc
+Q 5GKY_1_Chains_ 4076 AFQDYVTDPRGLISKKDFQKAMDSQK-QFTGPEIQFLLSCSEADENEMINFEEFANRFQE 4134 (5037)
+Q Consensus      4076 aF~~yd~~~~G~IS~kdFqkaMesqK-~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~e 4134 (5037)
+                      .|..+|.|.+|.|+..++...+..-. ..+..++.-++.+.+.+.++.++|.+|..-+..
+T Consensus        41 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  100 (100)
+T c2lv7A_          41 AFKVFDRDGNGFISKQELGTAMRSLGYMPNEVELEVIIQRLDMDGDGQVDFEEFVTLLGP  100 (100)
+T ss_dssp             HHHHTCSSCSSCBCHHHHHHHHHHHTCCCCTTTHHHHHHHHCSSCSSSBCHHHHHHHTCC
+T ss_pred             HHHHHCCCCCCcccHHHHHHHHHHhCCCCCHHHHHHHHHHhCCCCCCeEcHHHHHHHHhC
+
+

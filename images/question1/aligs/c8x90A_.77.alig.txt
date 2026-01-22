@@ -1,0 +1,38 @@
+77 c8x90A_ Probab=88.70  E-value=0.63  Score=57.41  Aligned_cols=138  Identities=18%  Similarity=0.342  Sum_probs=0.0  Template_Neff=11.376
+
+Q ss_pred             HHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHHHHHHHHHHHH-HHHhhc
+Q 5GKY_1_Chains_ 4807 FFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTVVAFNFF-RKFYNK 4865 (5037)
+Q Consensus      4807 FFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVYLYTVvAFNFF-RKFY~k 4865 (5037)
+                      .+-+...|-++-.++.+|.++.++-.--+.+.-.+++++++.|+|.+++.++| .|||.-
+T Consensus       741 ~~r~~r~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~  800 (1377)
+T c8x90A_         741 VLRVLRPLKTIKRLPKLKAVFDCVVNSLKNVFNILIVYMLFMFIFAVVAVQLFKGKFFHC  800 (1377)
+T ss_pred             HHHHHHHHHHhhhChhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhCCccccc
+
+
+Q ss_pred             cccCCCCccchh------------------------------hhHHHHHH--------HH
+Q 5GKY_1_Chains_ 4866 SEDEDEPDMKCD------------------------------DMMTCYLF--------HM 4887 (5037)
+Q Consensus      4866 ~ed~depD~KC~------------------------------dM~TCy~f--------Hm 4887 (5037)
+                      .++..+....|.                              -|.|.|.-        -|
+T Consensus       801 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~l~~~~t~~~w~~~~  860 (1377)
+T c8x90A_         801 TDESKEFEKDCRGKYLLYEKNEVKARDREWKKYEFHYDNVLWALLTLFTVSTGEGWPQVL  860 (1377)
+T ss_pred             ccCCCccccccCCceeeecCCccccccccccccCCCcchHHHHHHHHHHHhcCCCHHHHH
+
+
+Q ss_pred             HhhhhcCCccccccCCCCCCcchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHH
+Q 5GKY_1_Chains_ 4888 YVGVRAGGGIGDEIEDPAGDEYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQ 4947 (5037)
+Q Consensus      4888 Y~GVRAGGGIGDEIEdP~GDeyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQq 4947 (5037)
+                      |.++.+-|     ........+..+-.+|=++|+++...+++.++-|.|||.|.+.+++.
+T Consensus       861 ~~~~~~~~-----~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  915 (1377)
+T c8x90A_         861 KHSVDATF-----ENQGPSPGYRMEMSIFYVVYFVVFPFFFVNIFVALIIITFQEQGDKM  915 (1377)
+T ss_pred             HHHhhccc-----cCCCCCCCCcchHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhh
+
+
+Q ss_pred             HH
+Q 5GKY_1_Chains_ 4948 EQ 4949 (5037)
+Q Consensus      4948 Eq 4949 (5037)
+                      .+
+T Consensus       916 ~~  917 (1377)
+T c8x90A_         916 ME  917 (1377)
+T ss_pred             hh
+
+

@@ -1,0 +1,11 @@
+217 c1m46A_ Probab=94.52  E-value=0.0089  Score=48.98  Aligned_cols=59  Identities=25%  Similarity=0.405  Sum_probs=0.0  Template_Neff=14.307
+
+Q ss_pred             hhhhhccCCCccccHHHHHHHHhhhh-ccCHHHHhhhhhhhCCCccccccHHHHHHhhhc
+Q 5GKY_1_Chains_ 4076 AFQDYVTDPRGLISKKDFQKAMDSQK-QFTGPEIQFLLSCSEADENEMINFEEFANRFQE 4134 (5037)
+Q Consensus      4076 aF~~yd~~~~G~IS~kdFqkaMesqK-~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~e 4134 (5037)
+                      +|..+|++.+|.|+..+|..++.... ..+.+++.-++.+.+.+.+|.|+|.+|...+..
+T Consensus        88 ~f~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~f~~~~~~  147 (148)
+T c1m46A_          88 AFQVFDKESTGKVSVGDLRYMLTGLGEKLTDAEVDELLKGVEVDSNGEIDYKKFIEDVLR  147 (148)
+T ss_pred             HHhhhCCCCCCcccHHHHHHHHHHhcCCCCHHHHHHHHhccCCCCCCcccHHHHHHHHhc
+
+

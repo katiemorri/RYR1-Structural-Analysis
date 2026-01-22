@@ -1,0 +1,32 @@
+79 c7eebB_ Probab=96.91  E-value=0.002  Score=62.71  Aligned_cols=149  Identities=15%  Similarity=0.292  Sum_probs=0.0  Template_Neff=12.947
+
+Q ss_pred             HHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhcc
+Q 5GKY_1_Chains_ 4807 FFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTVVAFNFFRKFYNKS 4866 (5037)
+Q Consensus      4807 FFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVYLYTVvAFNFFRKFY~k~ 4866 (5037)
+                      .+-...++.+.-.++.+|.++.++..-.+.+...++++++++|+|.++++.+|+..+...
+T Consensus       116 ~~r~~r~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~a~~~~~~~~~~~~~~  175 (281)
+T c7eebB_         116 VCRVLRSLKLFARFRQIKVILLALVRALKSMTFLLMLLLIFFYIFAVTGVYFFREYSRST  175 (281)
+T ss_dssp             HGGGGGGHHHHHTSTTHHHHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHHSSTTTSCC
+T ss_pred             HHHHHHHHHHHHHhhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHcCccccc
+
+
+Q ss_pred             ccCCCCccchhhhHHHHHHHHHhhhhcCCccccccCC--CCCCcchhhhhhhhHHHHHHH
+Q 5GKY_1_Chains_ 4867 EDEDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIED--PAGDEYELYRVVFDITFFFFV 4924 (5037)
+Q Consensus      4867 ed~depD~KC~dM~TCy~fHmY~GVRAGGGIGDEIEd--P~GDeyE~yRi~fDItFFFFV 4924 (5037)
+                      .+..+++.-.++....++..+....  |.|-+|-..+  +..+.....-.+|-++|.++.
+T Consensus       176 ~~~~~~~~~f~~~~~~~~~~~~~~~--~~~w~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  233 (281)
+T c7eebB_         176 IEGLEYNMFFSDLLNSLVTVFILFT--LDHWYAVLQDIWKVPESSRVFSSIYVILWLLLG  233 (281)
+T ss_dssp             CSSCSCSSTTSSHHHHHHHHHHHHT--TSSHHHHHHHHHTSSSSCTTTHHHHHHHCCCCC
+T ss_pred             ccccccccCCCCHHHHHHHHHHHHh--hCCHHHHHHHHHhccCCCccHHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHhhHHHhHHHhhhhHHHHHHHhhhcc
+Q 5GKY_1_Chains_ 4925 IVILLAIIQGLIIDAFGELRDQQEQVKEDMETK 4957 (5037)
+Q Consensus      4925 IvILLAIiQGLIIDAFGELRDQqEqvkEdmEtk 4957 (5037)
+                      -.+++.++-|.|+|.|.+..+++++-++..+.+
+T Consensus       234 ~~~~~n~~~~~~~~~~~~~~~~~~~~~~~~~~~  266 (281)
+T c7eebB_         234 SIIFRNIIVAMMVTNFQNIRSELSEEMSHLEVQ  266 (281)
+T ss_dssp             CCCCHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+

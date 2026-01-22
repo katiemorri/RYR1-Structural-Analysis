@@ -1,0 +1,32 @@
+48 c6zqqA_ Probab=97.25  E-value=0.0002  Score=72.05  Aligned_cols=134  Identities=21%  Similarity=0.274  Sum_probs=0.0  Template_Neff=10.962
+
+Q ss_pred             eeecCcE-EEEEec-cceeEEeeec-----cCceEEEeeee---eeeecccccc------
+Q 5GKY_1_Chains_  163 VRVGDDL-ILVSVS-SERYLHLSTA-----SGELQVDASFM---QTLWNMNPIC------  206 (5037)
+Q Consensus       163 VRVGDDl-ILVSVs-sERYLHls~~-----~g~~~V~ASF~---qTLWnv~pv~------  206 (5037)
+                      |+-|+.+ -|.++. +.+|||....     ++.-+|.++-.   ..+|.+.|..      
+T Consensus         5 v~~gs~v~~l~~~~~~~~~L~s~~~~~~~~s~~q~vt~~~~~~~~~~W~i~~~~~~~~~~   64 (204)
+T c6zqqA_           5 VALGSSIISIKNQALGGALLHSHVQPFPEGSEQQQVTVYGYSDANNEWFFQRIRGVEPWT   64 (204)
+T ss_dssp             CBTTTCEEEEEECSTTCCEEEEEEEECSSTTCCEEEEEESSCCGGGCEEEE--TTS---C
+T ss_pred             eEcCCEeeEEEccCCCCCceeecCCCCCCCCCCcEEEEecCCCCCCcEEEEecCCCCccc
+
+
+Q ss_pred             ----cccccccccCCcEEeeecCCccceeee---CccccccccceeEeecchhhhhhhhh
+Q 5GKY_1_Chains_  207 ----SCCEEGYVTGGHVLRLFHGHMDECLTI---SAADSDDQRRLVYYEGGAVCTHARSL  259 (5037)
+Q Consensus       207 ----Sg~~~Gyl~Gg~VlRlfHG~~DEcLtI---p~~~~e~~~~~v~YEgGav~s~ARSL  259 (5037)
+                          .+....||..|+++||+|....-.|..   ++.-+..+..+..|.... ......+
+T Consensus        65 ~~~~~~~~~~~v~~gd~i~L~h~~t~~~L~s~~~~~~~s~~~~ev~~~~~~~-~~~~~~~  123 (204)
+T c6zqqA_          65 DAEENKTIEEFVKGGEMYRLMHRLTGKNLHTHEVPAPISKSEYEVSAYGDVD-LGDYKDN  123 (204)
+T ss_dssp             TTC-CSCCC-BCBTTCEEEEEETTTC-EEEEEEEECSSCTTSEEEEEECCSS-SCCGGGC
+T ss_pred             ccccccCCceEEeCCCEEEEEEcccCCcceeCCcCCCccCCcEEEEEECCCC-CCCCCCC
+
+
+Q ss_pred             eeeeeeeeEeeccccC-c--CceeEEEeecccceeeeecCC
+Q 5GKY_1_Chains_  260 WRLEPLRISWSGSHLR-W--GQPLRIRHVTTGRYLALTEDQ  297 (5037)
+Q Consensus       260 WRlE~lRi~Wsgshi~-W--gqpfRlRHiTTGrYL~l~E~~  297 (5037)
+                      |++|...-.+.-.... |  +..|||+|+.||.||......
+T Consensus       124 W~i~~~~~~~~~~~~~~~~~~~~~~l~h~~~~~~L~~~~~~  164 (204)
+T c6zqqA_         124 WIIEIVEQVGEEDPTLLHPLSTSFRIKNSILGCYLAQSGKH  164 (204)
+T ss_dssp             EEEEEEEECSSSCTTBCCTTTEEEEEEETTTCCEEEEEEEE
+T ss_pred             EEEEEecCcCccCCCcEEEeCCEEEEEEcCCCEEEEECCCc
+
+

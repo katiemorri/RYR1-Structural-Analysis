@@ -1,0 +1,32 @@
+41 c4xw3B_ Probab=98.73  E-value=1.1e-08  Score=99.35  Aligned_cols=141  Identities=22%  Similarity=0.469  Sum_probs=0.0  Template_Neff=12.259
+
+Q ss_pred             eeccceeeecCeeEEEEEeecccceeeeeeCCCCCCccccCcccceeeecchhhhhhccC
+Q 5GKY_1_Chains_ 1076 RAEKSYTVQSGRWYFEFEAVTTGEMRVGWARPELRPDVELGADELAYVFNGHRGQRWHLG 1135 (5037)
+Q Consensus      1076 R~EktYAV~~GKWYFEFE~vT~G~MRVGWarp~~~pd~eLGsDd~sy~FdG~~~~kwH~G 1135 (5037)
+                      .+-.+..+..|+||||+.+...|.++|||+.......  +|.+..+|.+.+.........
+T Consensus        36 ~~~~~~~~~~g~~y~e~~~~~~~~~~~g~~~~~~~~~--~~~~~~~~~~~~~~~~~~~~~   93 (194)
+T c4xw3B_          36 GCRATKGLMKGKHYYEVSCHDQGLCRVGWSTMQASLD--LGTDKFGFGFGGTGKKSHNKQ   93 (194)
+T ss_dssp             EEEESEEESSSEEEEEEEECSSSEEEEEEECTTSCSS--TTSSTTEEEEETTTEEEETTE
+T ss_pred             EEEcCCcCCCCeEEEEEEEeCCCcEEEEEEeCCCCCC--CCcCCCeEEEecCCCEEECCc
+
+
+Q ss_pred             CCccccccccCCEEEEEEeccCceEEEEEcceEEEcCCCceeeecceeccCcceeeeeeC
+Q 5GKY_1_Chains_ 1136 SEPFGRPWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEIGDGFLPVCSLG 1195 (5037)
+Q Consensus      1136 ~e~fGr~Wq~GDVVGCmiDl~d~tisFtLNGElL~d~~GsE~AF~di~~gdGfvPvcsLG 1195 (5037)
+                      ...++..|..||+||+.+|+....+.|..||..+    |....+..-..+..+.|++++ 
+T Consensus        94 ~~~~~~~~~~~~~~~~~~d~~~~~~~~~~~~~~~----~~~~~~~~~~~~~~~~p~~~~-  148 (194)
+T c4xw3B_          94 FDNYGEEFTMHDTIGCYLDIDKGHVKFSKNGKDL----GLAFEIPPHMKNQALFPACVL-  148 (194)
+T ss_dssp             EEECSCCCCTTCEEEEEEETTTTEEEEEETTEEE----EEEEE--GGGTTSCBEEEEEE-
+T ss_pred             cCcCcCccCCCCEEEEEEEeCCCEEEEEECCeEe----eeeeccCcccCCCcEeeEEEE-
+
+
+Q ss_pred             ccceeeeeccccchhhHHHHhhhhccCCcceeee
+Q 5GKY_1_Chains_ 1196 PGQVGHLNLGQDVSSLRFFAICGLQEGFEPFAIN 1229 (5037)
+Q Consensus      1196 ~gQ~gRlNlGqDvsslkyFT~CGLQEGyEPF~VN 1229 (5037)
+                      .+...++|+|+..      ..+...+||.+++.+
+T Consensus       149 ~~~~~~~~~~~~~------~~~~~~~~~~~~~~~  176 (194)
+T c4xw3B_         149 KNAELKFNFGEEE------FKFPPKDGFVALSKA  176 (194)
+T ss_dssp             ESEEEEEESSSSC------CSS---TTCEEGGGS
+T ss_pred             eCCEEEEEcCCCc------cCcCCCCCcchhhhC
+
+

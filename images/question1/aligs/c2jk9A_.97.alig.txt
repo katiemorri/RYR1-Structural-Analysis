@@ -1,0 +1,32 @@
+97 c2jk9A_ Probab=96.97  E-value=0.00074  Score=60.47  Aligned_cols=110  Identities=19%  Similarity=0.291  Sum_probs=0.0  Template_Neff=13.778
+
+Q ss_pred             eeecCeeEEEEEee---cccceeeeeeCCCC-----CCccccCcccceeeecchhhhhhc
+Q 5GKY_1_Chains_ 1082 TVQSGRWYFEFEAV---TTGEMRVGWARPEL-----RPDVELGADELAYVFNGHRGQRWH 1133 (5037)
+Q Consensus      1082 AV~~GKWYFEFE~v---T~G~MRVGWarp~~-----~pd~eLGsDd~sy~FdG~~~~kwH 1133 (5037)
+                      ....|++|+|+.+.   ..+.+.+|++....     .....+|.++..|.+.......+|
+T Consensus        63 ~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  122 (202)
+T c2jk9A_          63 GYTRGLHVWQITWAMRQRGTHAVVGVATADAPLHSVGYTTLVGNNHESWGWDLGRNRLYH  122 (202)
+T ss_dssp             CBCSSEEEEEEECCGGGCTTCCEEEEECTTSCCEEESSCCCTTSSTTEEEEETTTTEEEE
+T ss_pred             CccCcEEEEEEEEeecCCCccEEEEEEeCCCcccccCcccccCcCCCceEEEcCCCCEEE
+
+
+Q ss_pred             cCCCcc----------ccccccCCEEEEEEeccCceEEEEEcceEEEcCCCceeeeccee
+Q 5GKY_1_Chains_ 1134 LGSEPF----------GRPWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIE 1183 (5037)
+Q Consensus      1134 ~G~e~f----------Gr~Wq~GDVVGCmiDl~d~tisFtLNGElL~d~~GsE~AF~di~ 1183 (5037)
+                      .+....          +..+..||+||+.+|+...+++|.-||+.+.      .+|..+.
+T Consensus       123 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------~~~~~~~  176 (202)
+T c2jk9A_         123 DGKNQPSKTYPAFLEPDETFIVPDSFLVALDMDDGTLSFIVDGQYMG------VAFRGLK  176 (202)
+T ss_dssp             STTTSCCEESSTTSCTTCCC---SEEEEEEETTTTEEEEEETTEEEE------EEECCCT
+T ss_pred             CCEecccccCCcccccccccCCCCEEEEEEEcCCCEEEEEECCEEEE------EEEeCCC
+
+
+Q ss_pred             ccCcceeeeeeCccc
+Q 5GKY_1_Chains_ 1184 IGDGFLPVCSLGPGQ 1198 (5037)
+Q Consensus      1184 ~gdGfvPvcsLG~gQ 1198 (5037)
+                       +..+.|+++++.++
+T Consensus       177 -~~~~~~~~~~~~~~  190 (202)
+T c2jk9A_         177 -GKKLYPVVSAVWGH  190 (202)
+T ss_dssp             -TCCBEEEEEECCTT
+T ss_pred             -CCEEEEEEEeecCC
+
+

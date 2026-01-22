@@ -1,0 +1,32 @@
+419 c2sasA_ Probab=93.26  E-value=0.2  Score=44.10  Aligned_cols=136  Identities=7%  Similarity=0.043  Sum_probs=0.0  Template_Neff=13.188
+
+Q ss_pred             HHHHHHHHHHHHHHHHHhhcChhHHHHHHHHHHhHHHHHHHHHHHhcCccccchHHHHHH
+Q 5GKY_1_Chains_ 3986 WDAVVGFLHVFAHMMMKLAQDSSQIELLKELLDLQKDMVVMLLSLLEGNVVNGMIARQMV 4045 (5037)
+Q Consensus      3986 WDAV~GFl~vFAhM~~KLsqdssQi~LLkElL~LQKdmivmlLSmLEGNVvNGtIgkQMV 4045 (5037)
+                      |+-+..++.-+.+....-........+.+.+-.+-..++-..=.--.|-|-...+..-+-
+T Consensus        28 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~e~~~~~~   87 (185)
+T c2sasA_          28 DNDFEDMMTRYKEVNKGSLSDADYKSMQASLEDEWRDLKGRADINKDDVVSWEEYLAMWE   87 (185)
+T ss_dssp             HHHHHHHHHHHHHHHGGGSCHHHHHHHHHHHHHHHHHHHHHHCTTCSSCEEHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHhCCCCCCHHHHHHHHHHHHHHHHHHHhcCCCCCCcCcHHHHHHHHH
+
+
+Q ss_pred             HHHhh---ccccHHHHHHHHHHHHHHHhhhcCchhhhhccCCCccccHHHHHHHHhhhhc
+Q 5GKY_1_Chains_ 4046 DMLVE---SSSNVEMILKFFDMFLKLKDIVGSEAFQDYVTDPRGLISKKDFQKAMDSQKQ 4102 (5037)
+Q Consensus      4046 D~LVE---SssNVEmILKffDMFLKLKdlt~S~aF~~yd~~~~G~IS~kdFqkaMesqK~ 4102 (5037)
+                      .....   .....+...++++-           .|..+|.|++|.|+..+|+..+.... 
+T Consensus        88 ~~~~~~~~~~~~~~~~~~~~~~-----------~f~~~d~~~~g~i~~~e~~~~~~~~~-  135 (185)
+T c2sasA_          88 KTIATCKSVADLPAWCQNRIPF-----------LFKGMDVSGDGIVDLEEFQNYCKNFQ-  135 (185)
+T ss_dssp             HHHHTCCSGGGSCTTHHHHHHH-----------HHHHHCTTSSSCCCHHHHHHHTTSSC-
+T ss_pred             HHHHhccCcccCcHHHHHHHHH-----------HHHHhccCCCCcCCHHHHHHHHHHhC-
+
+
+Q ss_pred             cCHHHHhhhhhhhCCCccccccHHHHHHhhh
+Q 5GKY_1_Chains_ 4103 FTGPEIQFLLSCSEADENEMINFEEFANRFQ 4133 (5037)
+Q Consensus      4103 yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~ 4133 (5037)
+                      .+.+++.-++.+.+.+.+|.|+|.+|...++
+T Consensus       136 ~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~  166 (185)
+T c2sasA_         136 LQCADVPAVYNVITDGGKVTFDLNRYKELYY  166 (185)
+T ss_dssp             CCCSSHHHHHHHHHTTTTSCCSHHHHHHHHH
+T ss_pred             CCHHHHHHHHHHhCcCCCCCcCHHHHHHHHH
+
+

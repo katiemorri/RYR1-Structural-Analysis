@@ -1,0 +1,102 @@
+19 c3uj4B_ Probab=100.00  E-value=8.3e-51  Score=478.58  Aligned_cols=455  Identities=22%  Similarity=0.355  Sum_probs=0.0  Template_Neff=10.908
+
+Q ss_pred             eEeecCCeeEeEeehhhccCCeeEEEeecccCCceeeeeecc-ccccCCcchhHHHHHHh
+Q 5GKY_1_Chains_   12 QFLRTDDEVVLQCSATVLKEQLKLCLAAEGFGNRLCFLEPTS-NAQNVPPDLAICCFTLE   70 (5037)
+Q Consensus        12 qFLRT~D~V~lqc~at~~ke~~k~CLaaEGfGnRlC~LE~~s-~ak~vPPDl~~C~fvle   70 (5037)
+                      +|||.||.|+|.|.     +...-||+++||++..|.+.+.. +.++.|++.-.|.|.+.
+T Consensus         1 ~~l~~Gd~i~l~~~-----~~~~~~l~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~F~i~   55 (490)
+T c3uj4B_           1 SFLHIGDIASLYAE-----GSTNGFISTLGLVDDRAVVQPEAGDLNNPPKKFRDALFKLA   55 (490)
+T ss_dssp             CBCBTTCEEEEEEE-----SSSCEEEEESCSSCCBEEECTTTCCSSSCCSSGGGSCEEEE
+T ss_pred             CccccCCEEEEEEc-----CCCcEEEEEeeccCCceEEecCCcccCCCchhhhhhheeec
+
+
+Q ss_pred             hhhh------------HHHHHHHhhcccccccccccCCCce-----eeeeeeeeeeeeec
+Q 5GKY_1_Chains_   71 QSLS------------VRALQEMLANTVEAGVESSQGGGHR-----TLLYGHAILLRHAH  113 (5037)
+Q Consensus        71 qsLS------------VRALQEMlsn~~~s~~~s~qGgGHR-----TLLYGhAIlLrH~~  113 (5037)
+                      ..++            -++++++|....+....... ...+     +++||..|.|+|..
+T Consensus        56 p~~~~~~~~~~~~~~~~~~~~~~l~~~~~~e~~~n~-~~~~~~~g~~v~yG~~iqL~H~~  114 (490)
+T c3uj4B_          56 PMNRYSAQKQFWKAATDAVLLNKLHHAADLEKKQNE-TENRKLLGTVIQYGNVIQLLHLK  114 (490)
+T ss_dssp             E---CHHHHHHHTTSSSHHHHHHHHHHHHHHHHHHH-HHHHHSTT-B-BTTCEEEEEETT
+T ss_pred             cccchHHHHHHHHhcccHHHHHHHHHHHHHHhhhhH-HHHHhhCCceeeeCchheeeecc
+
+
+Q ss_pred             cceeeeeeccccccccceeeeecccccCCCceeeEEeccccccccccceeeecCcEEEEE
+Q 5GKY_1_Chains_  114 SRMYLSCLTTSRSMTDKLAFDVGLQEDATGEACWWTMHPASKQRSEGEKVRVGDDLILVS  173 (5037)
+Q Consensus       114 S~MYLsCLsTs~S~tDKLaFDVGLQe~~~GEACWWTiHPASKQRSEGEKVRVGDDlILVS  173 (5037)
+                      |++||+|.....+..++-++-|.|++ ..++.|||+|+|+.|.|++||+|+.||.|+|+|
+T Consensus       115 S~kyL~~~~~~~~~~~~~~~~v~L~~-~~~~~~~f~i~p~~~~~~~g~~V~~~d~v~l~~  173 (490)
+T c3uj4B_         115 SNKYLTVNKRLPALLEKNAMRVTLDE-AGNEGSWFYIQPFYKLRSIGDSVVIGDKVVLNP  173 (490)
+T ss_dssp             TTEEEEEEEEEECSSCSSSEEEEEES-SCCGGGCEEEEESSTTSCTTSB-BTTCEEEEEE
+T ss_pred             cCCceeecccccccccccceEEEEec-CCCcceEEEEeChHhccCCCCeeEeCCEEEEEE
+
+
+Q ss_pred             eccceeEEeeecc-----CceEEEeeeeeeeeccccccccc--ccccccCCcEEeeecCC
+Q 5GKY_1_Chains_  174 VSSERYLHLSTAS-----GELQVDASFMQTLWNMNPICSCC--EEGYVTGGHVLRLFHGH  226 (5037)
+Q Consensus       174 VssERYLHls~~~-----g~~~V~ASF~qTLWnv~pv~Sg~--~~Gyl~Gg~VlRlfHG~  226 (5037)
+                      +.+.+|||.+...     +...|++|+..|.|.+.|+++..  ..++|.|||++||+|..
+T Consensus       174 ~~~~~~L~~s~~~~~~~~~~~ev~~~~~~~~~~i~~~~~~~~~~~~~l~~gd~v~l~h~e  233 (490)
+T c3uj4B_         174 VNAGQPLHASSHQLVDNPGANEVNSVNANTSWKIVLFMKWSDNKDDILKGGDVVRLFHAE  233 (490)
+T ss_dssp             SSSCS-EEEEEEECSSSTTCEEEEECSCCCEEEEEEEECGGGCCTTBCBTTCEEEEEETT
+T ss_pred             cCCCCcceecCcccCCCCCceEEEeeccccceEEEecccCcccccCeeecCCEEEEeecc
+
+
+Q ss_pred             ccceeeeCccccccccceeEee--cchhhhhhhhheeeeeeee-EeeccccCcCceeEEE
+Q 5GKY_1_Chains_  227 MDECLTISAADSDDQRRLVYYE--GGAVCTHARSLWRLEPLRI-SWSGSHLRWGQPLRIR  283 (5037)
+Q Consensus       227 ~DEcLtIp~~~~e~~~~~v~YE--gGav~s~ARSLWRlE~lRi-~Wsgshi~WgqpfRlR  283 (5037)
+                      .+..|+.+....+   ..|+.+  .+.....+.++|+||+... .+.|+.+.|++++|||
+T Consensus       234 ~~~~L~~~~~~~~---~~~~~~~~~~~~~~~~~~lW~ie~~~~~~~~g~~~~~~~~~rlr  290 (490)
+T c3uj4B_         234 QEKFLTADEHRKK---QHVFLRTTSATSATSSKALWEVEVVQHDPARGGAGYWNSLFRFK  290 (490)
+T ss_dssp             TTEEEEEEESSSS---EEEEEESSCTTSCCCGGGCEEEEECCSSSSCCCB-BTTCCEEEE
+T ss_pred             cCceEEecccCCC---cceEEEEecCCCCCChhhceeEEeecccCcCCCcceecceEEEE
+
+
+Q ss_pred             eecccceeeeecCCcEEEEehhhccccceeeeeccchhhhhhcchhhcccCCCcceeccc
+Q 5GKY_1_Chains_  284 HVTTGRYLALTEDQGLVVVDACKAHTKATSFCFRVSKEKLDTAPKRDVEGMGPPEIKYGE  343 (5037)
+Q Consensus       284 HiTTGrYL~l~E~~gl~l~~~~ka~~~~taFcfr~sKek~~~~~~~d~eGMG~peIKYGe  343 (5037)
+                      |+.||+||++..++.+.++....++...|.|+|++.+.             +....-..+
+T Consensus       291 h~~tg~yL~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~-------------~~~~~~~~~  337 (490)
+T c3uj4B_         291 HLATGHYLAAEVDPVYSLVSVPEGNDISSIFELDPTTR-------------GGDSLVPRN  337 (490)
+T ss_dssp             ETTTCCEEEEEESSSEEEEEESCSCSGGGCEEEEESSC-------------CSSCBCBTT
+T ss_pred             EccccceEEEecCCceEEEecCCCCCCCceEEEecCcC-------------CCCcccCCC
+
+
+Q ss_pred             hheeeeeccccceeeeecCcchhcccchhhhhhhhcccCcc-----hhhhhhhhhhhHHH
+Q 5GKY_1_Chains_  344 SLCFVQHVASGLWLTYAAPDPKALRLGVLKKKAILHQEGHM-----DDALFLTRCQQEES  398 (5037)
+Q Consensus       344 s~~fvQHv~tglWLsY~a~d~k~~rlG~~~rkAilh~EGHM-----DD~l~l~R~q~EES  398 (5037)
+                      +.++|||+.||.||++.....+..      .++++...|..     +|++.+.+...+|.
+T Consensus       338 ~~~~i~h~~~~~~l~~~~~~~~~~------~~~~~~~~~~~~~~~~~~~f~~~~~~~~~~  391 (490)
+T c3uj4B_         338 SYVRLRHLATNTWVHSTNIPIDKE------EKPVMLKIGTSPLKEDKEAFAIVPVSPAEV  391 (490)
+T ss_dssp             CEEEEEETTTTEEEEEEEEESSSS------SSCCEEEEEEESSGGGCCCEEEEE--HHHH
+T ss_pred             CeEEEEecCCCCCcccccCccCcc------cccceeEEeccCccccccceEEEecCHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHhhHHhhccccCCCccccceecCHHHHHHHHHHHHHhhcCCChh
+Q 5GKY_1_Chains_  399 QAARMIHSTAGLYNQFIKGLDSFSGKPRGSGPPAGPALPIEAVILSLQDLIGYFEPPSEE  458 (5037)
+Q Consensus       399 ~aARvIr~~t~lfn~FI~~Ld~ls~~~~~~~~~~~~~l~~~ev~~~L~DLI~YF~qP~ee  458 (5037)
+                      ..+..++++...+.+|++.|..          .....-.+..+..+|+|||.++.     
+T Consensus       392 ~~~~~~~~~~~~l~~~~~~~~~----------~~~~~~~~~~~~~~l~~l~~f~~-----  436 (490)
+T c3uj4B_         392 RDLDFANDASKVLGSIAGKLEK----------GTITQNERRSVTKLLEDLVYFVT-----  436 (490)
+T ss_dssp             HHHHHHHHHHHHHHHHHHHHHH----------SCCCHHHHHHHHHHHHHHHHHHC-----
+T ss_pred             HHHHHHHHHHHHHHHHHHHhhc----------CcchHHHHHHHHHHHHHHHHHhh-----
+
+
+Q ss_pred             hhHHHHHHHHHHhhhHHHhHHhhcHHHHHHHHHhhhhhhhhHHHHHhhcchhHHHhHHHH
+Q 5GKY_1_Chains_  459 LQHEEKQSKLRSLRNRQSLFQEEGMLSLVLNCIDRLNVYTTAAHFAEYAGEEAAESWKEI  518 (5037)
+Q Consensus       459 ~eHEeKQ~kLraLrnRQdLFQEEGml~lVl~~IDrln~~~sa~~fa~~agEea~~~W~~I  518 (5037)
+                              .-...+.||+|++|.|+|++|+..                          .|
+T Consensus       437 --------~~~~~~~rQ~llre~~~i~~l~~~--------------------------~~  462 (490)
+T c3uj4B_         437 --------FSKPNRERQKLMREQNILKQIFKL--------------------------HI  462 (490)
+T ss_dssp             --------SSCCCHHHHHHHHHTTHHHHHHHC--------------------------SS
+T ss_pred             --------CCCcChHHHHHHhhhChHHHHhhH--------------------------HH
+
+
+Q ss_pred             HHHHHHHHHHHhcCChhhHHHHHhhhh
+Q 5GKY_1_Chains_  519 VNLLYELLASLIRGNRANCALFSTNLD  545 (5037)
+Q Consensus       519 ~n~LY~LLAAlIrGNr~NCaqFa~~Ld  545 (5037)
+                      ....|.||. +++||+.||..++..+.
+T Consensus       463 ~~~~~~~l~-~~~~~~~n~~~~~~~~~  488 (490)
+T c3uj4B_         463 ARLAYRVLR-SQQDYRKNQEYIAKQFG  488 (490)
+T ss_dssp             HHHHHHHHS-SCTTCHHHHHHHHHHHH
+T ss_pred             HHHHHHHHH-hcccchhhHHHHHHhhc
+
+

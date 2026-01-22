@@ -1,0 +1,42 @@
+114 c7dtcA_ Probab=88.25  E-value=0.48  Score=57.09  Aligned_cols=151  Identities=14%  Similarity=0.246  Sum_probs=0.0  Template_Neff=11.542
+
+Q ss_pred             HHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhcc
+Q 5GKY_1_Chains_ 4807 FFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTVVAFNFFRKFYNKS 4866 (5037)
+Q Consensus      4807 FFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVYLYTVvAFNFFRKFY~k~ 4866 (5037)
+                      .|-+..++-+.-.++.+|.++.+...-.+++...+.++++++|+|.+++.++|...+...
+T Consensus       674 ~~~~~r~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  733 (1151)
+T c7dtcA_         674 TLRALRPLRALSRFEGMRVVVNALVGAIPSIMNVLLVCLIFWLIFSIMGVNLFAGKFGRC  733 (1151)
+T ss_dssp             SSGGGGGGGGTTTCHHHHHHHHHHHHTCHHHHHHHHHHHHHHHHHHHHHHHHHTTCCEEC
+T ss_pred             HHHHHHHHHHHhhhHhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcCccccc
+
+
+Q ss_pred             ccCCCCccch---------------------------------hhhHHHHHHHH---Hhh
+Q 5GKY_1_Chains_ 4867 EDEDEPDMKC---------------------------------DDMMTCYLFHM---YVG 4890 (5037)
+Q Consensus      4867 ed~depD~KC---------------------------------~dM~TCy~fHm---Y~G 4890 (5037)
+                      .+..+++..+                                 .-|.++|..-.   +.+
+T Consensus       734 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  793 (1151)
+T c7dtcA_         734 INQTEGDLPLNYTIVNNKSQCESLNLTGELYWTKVKVNFDNVGAGYLALLQVATFKGWMD  793 (1151)
+T ss_dssp             CBSSSCSSCCTTTTSCBHHHHTTCTTSTTBCCEECSSCCSBHHHHHHHHHHHHHTSSHHH
+T ss_pred             cCCcccCCCCCccccCChhhccccCCCCCcccCCCCCCCccHHHHHHHHHHHhhhcCHHH
+
+
+Q ss_pred             hhcCCccccccCCCCCCcchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHHH
+Q 5GKY_1_Chains_ 4891 VRAGGGIGDEIEDPAGDEYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQV 4950 (5037)
+Q Consensus      4891 VRAGGGIGDEIEdP~GDeyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEqv 4950 (5037)
+                      +-...--+........-.+-.+-.+|=++|.++..++++.++-|.|+|+|-+.+.+.++.
+T Consensus       794 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  853 (1151)
+T c7dtcA_         794 IMYAAVDSRGYEEQPQWEYNLYMYIYFVIFIIFGSFFTLNLFIGVIIDNFNQQKKKLGGQ  853 (1151)
+T ss_dssp             HHHHHTTCCSTTBCCCTTTTGGGHHHHHHHCCCCCCCHHHHHHHHHHHHHHHHHHHSSSC
+T ss_pred             HHHHHhcccCCCcCccccccchHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcccc
+
+
+Q ss_pred             HHhhhcc
+Q 5GKY_1_Chains_ 4951 KEDMETK 4957 (5037)
+Q Consensus      4951 kEdmEtk 4957 (5037)
+                      ...+..+
+T Consensus       854 ~~~~~~~  860 (1151)
+T c7dtcA_         854 DIFMTEE  860 (1151)
+T ss_dssp             CCSCCHH
+T ss_pred             cccCCHH
+
+

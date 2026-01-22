@@ -1,0 +1,12 @@
+192 c7rroC_ Probab=90.91  E-value=0.01  Score=62.49  Aligned_cols=56  Identities=29%  Similarity=0.523  Sum_probs=0.0  Template_Neff=10.756
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhhh-ccCHHHHhhhhhhhCCCccccccHHHHHH
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQK-QFTGPEIQFLLSCSEADENEMINFEEFAN 4130 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesqK-~yt~~Ei~fLlsC~e~d~~~~idy~eF~~ 4130 (5037)
+                      ++|+.+|.|.+|+|+..+|++.|.... ..+.+++.-|+.+.+.+.+|.|||.+|.+
+T Consensus       230 ~~f~~~d~~~~g~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~f~~  286 (292)
+T c7rroC_         230 AAFRHYDKKGDGVIDRAELQEACDQACLHLDEKLLDQLFEYCDVDKDGLINYLEFAN  286 (292)
+T ss_dssp             HHHHHHHHHHSSSCCHHHHHHHHHHTTCCCCHHHHHHHHHHHCTTSSSS--HHCCCC
+T ss_pred             HHHHHhccCCCCcCcHHHHHHHHHHhCCCCCHHHHHHHHHHhCCCCCCcCcHHHHHH
+
+

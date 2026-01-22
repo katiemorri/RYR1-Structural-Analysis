@@ -1,0 +1,32 @@
+30 c5ji7A_ Probab=98.91  E-value=1e-09  Score=104.49  Aligned_cols=143  Identities=29%  Similarity=0.625  Sum_probs=0.0  Template_Neff=12.951
+
+Q ss_pred             ccceeeeeccceeeecCeeEEEEEeec---ccceeeeeeCCCCCCccccCcccceeeecc
+Q 5GKY_1_Chains_ 1070 DRVRIFRAEKSYTVQSGRWYFEFEAVT---TGEMRVGWARPELRPDVELGADELAYVFNG 1126 (5037)
+Q Consensus      1070 ~~~R~fR~EktYAV~~GKWYFEFE~vT---~G~MRVGWarp~~~pd~eLGsDd~sy~FdG 1126 (5037)
+                      ...+.-++-.......|+||||+++..   .+.+.|||+......+..+|.+..+|.|..
+T Consensus        51 ~~~~~~~~~~~~~~~~~~~~~e~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~  110 (199)
+T c5ji7A_          51 KDAASVRATHPIPAACGIYYFEVKIVSKGRDGYMGIGLSAQGVNMNRLPGWDKHSYGYHG  110 (199)
+T ss_dssp             GGCEEEEESS---GGGSEEEEEEEEEEETTTCCCEEEEECTTCCSSSCTTSSTTEEEEET
+T ss_pred             CceeEEEeCCccCCCCCcEEEEEEEEeCCCCCEEEEEEecCCCCcccCCCCCCCEEEEEC
+
+
+Q ss_pred             hhhhhhccCC--CccccccccCCEEEEEEeccCceEEEEEcceEEEcCCCceeeecceec
+Q 5GKY_1_Chains_ 1127 HRGQRWHLGS--EPFGRPWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEI 1184 (5037)
+Q Consensus      1127 ~~~~kwH~G~--e~fGr~Wq~GDVVGCmiDl~d~tisFtLNGElL~d~~GsE~AF~di~~ 1184 (5037)
+                      ..+..++.+.  ..++..|.+||+|||.+|+...+++|..||+.+      ..+|+.+. 
+T Consensus       111 ~~~~~~~~~~~~~~~~~~~~~~~~v~~~~~~~~~~~~~~~~g~~~------~~~~~~~~-  163 (199)
+T c5ji7A_         111 DDGHSFCSSGTGQPYGPTFTTGDVIGCCVNLINNTCFYTKNGHSL------GIAFTDLP-  163 (199)
+T ss_dssp             TTCEEEETT---EECSCCCCTTCEEEEEEETTTTEEEEEETTEEE------EEEECSCC-
+T ss_pred             CCCeEEeCCCCCCccCCCCCCCCEEEEEEEeCCCEEEEEECCcee------CccccCCC-
+
+
+Q ss_pred             cCcceeeeee-CccceeeeeccccchhhHHHHhhhhccCCcceeeecCCCcccc
+Q 5GKY_1_Chains_ 1185 GDGFLPVCSL-GPGQVGHLNLGQDVSSLRFFAICGLQEGFEPFAINMQRPVTTW 1237 (5037)
+Q Consensus      1185 gdGfvPvcsL-G~gQ~gRlNlGqDvsslkyFT~CGLQEGyEPF~VNM~R~~tmW 1237 (5037)
+                       ..+.|+.++ +.++.-++|+|+                 +||.-.+..-+..|
+T Consensus       164 -~~~~p~~~~~~~~~~~~~~~~~-----------------~~~~~~~~~~~~~~  199 (199)
+T c5ji7A_         164 -PNLYPTVGLQTPGEVVDANFGQ-----------------HPFVFDIEDYMREW  199 (199)
+T ss_dssp             -SSCEEEEEECSTTEEEEEESSS-----------------SCCSSCHHHHHHTC
+T ss_pred             -CCEeeEEEecCCCCEEEEecCC-----------------CCcccCHHHHhhcC
+
+

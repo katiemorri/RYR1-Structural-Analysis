@@ -1,0 +1,32 @@
+147 c3cs1A_ Probab=94.23  E-value=0.04  Score=52.81  Aligned_cols=135  Identities=13%  Similarity=0.186  Sum_probs=0.0  Template_Neff=11.758
+
+Q ss_pred             HH--HHHhhcC---hhHHHHHHHHHHh---------HHHHHHHHHHHhcCccccchHHHH
+Q 5GKY_1_Chains_ 3998 HM--MMKLAQD---SSQIELLKELLDL---------QKDMVVMLLSLLEGNVVNGMIARQ 4043 (5037)
+Q Consensus      3998 hM--~~KLsqd---ssQi~LLkElL~L---------QKdmivmlLSmLEGNVvNGtIgkQ 4043 (5037)
+                      ++  +.+|...   ..++..++++.+.         .+++.-.++.++.-+.........
+T Consensus        19 ~~~~~~~~~~~~~~~~~~~~~~~~f~~~d~~~~g~i~~~~~~~~~~~~~~~~~~~~~~~~   78 (202)
+T c3cs1A_          19 RIRRQQAIPREEKTAEAKQRRIELFKKFDKNETGKLYDEVYSGCLEVLKLDEFTSRVRRD   78 (202)
+T ss_dssp             HHH--HHSCCS-SSHHHHHHHHHHHHHHCTTCSSCCSHHHHHHCCCCCCGGGTCSCHH-H
+T ss_pred             HhcccccCCCCCCCHHHHHHHHHHHHHhCCCCCCchHHHHHHhHHHHcCcccchHHHHHH
+
+
+Q ss_pred             HHH---------H--HhhccccHHHHHHHHH---HHHHH-HhhhcCchhhhhccCC-Ccc
+Q 5GKY_1_Chains_ 4044 MVD---------M--LVESSSNVEMILKFFD---MFLKL-KDIVGSEAFQDYVTDP-RGL 4087 (5037)
+Q Consensus      4044 MVD---------~--LVESssNVEmILKffD---MFLKL-Kdlt~S~aF~~yd~~~-~G~ 4087 (5037)
+                      ++.         .  .-...........|..   +.-.+ ....-..+|..+|.|+ +|.
+T Consensus        79 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~d~~~~~g~  138 (202)
+T c3cs1A_          79 ITKKRRAFDKSRTLGSKLENKGSEDFVEFLEFRLMLCYIYDFFELTVMFDEIDASGNNML  138 (202)
+T ss_dssp             HHH--HHHHHHHHHHHHHHTSCCCSSCCHHHHHHHHHHHHHHHHHHHHHHTTCSSSS-SE
+T ss_pred             HHHHHHHHHHHHHhhhccccCCccccccHHHHHHHHHHHHHHHHHHHHHHHHcCCCCCCc
+
+
+Q ss_pred             ccHHHHHHHHhhhh---ccCHHHHhhhhh-hhCCCccccccHHHHHHhh
+Q 5GKY_1_Chains_ 4088 ISKKDFQKAMDSQK---QFTGPEIQFLLS-CSEADENEMINFEEFANRF 4132 (5037)
+Q Consensus      4088 IS~kdFqkaMesqK---~yt~~Ei~fLls-C~e~d~~~~idy~eF~~rF 4132 (5037)
+                      |+.++|..+|..-.   ..+.+++.-++. ..+.|.+|.|+|.+|...+
+T Consensus       139 i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~d~~~~g~i~~~ef~~~~  187 (202)
+T c3cs1A_         139 VDEEEFKRAVPKLEEAWGAKVEDPAALFKKELDKNGTGSVTFDEFAAWA  187 (202)
+T ss_dssp             EEHHHHHHHHHHHH-HHTCCCSCHHHHHH-HHCTTSSSEEEHHHHHHHH
+T ss_pred             cCHHHHHHHHHHHhhhcCCCcccHHHHHHHHhccCCCCcEeHHHHHHHH
+
+

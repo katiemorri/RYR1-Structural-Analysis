@@ -1,0 +1,22 @@
+410 c2wceA_ Probab=91.29  E-value=0.056  Score=43.49  Aligned_cols=62  Identities=16%  Similarity=0.319  Sum_probs=0.0  Template_Neff=12.577
+
+Q ss_pred             chhhhhcc--CCCccccHHHHHHHHh------hhhccCHHHHhhhhhhhCCCccccccHH
+Q 5GKY_1_Chains_ 4075 EAFQDYVT--DPRGLISKKDFQKAMD------SQKQFTGPEIQFLLSCSEADENEMINFE 4126 (5037)
+Q Consensus      4075 ~aF~~yd~--~~~G~IS~kdFqkaMe------sqK~yt~~Ei~fLlsC~e~d~~~~idy~ 4126 (5037)
+                      ..|..|+.  +.+|.|++.+|...+.      ..+.-.+..++-++.+.+.+.+|.|+|.
+T Consensus        13 ~~f~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~   72 (90)
+T c2wceA_          13 NIFHQYSVRKGHFDTLSKGELKQLLTKELANTIKNIKDKAVIDEIFQGLDANQDEQVDFQ   72 (90)
+T ss_dssp             HHHHHHHTTSSSTTCEEHHHHHHHHHHHTHHHHHHCSCTHHHHHHHHHHHHTTTCEECHH
+T ss_pred             HHHHHhcCCCCCcCcCCHHHHHHHHHHHChhhhccCCCHHHHHHHHHHhcCCCCCeEcHH
+
+
+Q ss_pred             HHHHhhhchhh
+Q 5GKY_1_Chains_ 4127 EFANRFQEPAR 4137 (5037)
+Q Consensus      4127 eF~~rF~ePAk 4137 (5037)
+                      +|+. +...+.
+T Consensus        73 ~f~~-~~~~~~   82 (90)
+T c2wceA_          73 EFIS-VAIALK   82 (90)
+T ss_dssp             HHHC-CHHHHH
+T ss_pred             HHHH-HHHHHH
+
+

@@ -1,0 +1,32 @@
+51 c5hvdA_ Probab=95.50  E-value=0.065  Score=50.10  Aligned_cols=157  Identities=18%  Similarity=0.245  Sum_probs=0.0  Template_Neff=13.208
+
+Q ss_pred             eecChhHHHHHHHHHHHHcccchHHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHH
+Q 5GKY_1_Chains_ 4784 FTDNSFLYLGWYMVMSLLGHYNNFFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGL 4843 (5037)
+Q Consensus      4784 fTdnsFLYl~wY~~~S~lG~~nnFFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~L 4843 (5037)
+                      +.+....+-..-.+++...   .++-...++.+...++.++.++.++-...+.+..+.++
+T Consensus        75 ~~~~~~~~d~~~~~~~~~~---~~~~~~r~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  131 (255)
+T c5hvdA_          75 FRSGWNLFDFVIVAIALMP---RTFRIFRVMRLVSVIPTMRRVVQGMLLALPGVGSVAAL  131 (255)
+T ss_dssp             TTSHHHHHHHHHHHHTTCC---CCCGGGGGGHHHHHSHHHHHHHHHHHHTSGGGHHHHHH
+T ss_pred             ccchhHHHHHHHHHHHHHH---HHHHHHHHHHHHHhchhHHHHHHHHHHhhHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHHHHHHhhccccCCCCccchhhhHHHHHHHHHhhhhcCCccccccCC
+Q 5GKY_1_Chains_ 4844 LAVVVYLYTVVAFNFFRKFYNKSEDEDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIED 4903 (5037)
+Q Consensus      4844 l~VVVYLYTVvAFNFFRKFY~k~ed~depD~KC~dM~TCy~fHmY~GVRAGGGIGDEIEd 4903 (5037)
+                      +.++++++.+++.++|...+..         ..++...+++.-+  -+..|.|-++...+
+T Consensus       132 ~~~~~~~~~~~~~~~~~~~~~~---------~f~~~~~~~~~~~--~~~~~~~~~~~~~~  180 (255)
+T c5hvdA_         132 LTVVFYIAAVMATNLYGATFPE---------WFGDLSKSLYTLF--QVMTLESWSMGIVR  180 (255)
+T ss_dssp             HHHHHHHHHHHHHHHHTTTCHH---------HHSSHHHHHHHHH--HHHTTSSCCCCCHH
+T ss_pred             HHHHHHHHHHHHHHHhcccCcc---------ccccHHHHHHHHH--HHHhcccchhhhhc
+
+
+Q ss_pred             CCCCcchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHHHHHhhh
+Q 5GKY_1_Chains_ 4904 PAGDEYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQVKEDME 4955 (5037)
+Q Consensus      4904 P~GDeyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEqvkEdmE 4955 (5037)
+                      |.-.......+.| ++|.++..++++.+.-|.|+++|.+.++++++.++..+
+T Consensus       181 ~~~~~~~~~~~~~-~~~~~~~~~~~~~~~~a~~~~~~~~~~~~~~~~~~~~~  231 (255)
+T c5hvdA_         181 PVMNVHPNAWVFF-IPFIMLTTFTVLNLFIGICVDAMAITKEQEEEAKTGHH  231 (255)
+T ss_dssp             HHHHHCTTTHHHH-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHSSC
+T ss_pred             chhccChhHHHHH-HHHHHHHHHHHHHHHHHHHHHHHHHhHHHHHHhhcCCc
+
+

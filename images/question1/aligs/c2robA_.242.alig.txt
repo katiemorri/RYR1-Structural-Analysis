@@ -1,0 +1,12 @@
+242 c2robA_ Probab=90.67  E-value=0.086  Score=34.40  Aligned_cols=59  Identities=25%  Similarity=0.474  Sum_probs=0.0  Template_Neff=15.467
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhhh-ccCHHHHhhhhhhhCCCccccccHHHHHHhhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQK-QFTGPEIQFLLSCSEADENEMINFEEFANRFQ 4133 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesqK-~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~ 4133 (5037)
+                      ..|..+|.+.+|.++..++...+.... .++......++.+...+.++.+++.+|...+.
+T Consensus         8 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   67 (70)
+T c2robA_           8 EAFKVFDKDQNGYISASELRHVMINLGEKLTDEEVEQMIKEADLDGDGQVNYEEFVKMMM   67 (70)
+T ss_dssp             HHHHHHCTTCSSSBCHHHHHHHHHHTTCCCCHHHHHHHHHHHCSSCSSSBCHHHHHHHHH
+T ss_pred             HHHHhhCCCCCceecHHHHHHHHHHhcCCCCHHHHHHHHHHhCcCCCCcccHHHHHHHHh
+
+

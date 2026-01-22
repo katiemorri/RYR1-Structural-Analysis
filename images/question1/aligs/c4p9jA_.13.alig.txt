@@ -1,0 +1,29 @@
+13 c4p9jA_ Probab=99.92  E-value=8e-26  Score=229.64  Aligned_cols=180  Identities=99%  Similarity=1.599  Sum_probs=0.0  Template_Neff=11.247
+
+Q ss_pred             cccccceeeeeccceeeecCeeEEEEEeecccceeeeeeCCCCCCccccCcccceeeecc
+Q 5GKY_1_Chains_ 1067 SRWDRVRIFRAEKSYTVQSGRWYFEFEAVTTGEMRVGWARPELRPDVELGADELAYVFNG 1126 (5037)
+Q Consensus      1067 ~~~~~~R~fR~EktYAV~~GKWYFEFE~vT~G~MRVGWarp~~~pd~eLGsDd~sy~FdG 1126 (5037)
+                      ....+.|+||+..++++..||||||+++...|.++|||+.....+...+|.+..+|+|++
+T Consensus         1 ~~~~~~~~~~~~~~~~~~~g~~y~ev~~~~~~~~~ig~~~~~~~~~~~~g~~~~~~~~~~   60 (180)
+T c4p9jA_           1 SNADRVRIFRAEKSYTVQSGRWYFEFEAVTTGEMRVGWARPELRPDVELGADELAYVFNG   60 (180)
+T ss_pred             CCCCcceEEEEccceecccCeEEEEEEEecCCcEEEEEEcCCCCCCCCCCCCCceEEEEc
+
+
+Q ss_pred             hhhhhhccCCCccccccccCCEEEEEEeccCceEEEEEcceEEEcCCCceeeecceeccC
+Q 5GKY_1_Chains_ 1127 HRGQRWHLGSEPFGRPWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEIGD 1186 (5037)
+Q Consensus      1127 ~~~~kwH~G~e~fGr~Wq~GDVVGCmiDl~d~tisFtLNGElL~d~~GsE~AF~di~~gd 1186 (5037)
+                      ..+..+|.+...+|..|..||+|||.+|+..++|.|+.||..+.++.|...+|.++....
+T Consensus        61 ~~~~~~~~~~~~~~~~~~~gd~i~~~~d~~~~~~~~~~ng~~~~~~~~~~~~~~~~~~~~  120 (180)
+T c4p9jA_          61 HRGQRWHLGSEPFGRPWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEIGD  120 (180)
+T ss_pred             CCceEEecCCCcCCCCCCCCCEEEEEEEeCCCEEEEEECCEEeeccCCCceeeecccCCC
+
+
+Q ss_pred             cceeeeeeCccceeeeeccccchhhHHHHhhhhccCCcceeeecCCCccccccccCCccc
+Q 5GKY_1_Chains_ 1187 GFLPVCSLGPGQVGHLNLGQDVSSLRFFAICGLQEGFEPFAINMQRPVTTWFSKSLPQFE 1246 (5037)
+Q Consensus      1187 GfvPvcsLG~gQ~gRlNlGqDvsslkyFT~CGLQEGyEPF~VNM~R~~tmW~sK~lP~F~ 1246 (5037)
+                      .+.|+++++.++..++|+|++...++|.-.||+.+||+|+++++.|++.+|+++.+++|+
+T Consensus       121 ~~~p~v~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  180 (180)
+T c4p9jA_         121 GFLPVCSLGPGQVGHLNLGQDVSSLRFFAICGLQEGFEPFAINMQRPVTTWFSKSLPQFE  180 (180)
+T ss_pred             cEEEEEEeCCCcEEEEEcCCCccccccccccccCCCceeeEeeccCChhhhhhhccccCC
+
+

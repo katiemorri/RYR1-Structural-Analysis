@@ -1,0 +1,22 @@
+299 c3tz1A_ Probab=92.41  E-value=0.039  Score=36.70  Aligned_cols=63  Identities=21%  Similarity=0.366  Sum_probs=0.0  Template_Neff=15.337
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhh-hccCHHHHhhhhhhhCCCccccccHHHHHHhhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQ-KQFTGPEIQFLLSCSEADENEMINFEEFANRFQ 4133 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesq-K~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~ 4133 (5037)
+                      ..|..+|.+.+|.++..++...+... ...+..++..++.+...+.++.++|.+|...+.
+T Consensus         8 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   67 (71)
+T c3tz1A_           8 EAFRVLDKEKKGVIKVDVLRWILKSLGDELTEDEIENMIAETDTDGSGTVDYEEFKCLMM   67 (71)
+T ss_dssp             HHHHHHCTTSSSSEEHHHHHHHHHHHSSSCCHHHHHHHHHHHSTTCSSEECHHHHHHHHH
+T ss_pred             HHHHHhCCCCCCcEeHHHHHHHHHHhCccCCHHHHHHHHHHcCCCCCCcCcHHHHHHHHH
+
+
+Q ss_pred             chhh
+Q 5GKY_1_Chains_ 4134 EPAR 4137 (5037)
+Q Consensus      4134 ePAk 4137 (5037)
+                      .+..
+T Consensus        68 ~~~~   71 (71)
+T c3tz1A_          68 SSDA   71 (71)
+T ss_dssp             CCCC
+T ss_pred             hcCC
+
+

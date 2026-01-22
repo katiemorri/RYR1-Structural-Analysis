@@ -1,0 +1,32 @@
+49 c1t9fA_ Probab=98.70  E-value=1.4e-08  Score=98.45  Aligned_cols=132  Identities=21%  Similarity=0.289  Sum_probs=0.0  Template_Neff=11.939
+
+Q ss_pred             cccceeeecCcEEEEEeccceeEEeeec-----cCceEEEeeee----eeeecccccc--
+Q 5GKY_1_Chains_  158 SEGEKVRVGDDLILVSVSSERYLHLSTA-----SGELQVDASFM----QTLWNMNPIC--  206 (5037)
+Q Consensus       158 SEGEKVRVGDDlILVSVssERYLHls~~-----~g~~~V~ASF~----qTLWnv~pv~--  206 (5037)
+                      ++|..|+.||.+.|-++.+.+|||.+..     ++...|.++-.    .+.|.+.|..  
+T Consensus         2 ~~~~~v~~g~~v~l~~~~~~~~L~~~~~~~~~~~~~~~v~~~~~~~~~~~~w~i~~~~~~   61 (178)
+T c1t9fA_           2 SDEDFVTCYSVLKFINANDGSRLHSHDVKYGSGSGQQSVTAVKNSDDINSHWQIFPALNA   61 (178)
+T ss_dssp             CTTCBCBTTCEEEEEETTTC-EEEEEEEECSSSSCCEEEEEESCSSCGGGCEEEEECTTC
+T ss_pred             CCCCEEecCCEEEEEECCCCCeEEeCCcCCCCCCCCcEEEEeCCCCCCCCEEEeecCCCC
+
+
+Q ss_pred             cccccccccCCcEEeeecCCccceeeeCcccccc-cc-ceeEeecchhhhhhhhheeeee
+Q 5GKY_1_Chains_  207 SCCEEGYVTGGHVLRLFHGHMDECLTISAADSDD-QR-RLVYYEGGAVCTHARSLWRLEP  264 (5037)
+Q Consensus       207 Sg~~~Gyl~Gg~VlRlfHG~~DEcLtIp~~~~e~-~~-~~v~YEgGav~s~ARSLWRlE~  264 (5037)
+                      .....+++..|+.+||.|....-.|........- .+ .-|.--++.......++|++|.
+T Consensus        62 ~~~~~~~i~~g~~v~l~h~~t~~~L~~~~~~~~~~~~~~~v~~~~~~~~~~~~~~w~i~~  121 (178)
+T c1t9fA_          62 KCNRGDAIKCGDKIRLKHLTTGTFLHSHHFTAPLSKQHQEVSAFGSEAESDTGDDWTVIC  121 (178)
+T ss_dssp             CCCTT-B--TTCEEEEEETTTCCEEEEEEEECSSCTTSEEEEEECCTTTCCGGGCEEEEC
+T ss_pred             CCCCCCeEcCCCEEEEEEcCCCCeeEECCcCCCCcCCcEEEEEeCCCCCCCCCCCEEEEE
+
+
+Q ss_pred             eeeEeeccccCcCceeEEEeecccceeeee
+Q 5GKY_1_Chains_  265 LRISWSGSHLRWGQPLRIRHVTTGRYLALT  294 (5037)
+Q Consensus       265 lRi~Wsgshi~WgqpfRlRHiTTGrYL~l~  294 (5037)
+                      .     +..+.|+.+|||+|+.||.||...
+T Consensus       122 ~-----~~~~~~~~~~~l~h~~~~~~L~~~  146 (178)
+T c1t9fA_         122 N-----GDEWLESEQFKLRHAVTGSYLSLS  146 (178)
+T ss_dssp             S-----SSSCBTTSEEEEEETTTC-EEEEE
+T ss_pred             C-----CCcEECCCeEEEEEcccCcEEEEC
+
+

@@ -1,0 +1,38 @@
+60 c7mijD_ Probab=91.37  E-value=0.36  Score=54.29  Aligned_cols=183  Identities=15%  Similarity=0.171  Sum_probs=0.0  Template_Neff=11.461
+
+Q ss_pred             cccchhhhhhccchhheeeeeeeeeecChhHHHHHHHHHHHHcccchHHHHHHHHHHHhh
+Q 5GKY_1_Chains_ 4760 PPPGLLTWLMSIDVKYQIWKFGVIFTDNSFLYLGWYMVMSLLGHYNNFFFAAHLLDIAMG 4819 (5037)
+Q Consensus      4760 ~~~~~~~~~~siD~kYqvWk~GVvfTdnsFLYl~wY~~~S~lG~~nnFFfAaHLLDvamg 4819 (5037)
+                      +...+.+.+++.-+.+..+...+++---.|+|...+.....+.....|+.=.++|=..-+
+T Consensus       392 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  451 (639)
+T c7mijD_         392 RPSDLQSILSDAWFHFVFFVQAVLVILSVFLYLFAYKEYLACLVLAMALGWANMLYYTRG  451 (639)
+T ss_pred             CcchhhHHhhHHHHHHHHHHHHHHHHHHHHHHHhhhhHHHHHHHHHHHHHHHHHHHHHHh
+
+
+Q ss_pred             hHHHHHHHHHhccchHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhccccCCCCccchhhh
+Q 5GKY_1_Chains_ 4820 VKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTVVAFNFFRKFYNKSEDEDEPDMKCDDM 4879 (5037)
+Q Consensus      4820 fktLRtILsSVTHNgkQlvlTv~Ll~VVVYLYTVvAFNFFRKFY~k~ed~depD~KC~dM 4879 (5037)
+                      ++.+..++..+.+==-+=++-++++.+++++-..+||+..-.-+.++.++..+-..-.+.
+T Consensus       452 ~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~~f~~~~~~l~~~~~~~~~~~~~~~~~~~~  511 (639)
+T c7mijD_         452 FQSMGMYSVMIQKVILHDVLKFLFVYILFLLGFGVALASLIEKCSKDKKDCSSYGSFSDA  511 (639)
+T ss_pred             hhhhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhccccccccCCcCcHHHH
+
+
+Q ss_pred             HHHHHHHHHhhhhcCCccccccCCCCCCcchhhhhhhhHHHHHHHHHHHHHHHhhHHHhH
+Q 5GKY_1_Chains_ 4880 MTCYLFHMYVGVRAGGGIGDEIEDPAGDEYELYRVVFDITFFFFVIVILLAIIQGLIIDA 4939 (5037)
+Q Consensus      4880 ~TCy~fHmY~GVRAGGGIGDEIEdP~GDeyE~yRi~fDItFFFFVIvILLAIiQGLIIDA 4939 (5037)
+                      ..+. |.|..|       ..+.+....+.+-..-.+|=++|.+++.|||+-++-|++.|.
+T Consensus       512 ~~~~-~~~~~g-------~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~nllia~~~~~  563 (639)
+T c7mijD_         512 VLEL-FKLTIG-------LGDLNIQQNSTYPILFLFLLITYVILTFVLLLNMLIALMGET  563 (639)
+T ss_pred             HHHH-HHHHhc-------cCCccccCCCChhHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+Q ss_pred             HHhhhhHHHHH
+Q 5GKY_1_Chains_ 4940 FGELRDQQEQV 4950 (5037)
+Q Consensus      4940 FGELRDQqEqv 4950 (5037)
+                      +.+.+++.+..
+T Consensus       564 ~~~~~~~~~~~  574 (639)
+T c7mijD_         564 VENVSKESERI  574 (639)
+T ss_pred             HHHHHHHHHHH
+
+

@@ -1,0 +1,42 @@
+139 c6bo8A_ Probab=85.83  E-value=2.3  Score=46.22  Aligned_cols=164  Identities=12%  Similarity=0.108  Sum_probs=0.0  Template_Neff=11.862
+
+Q ss_pred             cchHHHHHHHHHHHhhhHHHHHHHHHhccch-HHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4804 YNNFFFAAHLLDIAMGVKTLRTILSSVTHNG-KQLVMTVGLLAVVVYLYTVVAFNFFRKF 4862 (5037)
+Q Consensus      4804 ~nnFFfAaHLLDvamgfktLRtILsSVTHNg-kQlvlTv~Ll~VVVYLYTVvAFNFFRKF 4862 (5037)
+                      +..|+.-..++.+...++.+-.++..+..=- +-++-.+.++++++..|.+..+-.|.  
+T Consensus       411 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~~f~~~~~~~~~--  468 (593)
+T c6bo8A_         411 FALVLGWCNVMYFARGFQMLGPFTIMIQKMIFGDLMRFCWLMAVVILGFASAFYIIFQ--  468 (593)
+T ss_dssp             HHHHHHHHTTGGGGGGSSSSTTHHHHHHCCCCCCGGGTHHHHHHHHHHHHHHHHHHTT--
+T ss_pred             HHHHHHHHHHHHHHHHHhhhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhC--
+
+
+Q ss_pred             hhccccCCCCccchhhhHHHHHH--HHHhhhhcCCccccccCCCCCCcchhhhhhhhHHH
+Q 5GKY_1_Chains_ 4863 YNKSEDEDEPDMKCDDMMTCYLF--HMYVGVRAGGGIGDEIEDPAGDEYELYRVVFDITF 4920 (5037)
+Q Consensus      4863 Y~k~ed~depD~KC~dM~TCy~f--HmY~GVRAGGGIGDEIEdP~GDeyE~yRi~fDItF 4920 (5037)
+                          ...++......+....+..  -+..|.-       +-++...+....+-.++=++|
+T Consensus       469 ----~~~~~~~~~~~~~~~~~~~~~~~~~~~~-------~~~~~~~~~~~~~~~~~~~~~  517 (593)
+T c6bo8A_         469 ----TEDPEELGHFYDYPMALFSTFELFLTII-------DGPANYNVDLPFMYSITYAAF  517 (593)
+T ss_dssp             ----SSCTTSSGGGSSHHHHHHHHHHHHTTCS-------CCCCCSSS---HHHHHHHHHH
+T ss_pred             ----CCCccccccccchhHHHHHHHHHHHHhc-------cCccccccccchHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHhhHHHhHHHhhhhHHH--------HHHHhhhccceEe-cccchhhhcC
+Q 5GKY_1_Chains_ 4921 FFFVIVILLAIIQGLIIDAFGELRDQQE--------QVKEDMETKCFIC-GIGSDYFDTT 4971 (5037)
+Q Consensus      4921 FFFVIvILLAIiQGLIIDAFGELRDQqE--------qvkEdmEtkCFIC-gIG~dyFD~~ 4971 (5037)
+                      .|++.|||+=++-+++-|+|.+.+++.+        .+..++|.++-.| --++++-..-
+T Consensus       518 ~~~~~~~l~n~lia~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  577 (593)
+T c6bo8A_         518 AIIATLLMLNLLIAMMGDTHWRVAHERDELWRAQIVATTVMLERKLPRCLWPRSGICGRE  577 (593)
+T ss_dssp             CCCCCCCCHHHHHHHHHHHHHHHHTSHHHHHHHHHHHHHHHHHTTSCSSSC--SSBCCSS
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhCccccCCccCCcccc
+
+
+Q ss_pred             CCccchhhh
+Q 5GKY_1_Chains_ 4972 PHGFETHTL 4980 (5037)
+Q Consensus      4972 PhGFetHt~ 4980 (5037)
+                      |+|+..-|.
+T Consensus       578 ~~~~~~~~~  586 (593)
+T c6bo8A_         578 YGLGDRWFL  586 (593)
+T ss_dssp             SSCCSCCBE
+T ss_pred             cCCCCccee
+
+

@@ -1,0 +1,32 @@
+169 c2l2eA_ Probab=93.30  E-value=0.16  Score=43.70  Aligned_cols=139  Identities=12%  Similarity=0.139  Sum_probs=0.0  Template_Neff=13.861
+
+Q ss_pred             HHHHHHHhhcChhHHHHHHHHHH-------hHHHHHHHHHHHhcCccccchHHHHHHHHH
+Q 5GKY_1_Chains_ 3996 FAHMMMKLAQDSSQIELLKELLD-------LQKDMVVMLLSLLEGNVVNGMIARQMVDML 4048 (5037)
+Q Consensus      3996 FAhM~~KLsqdssQi~LLkElL~-------LQKdmivmlLSmLEGNVvNGtIgkQMVD~L 4048 (5037)
+                      +.+...+..-...++.-+...++       +...-..-.+..+.++-.+.....++.+.+
+T Consensus        12 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   71 (189)
+T c2l2eA_          12 LQDLVRSTRFDKKELQQWYKGFFKDCPSGHLNKSEFQKIYKQFFPFGDPSAFAEYVFNVF   71 (189)
+T ss_dssp             HHHHHHHHCSCSHHHHHHHHHHHHHSCCCEECHHHHHHHHHHHCCCSCHHHHHHHHHHHH
+T ss_pred             HHHHHHHcCCCHHHHHHHHHHHHHhCCCCCcCHHHHHHHHHHHcCCCCcHHHHHHHHHHh
+
+
+Q ss_pred             hhccccHHHHHHHHHHHHHHHhhhcCch----hhhhccCCCccccHHHHHHHHhh-----
+Q 5GKY_1_Chains_ 4049 VESSSNVEMILKFFDMFLKLKDIVGSEA----FQDYVTDPRGLISKKDFQKAMDS----- 4099 (5037)
+Q Consensus      4049 VESssNVEmILKffDMFLKLKdlt~S~a----F~~yd~~~~G~IS~kdFqkaMes----- 4099 (5037)
+                      -......--...|...+..+..-...+.    |..+|.|++|.|+..+|...+..     
+T Consensus        72 ~~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~f~~~d~~~~~~l~~~~~~~~~~~~~~~~  131 (189)
+T c2l2eA_          72 DADKNGYIDFKEFICALSVTSRGELNDKLIWAFQLYDLDNNGLISYDEMLRIVDAIYKMV  131 (189)
+T ss_dssp             CSSSTTCEEHHHHHHHHTTSSCSCSHHHHHHHHHHHCTTSCSCBCHHHHHHHHHHHHHHH
+T ss_pred             CCCCCCcCcHHHHHHHHHHhcCCCHHHHHHhHhhhcCCCCCCcCcHHHHHHHHHHHHHHc
+
+
+Q ss_pred             --------hhccCHHHHhhhhhhhCCCccccccHHHHHHhhhc
+Q 5GKY_1_Chains_ 4100 --------QKQFTGPEIQFLLSCSEADENEMINFEEFANRFQE 4134 (5037)
+Q Consensus      4100 --------qK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~e 4134 (5037)
+                              ....+.+++..++...+.+.+|.|+|.+|...+..
+T Consensus       132 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~f~~~~~~  174 (189)
+T c2l2eA_         132 GSMVKLPEDEDTPEKRVNKIFNMMDKNKDGQLTLEEFCEGSKR  174 (189)
+T ss_dssp             HHHS--CSSCCCTHHHHHHHHHHHTCCSSCCBCHHHHHHHHHT
+T ss_pred             CCcccCcccchhHHHHHHHHHHHhCCCCCCccCHHHHHHHHhc
+
+

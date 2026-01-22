@@ -1,0 +1,38 @@
+12 c5c30A_ Probab=99.91  E-value=1.5e-25  Score=222.08  Aligned_cols=189  Identities=98%  Similarity=1.490  Sum_probs=0.0  Template_Neff=12.188
+
+Q ss_pred             eecChhHHHHHHHHHHhHHHHhcchhhhcccccccccccccccCccccchhhCCchhhcc
+Q 5GKY_1_Chains_  861 IVLPPHLERIREKLAENIHELWALTRIEQGWTYGPVRDDNKRLHPCLVNFHSLPEPERNY  920 (5037)
+Q Consensus       861 I~LP~~lE~IreKLAENiHELWam~KIE~GWtYG~vRDd~kr~HPCL~~F~kLPe~EknY  920 (5037)
+                      +.+|..++...++||+++|+.|+-.+++.||+||..++++.+.|||+..|+.||+..|.+
+T Consensus         1 ~~~~~~~~~~~~~~a~~~h~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~l~~~~k~~   60 (189)
+T c5c30A_           1 IVLPPHLERIREKLAENIHELWALTRIEQGWTYGPVRDDNKRLHPALVNFHSLPEPERNY   60 (189)
+T ss_pred             CCCChHHHHHHHHHHHHHHHHHHHHHHHcCCccCCccCcCcCCCCCccccCcCChhhhhh
+
+
+Q ss_pred             cceehhhhHHHHHhhhheeeecCCCchhhhhcccCCcccccCCCccCCCccchheeeChh
+Q 5GKY_1_Chains_  921 NLQMSGETLKTLLALGCHVGMADEKAEDNLKKTKLPKTYMMSNGYKPAPLDLSHVRLTPA  980 (5037)
+Q Consensus       921 Nlqma~eTLKTllALG~hi~~~~~~a~~rlkkikLpk~y~q~NGYKPaPLDls~v~Ltp~  980 (5037)
+                      |...+...++.|.++||.+..........++..+.+.++....||.|.|++.+.+.+++.
+T Consensus        61 ~~~~~~~~~~~l~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  120 (189)
+T c5c30A_          61 NLQMSGETLKTLLALGAHVGMADEKAEDNLKKTKLPKTYMMSNGYKPAPLDLSHVRLTPA  120 (189)
+T ss_pred             hhHHHHHHHHHHHHhCCceeeccccchhhhhhccCCccccccCCCCCCCCCCcccccCHH
+
+
+Q ss_pred             hHHHHHHHhhcccchhHHHHhhcCccccccccccccCCCccccHhhhhHHHHhhhhHHHH
+Q 5GKY_1_Chains_  981 QTTLVDRLAENGHNVWARDRVAQGWSYSAVQDIPARRNPRLVPYRLLDEATKRSNRDSLC 1040 (5037)
+Q Consensus       981 ~e~LVd~LAENtHNvWArdRI~qGWTYg~~qD~~~kRsP~LVPY~llDe~~KksNRDs~~ 1040 (5037)
+                      ...+++.||++.|+.|+++++..||+||     +.+.+|.||||..|++..|..+|+.+.
+T Consensus       121 ~~~~~~~l~~~~h~~w~~~~~~~gw~~~-----~~~~~~~l~~~~~l~~~~~~~~~~~~~  175 (189)
+T c5c30A_         121 QTTLVDRLAENGHNVWARDRVAQGWSYS-----PARRNPRLVPYRLLDEATKRSNRDSLA  175 (189)
+T ss_pred             HHHHHHHHHhhhHHHHHHHHHHhhcccC-----CCCCCCcccccccCCHHHHHhhHHHHH
+
+
+Q ss_pred             HHHHHHHhcceecC
+Q 5GKY_1_Chains_ 1041 QAVRTLLGYGYNIE 1054 (5037)
+Q Consensus      1041 EaVRTLl~YGY~lE 1054 (5037)
+                      ++++.|...||.++
+T Consensus       176 ~~~~~l~~~~~~~~  189 (189)
+T c5c30A_         176 QAVRTLLGYGYNIE  189 (189)
+T ss_pred             HHHHHHHHcCCccC
+
+

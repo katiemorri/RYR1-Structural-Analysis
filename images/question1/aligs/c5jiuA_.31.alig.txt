@@ -1,0 +1,32 @@
+31 c5jiuA_ Probab=99.03  E-value=1e-10  Score=113.94  Aligned_cols=139  Identities=29%  Similarity=0.637  Sum_probs=0.0  Template_Neff=12.590
+
+Q ss_pred             eccceee--ecCeeEEEEEeec---ccceeeeeeCCCCCCccccCcccceeeecchhhhh
+Q 5GKY_1_Chains_ 1077 AEKSYTV--QSGRWYFEFEAVT---TGEMRVGWARPELRPDVELGADELAYVFNGHRGQR 1131 (5037)
+Q Consensus      1077 ~EktYAV--~~GKWYFEFE~vT---~G~MRVGWarp~~~pd~eLGsDd~sy~FdG~~~~k 1131 (5037)
+                      +-.+.++  ..|+||||+++..   .|.+.+||+......+..+|.+..+|.+....+..
+T Consensus        62 ~~~~~~~~~~~~~~~~e~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~~~~~~  121 (209)
+T c5jiuA_          62 VRATHPIPAACGIYYFEVKIVSKGRDGYMGIGLSAQGVNMNRLPGWDKHSYGYHGDDGHS  121 (209)
+T ss_dssp             EEESS---GGGSEEEEEEEEEEETTTCCCEEEEECTTCCSSSCTTSSTTEEEEETTTCEE
+T ss_pred             EEeCCcCCCCCCCEEEEEEEEeCCCCCeEEEEEeeCCCCCCCCCCCCCCEEEEEcCCCcE
+
+
+Q ss_pred             hccCC--CccccccccCCEEEEEEeccCceEEEEEcceEEEcCCCceeeecceeccCcce
+Q 5GKY_1_Chains_ 1132 WHLGS--EPFGRPWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEIGDGFL 1189 (5037)
+Q Consensus      1132 wH~G~--e~fGr~Wq~GDVVGCmiDl~d~tisFtLNGElL~d~~GsE~AF~di~~gdGfv 1189 (5037)
+                      +|.+.  ..++..|..||+|||.+|+..++++|..||..+      ..+|.++  ...+.
+T Consensus       122 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~------~~~~~~~--~~~~~  173 (209)
+T c5jiuA_         122 FCSSGTGQPYGPTFTTGDVIGCCVNLINNTCFYTKNGHSL------GIAFTDL--PPNLY  173 (209)
+T ss_dssp             EESSSSCEECSCCCCTTCEEEEEEETTTTEEEEEETTEEE------EEEECS----SS-E
+T ss_pred             EeCCCCCCccCCCCCCCCEEEEEEEeCCCEEEEEeCCcCc------cccccCC--CCCEe
+
+
+Q ss_pred             eeeee-CccceeeeeccccchhhHHHHhhhhccCCcceeeecCCCccccccc
+Q 5GKY_1_Chains_ 1190 PVCSL-GPGQVGHLNLGQDVSSLRFFAICGLQEGFEPFAINMQRPVTTWFSK 1240 (5037)
+Q Consensus      1190 PvcsL-G~gQ~gRlNlGqDvsslkyFT~CGLQEGyEPF~VNM~R~~tmW~sK 1240 (5037)
+                      |++++ +.++...+|+|+                 .||..+|..-+.+|.+|
+T Consensus       174 p~~~~~~~~~~~~~~~~~-----------------~~~~~~~~~~~~~~~~~  208 (209)
+T c5jiuA_         174 PTVGLQTPGEVVDANFGQ-----------------HPFVFDIEDYMREWRTK  208 (209)
+T ss_dssp             EEEEECSTTEEEEEESSS-----------------SCCSSCHHHHHHHHHHH
+T ss_pred             eEEEEecCCCEEEEECCC-----------------CCceECHHHHHHHHHhc
+
+

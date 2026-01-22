@@ -1,0 +1,12 @@
+276 c7kznG_ Probab=92.50  E-value=0.031  Score=48.13  Aligned_cols=56  Identities=25%  Similarity=0.450  Sum_probs=0.0  Template_Neff=12.871
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhh-hhccCHHHHhhhhhhhCCCccccccHHHHHH
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDS-QKQFTGPEIQFLLSCSEADENEMINFEEFAN 4130 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMes-qK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~ 4130 (5037)
+                      .+|..+|.|++|.|+.++|+.+|.. ....+.+++.-++.+...+.+|.|+|.+|+.
+T Consensus        11 ~~f~~~d~~~~g~i~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~f~~   67 (138)
+T c7kznG_          11 KAFAMFDKDGSGTIDTKELRTALSALGQNPTEEDMFVMISQVDQDGSRCIEFKEFVR   67 (138)
+T ss_dssp             HHHHHHSCSSCSSBCHHHHHHHHHHTTCCCCTTHHHHHHHHHCCSSCSSBCHHHHHH
+T ss_pred             HHHHHHCCCCCCcCcHHHHHHHHHHcCCCCCHHHHHHHHHHHcCCCCCcCCHHHHHH
+
+

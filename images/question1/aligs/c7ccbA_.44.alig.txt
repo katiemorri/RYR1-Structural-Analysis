@@ -1,0 +1,32 @@
+44 c7ccbA_ Probab=98.87  E-value=1.2e-09  Score=104.71  Aligned_cols=131  Identities=23%  Similarity=0.279  Sum_probs=0.0  Template_Neff=12.017
+
+Q ss_pred             eccceeeecCeeEEEEEeecccceeeeeeCCCCCCcccc-CcccceeeecchhhhhhccC
+Q 5GKY_1_Chains_ 1077 AEKSYTVQSGRWYFEFEAVTTGEMRVGWARPELRPDVEL-GADELAYVFNGHRGQRWHLG 1135 (5037)
+Q Consensus      1077 ~EktYAV~~GKWYFEFE~vT~G~MRVGWarp~~~pd~eL-GsDd~sy~FdG~~~~kwH~G 1135 (5037)
+                      +..+..++.|+||||+++...|.+.|||+.......... |.+..+|.+. ..+..||.+
+T Consensus        28 ~~~~~~~~~~~~~~ev~~~~~~~~~~G~~~~~~~~~~~~~g~~~~~~~~~-~~g~~~~~~   86 (164)
+T c7ccbA_          28 CLASAPLHQNKSYFEFKIQSTGIWGIGVATQKVNLNQIPLGRDMHSLVMR-NDGALYHNN   86 (164)
+T ss_dssp             EEESSCCCSSSEEEEEEEEECSEEEEEEECTTCCTTSCSSCSSTTEEEEE-TTSEEEETT
+T ss_pred             EEeCCcccCCcEEEEEEEeeCceEEEEEecCcCCcccCccccCCCCEeEc-CCCcEEECC
+
+
+Q ss_pred             C-Ccccc---ccccCCEEEEEEeccCceEEEEEcceEEEcCCCceeeecceeccCcceee
+Q 5GKY_1_Chains_ 1136 S-EPFGR---PWQSGDVVGCMIDLTENTIIFTLNGEVLMSDSGSETAFREIEIGDGFLPV 1191 (5037)
+Q Consensus      1136 ~-e~fGr---~Wq~GDVVGCmiDl~d~tisFtLNGElL~d~~GsE~AF~di~~gdGfvPv 1191 (5037)
+                      . ..++.   .|+.||+|||.+|  -..+.|..||+.+-.      +|+.+.-.  +.|+
+T Consensus        87 ~~~~~~~~~~~~~~~~~vg~~~~--~~~~~~~~ng~~~~~------~~~~~~~~--~~p~  136 (164)
+T c7ccbA_          87 EEKNRLPANSLPQEGDVVGITYD--HVELNVYLNGKNMHC------PASGIRGT--VYPV  136 (164)
+T ss_dssp             EEEEECCTTSCCCTT-EEEEEEC--SSEEEEEETTEECCC------CEECCSSC--CEEE
+T ss_pred             eeeeeccccCcCCCCCEEEEEEE--cCCCEEEECCEEccc------cccCCCCC--EEEE
+
+
+Q ss_pred             eeeCccceeeeeccccchhhHHHHhhhhccCCcce
+Q 5GKY_1_Chains_ 1192 CSLGPGQVGHLNLGQDVSSLRFFAICGLQEGFEPF 1226 (5037)
+Q Consensus      1192 csLG~gQ~gRlNlGqDvsslkyFT~CGLQEGyEPF 1226 (5037)
+                      ++++.++..++|+|    .++|    +...||.++
+T Consensus       137 ~~~~~~~~~~~~~~----~~~~----~~~~~~~~~  163 (164)
+T c7ccbA_         137 VYVDDSAILDCQFS----EFYH----TPPPGFEKI  163 (164)
+T ss_dssp             EEEETTCEEEEESS----SCSS-------TTCBCC
+T ss_pred             EEccCCcEEEEEcC----CCcc----CCCCCcccc
+
+

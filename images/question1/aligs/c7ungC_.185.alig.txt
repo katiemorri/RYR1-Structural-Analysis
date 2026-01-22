@@ -1,0 +1,12 @@
+185 c7ungC_ Probab=87.48  E-value=0.12  Score=57.80  Aligned_cols=59  Identities=29%  Similarity=0.509  Sum_probs=0.0  Template_Neff=10.260
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhh-hhccCHHHHhhhhhhhCCCccccccHHHHHHhhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDS-QKQFTGPEIQFLLSCSEADENEMINFEEFANRFQ 4133 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMes-qK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~ 4133 (5037)
+                      .+|..||.|.+|+|+..+|+..|.. .-.++.++++-|+.+.+.+.+|.|+|.+|+.-+.
+T Consensus       329 ~~~~~~d~~~~g~i~~~~~~~~~~~~~~~~~~~~~~~l~~~~~~~~~~~i~~~~f~~~~~  388 (446)
+T c7ungC_         329 AAFRHYDKKGDGMIDKDELQEACDQANLSLDDKLLDQLFDYCDVDNDGFINYLEFANFLN  388 (446)
+T ss_dssp             HHHHHHCCSCSSSBCHHHHHHHHHHTTCCCCHHHHHHHHHHHCCSCSSSBCHHHHHHHSS
+T ss_pred             HHHHHhCCCCCCcCcHHHHHHHHHHcCCCCCHHHHHHHHHHhCCCCCCcEeHHHHHHHHH
+
+

@@ -1,0 +1,32 @@
+141 c8jqrD_ Probab=85.76  E-value=2.8  Score=44.65  Aligned_cols=151  Identities=13%  Similarity=0.210  Sum_probs=0.0  Template_Neff=11.976
+
+Q ss_pred             hHHHHHHHHHHHHcccchHHHHHHHHHHHhhhHHHHHHHHHhccc-hHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4789 FLYLGWYMVMSLLGHYNNFFFAAHLLDIAMGVKTLRTILSSVTHN-GKQLVMTVGLLAVV 4847 (5037)
+Q Consensus      4789 FLYl~wY~~~S~lG~~nnFFfAaHLLDvamgfktLRtILsSVTHN-gkQlvlTv~Ll~VV 4847 (5037)
+                      ..+..+......++.+.-|+--..++-++.+++.++.++..+.+= -+.+.--+.+++++
+T Consensus       331 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  390 (531)
+T c8jqrD_         331 VLYFSHLKEYVASMVFSLALGWTNMLYYTRGFQQMGIYAVMIEKMILRDLCRFMFVYIVF  390 (531)
+T ss_dssp             HHHHTTCTTHHHHHHHHHHHHHHGGGGGGTTSHHHHHHHHHHHHHCCCCCHHHHHHHHHH
+T ss_pred             HHHHhhHHHHHHHHHHHHHHHHHHHHHHHHhhhhhcHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHHhhccccCCCCccchhhhHHHHHHHHHhhhhcCCccccccCCCCCC
+Q 5GKY_1_Chains_ 4848 VYLYTVVAFNFFRKFYNKSEDEDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIEDPAGD 4907 (5037)
+Q Consensus      4848 VYLYTVvAFNFFRKFY~k~ed~depD~KC~dM~TCy~fHmY~GVRAGGGIGDEIEdP~GD 4907 (5037)
+                      ++.|.+..+-+|         .+.-.--=+-|.|+|..=+        |.+|--..+..+
+T Consensus       391 ~~~f~~~~~~l~---------~~~~~~~~~~~~~~~~~~~--------~~~~~~~~~~~~  433 (531)
+T c8jqrD_         391 LFGFSTAVVTLI---------EDSYNSLYSTCLELFKFTI--------GMGDLEFTENYD  433 (531)
+T ss_dssp             HHHHHHHHHHHB---------CSSSCSHHHHHHHHHHTTT--------TCCCSCSCCCBS
+T ss_pred             HHHHHHHHHHHH---------cCCCCcHHHHHHHHHHHHH--------hCCCcchhcccc
+
+
+Q ss_pred             cchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhh--------HHHHHHHhhhcc
+Q 5GKY_1_Chains_ 4908 EYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRD--------QQEQVKEDMETK 4957 (5037)
+Q Consensus      4908 eyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRD--------QqEqvkEdmEtk 4957 (5037)
+                      ..-+-.++| ++|.||+.++|+-++-|.+.|+|...++        |+.++--++|..
+T Consensus       434 ~~~~~~~~~-~~~~~~~~~~l~n~lia~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  490 (531)
+T c8jqrD_         434 FKAVFIILL-LAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKS  490 (531)
+T ss_dssp             CHHHHHHHH-HHHCCCCCCCCCHHHHHHHHHHHHHHTTTHHHHHHHHHHHHHHHHHHH
+T ss_pred             ccHHHHHHH-HHHHHHHHHHHHHHHHHHHHHHHHHHHHhHHHHHHHHHHHHHHHHHHH
+
+

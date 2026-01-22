@@ -1,0 +1,32 @@
+99 c8we8A_ Probab=92.76  E-value=0.17  Score=61.54  Aligned_cols=165  Identities=13%  Similarity=0.189  Sum_probs=0.0  Template_Neff=11.791
+
+Q ss_pred             hHHHHHHHHHHHHcccchHHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4789 FLYLGWYMVMSLLGHYNNFFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVV 4848 (5037)
+Q Consensus      4789 FLYl~wY~~~S~lG~~nnFFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVV 4848 (5037)
+                      .+.++........-....++-...++-+.-.+++||.++.++..-.+.+.-...++.+++
+T Consensus       976 ~~~~~~~~~~~~~~~~~~~~~~~r~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1035 (1261)
+T c8we8A_         976 IGSIIDVILSETSITFFRLFRVMRLVKLLSRGEGIRTLLWTFIKSFQALPYVALLIVMLF 1035 (1261)
+T ss_dssp             HHHHHHHHHHSSSCSSGGGHHHHTTHHHHTTSHHHHHHHHHHHHHHHHCCHHHHHHHHHH
+T ss_pred             HHHHHHHHhhhhhHHHHHHHHHHHHHHHHhhhhHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHhhccccCCCCccchhhhHHHHHH------------HHHhhhhcCCc
+Q 5GKY_1_Chains_ 4849 YLYTVVAFNFFRKFYNKSEDEDEPDMKCDDMMTCYLF------------HMYVGVRAGGG 4896 (5037)
+Q Consensus      4849 YLYTVvAFNFFRKFY~k~ed~depD~KC~dM~TCy~f------------HmY~GVRAGGG 4896 (5037)
+                      |+|.+++..+|.+......+...++..-++...-++.            -|+....+-+.
+T Consensus      1036 ~~~~~~~~~~f~~~~~~~~~~~~~~~~f~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~ 1095 (1261)
+T c8we8A_        1036 FIYAVIGMQVFGKIALNDTTEINRNNNFQTFPQAVLLLFRCATGEAWQDIMLACMPGKKC 1095 (1261)
+T ss_dssp             HHHHHHHHHHHTTBCCCTTSSSSSSSCSSSHHHHHHHHHHHHHTSSHHHHHHHTSSCBCB
+T ss_pred             HHHHHHHHHhccceeccCCCCCCCccccccHHHHHHHHHHHHcCCCHHHHHHHHccCCCC
+
+
+Q ss_pred             cccccCCCCCCcchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHHHHHh
+Q 5GKY_1_Chains_ 4897 IGDEIEDPAGDEYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQVKED 4953 (5037)
+Q Consensus      4897 IGDEIEdP~GDeyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEqvkEd 4953 (5037)
+                      -.+-.....++....+-.+|=++|.+++.+|++.++-|.|+|+|.+..++++..+++
+T Consensus      1096 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~n~~~~~~~~~~~~~~~~~~~~~~~ 1152 (1261)
+T c8we8A_        1096 APESETEGETPCGSSFAVFYFISFYMLCAFLIINLFVAVIMDNFDYLTRDWSILGPH 1152 (1261)
+T ss_dssp             CTTSCSSCSSCBCCTTHHHHHHHHHHHHHHHHHHHHHHHHHHSHHHHSCCTTSCCHH
+T ss_pred             CCcccCCCCCCCCcchHHHHHHHHHHHHHHHHHHHHHHHHHHhhhhhhcccccCCHH
+
+

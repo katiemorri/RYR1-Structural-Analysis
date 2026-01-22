@@ -1,0 +1,12 @@
+246 c5sy1D_ Probab=94.12  E-value=0.012  Score=48.34  Aligned_cols=59  Identities=24%  Similarity=0.486  Sum_probs=0.0  Template_Neff=14.185
+
+Q ss_pred             hhhhhccCCCccccHHHHHHHHhh-hhccCHHHHhhhhhhhCCCccccccHHHHHHhhhc
+Q 5GKY_1_Chains_ 4076 AFQDYVTDPRGLISKKDFQKAMDS-QKQFTGPEIQFLLSCSEADENEMINFEEFANRFQE 4134 (5037)
+Q Consensus      4076 aF~~yd~~~~G~IS~kdFqkaMes-qK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~e 4134 (5037)
+                      .|..+|.+.+|.|+..+|...+.. +...+++++.-++...+.+.+|.|+|.+|...+..
+T Consensus        88 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~f~~~~~~  147 (147)
+T c5sy1D_          88 AFRVFDKDGNGFISAAELRHVMTNLGEKLTDEEVDEMIREADIDGDGQVNYEEFVTMMTS  147 (147)
+T ss_dssp             HHHHHCSSSSSCBCHHHHHHHHHHTTCCSCHHHHHHHHTTSCTTSSSSBCTTHHHHHHHC
+T ss_pred             HHHHHccCCCCcCcHHHHHHHHHHHccccCHHHHHHHHHHhCCCCCCeeeHHHHHHHHhC
+
+

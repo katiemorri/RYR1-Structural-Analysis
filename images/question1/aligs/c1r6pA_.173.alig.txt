@@ -1,0 +1,20 @@
+173 c1r6pA_ Probab=89.30  E-value=0.094  Score=37.50  Aligned_cols=64  Identities=27%  Similarity=0.407  Sum_probs=0.0  Template_Neff=14.755
+
+Q ss_pred             chhhhhccC-CCccccHHHHHHHHhhh-hccCHHHHhhhhhhhCCCccccccHHHHHHhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTD-PRGLISKKDFQKAMDSQ-KQFTGPEIQFLLSCSEADENEMINFEEFANRF 4132 (5037)
+Q Consensus      4075 ~aF~~yd~~-~~G~IS~kdFqkaMesq-K~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF 4132 (5037)
+                      ..|..+|.+ .+|.++..+|...+... ...+..++..++.+...+.++.++|.+|..-+
+T Consensus        22 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   81 (89)
+T c1r6pA_          22 AAFDIFIQDAEDGCISTKELGKVMRMLGQNPTPEELQEMIDEVDEDGSGTVDFDEFLVMM   81 (89)
+T ss_pred             HHHHHHhccCCCCeeeHHHHHHHHHHhCCCCCHHHHHHHHHHhcCCCCCeeeHHHHHHHH
+
+
+Q ss_pred             hchhhh
+Q 5GKY_1_Chains_ 4133 QEPARD 4138 (5037)
+Q Consensus      4133 ~ePAkd 4138 (5037)
+                      ..-.++
+T Consensus        82 ~~~~~~   87 (89)
+T c1r6pA_          82 VRCMKD   87 (89)
+T ss_pred             HHHhhc
+
+

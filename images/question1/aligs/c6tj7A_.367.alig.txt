@@ -1,0 +1,12 @@
+367 c6tj7A_ Probab=93.36  E-value=0.02  Score=45.48  Aligned_cols=58  Identities=19%  Similarity=0.408  Sum_probs=0.0  Template_Neff=14.460
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhhh-ccCHHHHhhhhhhhCCCccccccHHHHHHhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQK-QFTGPEIQFLLSCSEADENEMINFEEFANRF 4132 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesqK-~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF 4132 (5037)
+                      ..|..+|.+.+|.|+..+|...+.... ..+.+++.-++.+.+.+.+|.|+|.+|...+
+T Consensus        75 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~  133 (134)
+T c6tj7A_          75 KLFAPFDRKNDGTISTEELAQVMKTLCSSMTEEDIDHLIKQADPNNSGNIKYAEFVHQC  133 (134)
+T ss_dssp             HHTGGGCTTSSSEEEHHHHHHHHHHHCSSCCHHHHHHHHHHHSTTCCSEEEHHHHHHHH
+T ss_pred             HHHHHhCCCCCCCCCHHHHHHHHHHhCCCCCHHHHHHHHHHcCCCCCCceeHHHHHHHh
+
+

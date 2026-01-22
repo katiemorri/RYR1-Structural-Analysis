@@ -1,0 +1,32 @@
+105 c6uw4C_ Probab=89.84  E-value=1.5  Score=48.02  Aligned_cols=152  Identities=14%  Similarity=0.177  Sum_probs=0.0  Template_Neff=11.803
+
+Q ss_pred             hHHHHHHHHHHHHcccchHHHHHHHHHHHhhhHHHHHHHHHhccc-hHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4789 FLYLGWYMVMSLLGHYNNFFFAAHLLDIAMGVKTLRTILSSVTHN-GKQLVMTVGLLAVV 4847 (5037)
+Q Consensus      4789 FLYl~wY~~~S~lG~~nnFFfAaHLLDvamgfktLRtILsSVTHN-gkQlvlTv~Ll~VV 4847 (5037)
+                      +.|+.++..........-+|-...+|-...++++|+-.+..+++- -+.++--++++.++
+T Consensus       397 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~g~~~~~~~~~~~~~~~~~~~~~~~~  456 (603)
+T c6uw4C_         397 FLYLFAYKEYLACLVLAMALGWANMLYYTRGFQSMGMYSVMIQKVILHDVLKFLFVYIVF  456 (603)
+T ss_dssp             HHHTTTCSTHHHHHHHHHHHHHHGGGGGGTTSHHHHHHHHHHHHHCCCCCHHHHHHHHHH
+T ss_pred             HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhhhhHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHHhhccccCCCCccchhhhHHHHHHHHHhhhhcCCccccccCCCCCC
+Q 5GKY_1_Chains_ 4848 VYLYTVVAFNFFRKFYNKSEDEDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIEDPAGD 4907 (5037)
+Q Consensus      4848 VYLYTVvAFNFFRKFY~k~ed~depD~KC~dM~TCy~fHmY~GVRAGGGIGDEIEdP~GD 4907 (5037)
+                      +..|.+..+..|     ...+...-+.=-.-+.+.|.  |.+|       .++......+
+T Consensus       457 ~~~f~~~~~~~~-----~~~~~~~~~~~~~~~~~~~~--~~~~-------~~~~~~~~~~  502 (603)
+T c6uw4C_         457 LLGFGVALASLI-----EKKDCSSYGSFSDAVLELFK--LTIG-------LGDLNIQQNS  502 (603)
+T ss_dssp             HHHHHHHHHHTB-----CSSSCCSCSSHHHHHHHHHH--HHTT-------CSCCCCCCSB
+T ss_pred             HHHHHHHHHHHH-----cCcCCCccCCHHHHHHHHHH--HHHh-------cCCCCcccCc
+
+
+Q ss_pred             cchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHHHHHhh
+Q 5GKY_1_Chains_ 4908 EYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQVKEDM 4954 (5037)
+Q Consensus      4908 eyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEqvkEdm 4954 (5037)
+                      .+.....+|=+.|.+++-|||+=++-|++.|.|.+..++-|....-+
+T Consensus       503 ~~~~~~~~~~~~~~~~~~~~l~nlli~~~~~~~~~~~~~~~~~~~~~  549 (603)
+T c6uw4C_         503 KYPILFLFLLITYVILTFVLLLNMLIALMGETVENVSKESERIWRLQ  549 (603)
+T ss_dssp             SCHHHHHHHHHHHHCCCCCCCHHHHHHHHHHHHHHHTTTHHHHHHHH
+T ss_pred             cccHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+

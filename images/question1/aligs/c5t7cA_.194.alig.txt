@@ -1,0 +1,32 @@
+194 c5t7cA_ Probab=94.41  E-value=0.032  Score=48.26  Aligned_cols=129  Identities=12%  Similarity=0.176  Sum_probs=0.0  Template_Neff=13.862
+
+Q ss_pred             ChhHHHHHHHHHHhHHHHHHHHHHHhcCccccchHHHHHHHHHhhccccHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4006 DSSQIELLKELLDLQKDMVVMLLSLLEGNVVNGMIARQMVDMLVESSSNVEMILKFFDMF 4065 (5037)
+Q Consensus      4006 dssQi~LLkElL~LQKdmivmlLSmLEGNVvNGtIgkQMVD~LVESssNVEmILKffDMF 4065 (5037)
+                      ....++.+++...+...-+.-+...+..+.-+|.|...=.-..+.+......--.+.+.+
+T Consensus         8 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~~   67 (185)
+T c5t7cA_           8 RPEVLQDLRENTEFTDHELQEWYKGFLKDCPTGHLTVDEFKKIYANFFPYGDASKFAEHV   67 (185)
+T ss_dssp             SGGGGGCCTTSSCSCCHHHHHHHHHHHTSSSSCCBCSHHHHHHHHHSSCSSCHHHHHHHH
+T ss_pred             CHHHHHHHHHhcCCCHHHHHHHHHHHHHHCCCCCcCHHHHHHHHHHHCCCcchHHHHHHH
+
+
+Q ss_pred             HHHHhhhcCch-------------------------hhhhccCCCccccHHHHHHHHhh-
+Q 5GKY_1_Chains_ 4066 LKLKDIVGSEA-------------------------FQDYVTDPRGLISKKDFQKAMDS- 4099 (5037)
+Q Consensus      4066 LKLKdlt~S~a-------------------------F~~yd~~~~G~IS~kdFqkaMes- 4099 (5037)
+                      .+.-|......                         |..||+|++|.|+..+|+.++.. 
+T Consensus        68 ~~~~d~~~~~~i~~~~~~~~~~~~~~~~~~~~~~~~f~~~d~~~~g~i~~~~~~~~~~~~  127 (185)
+T c5t7cA_          68 FRTFDTNGDGTIDFREFIIALSVTSRGKLEQKLKWAFSMYDLDGNGYISRSEMLEIVQAI  127 (185)
+T ss_dssp             HHHSCCSSSC-B-HHHHHHHHSCCCSSCHHHHHHHHHTTCCSSSSSCCCHHHHHHHHHHH
+T ss_pred             HHHhccCCCCeEeHHHHHHHHHHhcCCCHHHHHHHHHhheecCCCCeEcHHHHHHHHHHH
+
+
+Q ss_pred             ------------hhccCHHHHhhhhhhhCCCccccccHHHHHHhhhc
+Q 5GKY_1_Chains_ 4100 ------------QKQFTGPEIQFLLSCSEADENEMINFEEFANRFQE 4134 (5037)
+Q Consensus      4100 ------------qK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF~e 4134 (5037)
+                                  ....+.+++.-++...+.+.+|.|+|.+|...+..
+T Consensus       128 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~i~~~ef~~~~~~  174 (185)
+T c5t7cA_         128 YKMVSSVMKMPEDESTPEKRTDKIFRQMDTNNDGKLSLEEFIRGAKS  174 (185)
+T ss_dssp             HHHHCCCSSCCCCCCCSHHHHHHHHHHHCCCCSSCCCSHHHHHHHHS
+T ss_pred             HHHhhhhcccchhhhhHHHHHHHHHHHhCCCCCCcCcHHHHHHHHhc
+
+

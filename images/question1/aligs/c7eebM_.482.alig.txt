@@ -1,0 +1,11 @@
+482 c7eebM_ Probab=93.84  E-value=0.014  Score=55.86  Aligned_cols=58  Identities=12%  Similarity=0.148  Sum_probs=0.0  Template_Neff=11.260
+
+Q ss_pred             chhhhhccCCCccccHHHHHHHHhhhhccCHHHHhhhhhhhCCCccccccHHHHHHhh
+Q 5GKY_1_Chains_ 4075 EAFQDYVTDPRGLISKKDFQKAMDSQKQFTGPEIQFLLSCSEADENEMINFEEFANRF 4132 (5037)
+Q Consensus      4075 ~aF~~yd~~~~G~IS~kdFqkaMesqK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF 4132 (5037)
+                      .+|..+|+|.+|.|+.++|...|......+.+++.-++.-.+.+.+|.|+|.+|...+
+T Consensus        31 ~~F~~~d~~~~g~i~~~~~~~~l~~~~~~~~~~~~~l~~~~d~~~~g~i~~~ef~~~~   88 (174)
+T c7eebM_          31 VYFHLLDVHHRNTLNDVLFFHFLQHVTNLNKSQIGMIFDLLDWTAVGEIGFDQFYVLI   88 (174)
+T ss_pred             HHHHHhCCCCCCcCcHHHHHHHHHHcCCCCHHHHHHHHHHhCCCCCCcEeHHHHHHHH
+
+

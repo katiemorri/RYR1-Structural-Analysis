@@ -1,0 +1,10 @@
+331 c8osiA_ Probab=86.32  E-value=0.036  Score=62.62  Aligned_cols=59  Identities=22%  Similarity=0.392  Sum_probs=0.0  Template_Neff=9.512
+
+Q ss_pred             CchhhhhccCCCccccHHHHHHHHhh-hhccCHHHHhhhhhhhCCCccccccHHHHHHhh
+Q 5GKY_1_Chains_ 4074 SEAFQDYVTDPRGLISKKDFQKAMDS-QKQFTGPEIQFLLSCSEADENEMINFEEFANRF 4132 (5037)
+Q Consensus      4074 S~aF~~yd~~~~G~IS~kdFqkaMes-qK~yt~~Ei~fLlsC~e~d~~~~idy~eF~~rF 4132 (5037)
+                      ..+|..+|+|+||.|+.+||++++.. ....+.++++-++...+.|.+|.|+|.+|...+
+T Consensus       221 ~~~f~~~d~~~~g~i~~~e~~~~~~~~~~~~~~~~~~~~~~~~d~~~~g~i~~~ef~~~~  280 (400)
+T c8osiA_         221 RELCKVFDRDNDGFIVAAELRHAMTSIGEELTDDEVDEMIREADQDGDGRIDYNEFVQLK  280 (400)
+
+

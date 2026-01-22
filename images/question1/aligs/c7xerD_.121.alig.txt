@@ -1,0 +1,42 @@
+121 c7xerD_ Probab=92.39  E-value=0.23  Score=54.46  Aligned_cols=162  Identities=12%  Similarity=0.046  Sum_probs=0.0  Template_Neff=12.196
+
+Q ss_pred             HHHHHHHHHHHHcccchHHHHHHHHHHHhhhHHHHHHHHHhcc-chHHHHHHHHHHHHHH
+Q 5GKY_1_Chains_ 4790 LYLGWYMVMSLLGHYNNFFFAAHLLDIAMGVKTLRTILSSVTH-NGKQLVMTVGLLAVVV 4848 (5037)
+Q Consensus      4790 LYl~wY~~~S~lG~~nnFFfAaHLLDvamgfktLRtILsSVTH-NgkQlvlTv~Ll~VVV 4848 (5037)
+                      ++..++-....+..+..++....++....+++++...+..+.+ =-+.++--..++++++
+T Consensus       407 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~  466 (614)
+T c7xerD_         407 LRFVETEWYLPLLVSSLVLGWLNLLYYTRGFQHTGIYSVMITKVILRDLLRFLLVYLVFL  466 (614)
+T ss_dssp             HHHHTCTTHHHHHHHHHHHHHHHHHHHTTTSHHHHHHHHHHHHHHHHTTHHHHHHHHHHH
+T ss_pred             HHHhcchHHHHHHHHHHHHHHHHHHHHHHHhHHHhHHHHHHHHHHHHHHHHHHHHHHHHH
+
+
+Q ss_pred             HHHHHHHHHHHHHHhhccccCCCCccchhhhHHHHHHHHHhhhhcCCccccccCCCCCCc
+Q 5GKY_1_Chains_ 4849 YLYTVVAFNFFRKFYNKSEDEDEPDMKCDDMMTCYLFHMYVGVRAGGGIGDEIEDPAGDE 4908 (5037)
+Q Consensus      4849 YLYTVvAFNFFRKFY~k~ed~depD~KC~dM~TCy~fHmY~GVRAGGGIGDEIEdP~GDe 4908 (5037)
+                      +.|.+..+..|+.-+.             .--.-+...++.-++.--| +.+.+..+...
+T Consensus       467 ~~f~~~~~~l~~~~~~-------------~~~~~~~~~~~~~~~~~~~-~~~~~~~~~~~  512 (614)
+T c7xerD_         467 FGFAVALVSLSREARP-------------VPYGGILDASLELFKFTIG-MGELAFQEQLR  512 (614)
+T ss_dssp             HHHHHHHHHSSCSBSS-------------SSSCSHHHHHHHHHHHHTT-CCCCCCCSSBS
+T ss_pred             HHHHHHHHhhhcCCcc-------------cchhhHHHHHHHHHHHHhc-ccchhcccccc
+
+
+Q ss_pred             chhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHHHHHH--------HhhhccceE
+Q 5GKY_1_Chains_ 4909 YELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQEQVK--------EDMETKCFI 4960 (5037)
+Q Consensus      4909 yE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQqEqvk--------EdmEtkCFI 4960 (5037)
+                      +..+-.++=++|.|++.|||+=++-|.+.|+|.+.+++-++.-        .+||.+.+.
+T Consensus       513 ~~~~~~~~~~~~~~~~~~~l~n~lia~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  572 (614)
+T c7xerD_         513 FRGVVLLLLLAYVLLTYVLLLNMLIALMSETVNSVATDSWSIWKLQKAISVLEMENGYWW  572 (614)
+T ss_dssp             CHHHHHHHHHHHCCCCCTTHHHHHHHHHHHHHHHTHHHHHHHHHHHHHHHHHHHHSCCSS
+T ss_pred             cccHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhHHHHHHHHHHHHHHHHhchhcc
+
+
+Q ss_pred             ecccc
+Q 5GKY_1_Chains_ 4961 CGIGS 4965 (5037)
+Q Consensus      4961 CgIG~ 4965 (5037)
+                      |-.++
+T Consensus       573 ~~~~~  577 (614)
+T c7xerD_         573 CRRKR  577 (614)
+T ss_dssp             CCCCC
+T ss_pred             ccccc
+
+

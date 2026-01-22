@@ -1,0 +1,32 @@
+226 c8j7fA_ Probab=90.47  E-value=0.5  Score=44.92  Aligned_cols=137  Identities=11%  Similarity=0.162  Sum_probs=0.0  Template_Neff=12.973
+
+Q ss_pred             hHHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhc
+Q 5GKY_1_Chains_ 4806 NFFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTVVAFNFFRKFYNK 4865 (5037)
+Q Consensus      4806 nFFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVYLYTVvAFNFFRKFY~k 4865 (5037)
+                      ..+-...++-+.-.++.+|.++.++.+..+.+.-.+.++++++++|.+++.++|+.-...
+T Consensus       115 ~~~r~~r~~~~~~~~~~l~~~~~~~~~~~~~~~~~~~~~~~~~~~~a~~~~~~~~~~~~~  174 (289)
+T c8j7fA_         115 RNLRAFRIFRLFKRIKSLNKIIVSLGKAIPGVANAFVIMVIIMCIYAILGVEFYHMTGSD  174 (289)
+T ss_dssp             GGGGGGGGGGHHHHSHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTTTTT
+T ss_pred             HHHHHHHHHHHHHhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHhcccCCC
+
+
+Q ss_pred             cccCCCCccch-----------------------------------hhhHHHHHHHHHhh
+Q 5GKY_1_Chains_ 4866 SEDEDEPDMKC-----------------------------------DDMMTCYLFHMYVG 4890 (5037)
+Q Consensus      4866 ~ed~depD~KC-----------------------------------~dM~TCy~fHmY~G 4890 (5037)
+                      ......++..+                                   ++....++.-+...
+T Consensus       175 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~f~~~~~~~~~~~~~~  234 (289)
+T c8j7fA_         175 GTYVTYNDNVKRGLCTGDEVELGQCSLNQTVSSETARGYTYGEEYYGTFFRALYTLFQVL  234 (289)
+T ss_dssp             SEEEEECCTTTTTSSCHHHHHHTSSCSEEEEECBCTTSSBHHHHHHSSHHHHHHHHHHHH
+T ss_pred             CeeecCCCccccccCCCccccCCcccccccccccccccCCCCCCCcccHHHHHHHHHHHH
+
+
+Q ss_pred             hhcCCc-cccccCCCCCCcchhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHh
+Q 5GKY_1_Chains_ 4891 VRAGGG-IGDEIEDPAGDEYELYRVVFDITFFFFVIVILLAIIQGLIIDAFGE 4942 (5037)
+Q Consensus      4891 VRAGGG-IGDEIEdP~GDeyE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGE 4942 (5037)
+                      ...|-+ |-+..-+..++.....-.+|=++|.++...+++.++-|.|+|+|.+
+T Consensus       235 ~~~~w~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~l~~a~~~~~~~~  287 (289)
+T c8j7fA_         235 TGESWSEAVARPAVFESHYDSFGPVLFYVSFIIICQIVLINVVVAVLLDKMVE  287 (289)
+T ss_dssp             HTTTCCCCCCHHHHHHSSSCTHHHHHHHHHHCCCCCCCCCHHHHHHHHHHHHH
+T ss_pred             ccCCHHHHHhhhhccCccccccchhhhhhHHHHHHHHHHHHHHHHHHHHHHhh
+
+

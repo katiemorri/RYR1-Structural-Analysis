@@ -1,0 +1,32 @@
+118 c5xsyA_ Probab=93.54  E-value=0.13  Score=62.30  Aligned_cols=140  Identities=14%  Similarity=0.259  Sum_probs=0.0  Template_Neff=11.505
+
+Q ss_pred             hHHHHHHHHHHHhhhHHHHHHHHHhccchHHHHHHHHHHHHHHHHHHHHHHHHHHHHhhc
+Q 5GKY_1_Chains_ 4806 NFFFAAHLLDIAMGVKTLRTILSSVTHNGKQLVMTVGLLAVVVYLYTVVAFNFFRKFYNK 4865 (5037)
+Q Consensus      4806 nFFfAaHLLDvamgfktLRtILsSVTHNgkQlvlTv~Ll~VVVYLYTVvAFNFFRKFY~k 4865 (5037)
+                      ..+-...++.+...++++|.++.++-...+.+.-.+.++.+++|+|.+++..+|.  +..
+T Consensus       982 ~~~~~~r~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--~~~ 1039 (1140)
+T c5xsyA_         982 RLARIARVLRLIRAAKGIRTLLFALMMSLPALFNIGLLLFLIMFIFSIFGMSNFA--YVK 1039 (1140)
+T ss_dssp             HGGGGGGGGGGHHHHSHHHHHHHHHHHTTTHHHHHHHHHHHHHHHHHHHHHHHHS--SCC
+T ss_pred             HHHHHHHHHHHHhhHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHc--ccc
+
+
+Q ss_pred             cccCCCCccchhhhHHHHHHHH------------HhhhhcCCccccccCCCCCCc-----
+Q 5GKY_1_Chains_ 4866 SEDEDEPDMKCDDMMTCYLFHM------------YVGVRAGGGIGDEIEDPAGDE----- 4908 (5037)
+Q Consensus      4866 ~ed~depD~KC~dM~TCy~fHm------------Y~GVRAGGGIGDEIEdP~GDe----- 4908 (5037)
+                      ......+...-++..+.++-=+            +..+..++-..++..++.|..     
+T Consensus      1040 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1099 (1140)
+T c5xsyA_        1040 KQGGVDDIFNFETFGNSMICLFEITTSAGWDGLLLPTLNTGPPDCDPDVENPGTDVRGNC 1099 (1140)
+T ss_dssp             CCTTCSSSSSSSSHHHHHHHHHHHHTTCSHHHHHHHHHCCSSSSCCCSCBCSSSSCBCCC
+T ss_pred             cCCCCCcccchhhHHHHHHHHHHHHhhCCHHHHHHHHhccCCCCCCccccccCCCCCCCC
+
+
+Q ss_pred             -chhhhhhhhHHHHHHHHHHHHHHHhhHHHhHHHhhhhHH
+Q 5GKY_1_Chains_ 4909 -YELYRVVFDITFFFFVIVILLAIIQGLIIDAFGELRDQQ 4947 (5037)
+Q Consensus      4909 -yE~yRi~fDItFFFFVIvILLAIiQGLIIDAFGELRDQq 4947 (5037)
+                       ......+|=++|++++.++++.++.|.|+|+|++.++++
+T Consensus      1100 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1139 (1140)
+T c5xsyA_        1100 GNPGKGITFFCSYIILSFLVVVNMYIAIILENFGVAQEES 1139 (1140)
+T ss_dssp             CCHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHTTHHHHHH
+T ss_pred             CCcchHHHhhhhHHHHHHHHHHHHHHHHHHHHHhhhhhcc
+
+
